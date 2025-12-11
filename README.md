@@ -53,5 +53,7 @@ Top state: Maharashtra (473 orders)
 
 Top products: Toothpaste, Bucket, Dinner Plate Set, Hand Wash, Mop
 
+<img width="2809" height="1367" alt="image" src="https://github.com/user-attachments/assets/54f9c18c-2d8b-4675-8897-3e388e6987fc" />
+
 
 
