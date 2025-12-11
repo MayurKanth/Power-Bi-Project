@@ -38,3 +38,18 @@ Qty per Order = DIVIDE([Total Qty],[Total Orders])
 % Share (Shipments) = DIVIDE([Total Orders], CALCULATE([Total Orders], ALL('DispatchData'[Delivery_Partner])))
 
 Value % Share = DIVIDE([Total Shipment Value], CALCULATE([Total Shipment Value], ALL('DispatchData'[Delivery_Partner])))
+
+## Key Insights 
+
+Total Orders: 1,999
+
+Total Qty: 5,071
+
+Total Shipment Value: ₹5.2M
+
+Top courier by volume & value: Ekart (~40%)
+
+Top state: Maharashtra (473 orders)
+
+Top products: Toothpaste, Bucket, Dinner Plate Set, Hand Wash, Mop
+
