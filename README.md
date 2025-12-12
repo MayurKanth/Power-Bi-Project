@@ -25,19 +25,16 @@ A cleaned and anonymized sample dataset is included in `data/sample_dispatch_dat
 
 ## Key DAX Measures (examples)
 DAX
-Total Orders = COUNTROWS('DispatchData')
+Total Orders = CALCULATE(COUNTROWS(DISTINCT(ecommerce_orders_100k_with_state_and_products[Order_ID])))
 
-Total Qty = SUM('DispatchData'[Quantity])
+Total Qty = SUM(ecommerce_orders_100k_with_state_and_products[Item_Quantity])
 
-Total Shipment Value = SUM('DispatchData'[ShipmentValue])
+Value of the shipment = SUM(ecommerce_orders_100k_with_state_and_products[Selling_Price])
 
-AOV = DIVIDE([Total Shipment Value],[Total Orders])
+AOV (Average Order Value ) = DIVIDE([Value of the shipment],[Total Orders])
 
-Qty per Order = DIVIDE([Total Qty],[Total Orders])
+Qty/Order = DIVIDE([Total Qty],[Total Orders])
 
-% Share (Shipments) = DIVIDE([Total Orders], CALCULATE([Total Orders], ALL('DispatchData'[Delivery_Partner])))
-
-Value % Share = DIVIDE([Total Shipment Value], CALCULATE([Total Shipment Value], ALL('DispatchData'[Delivery_Partner])))
 
 ## Key Insights 
 
