@@ -1,0 +1,2000 @@
+Order_ID,Selling_Price,AWB_Number,Delivery_Partner,Item_Quantity,Payment_Mode,Shipping_City,Shipping_State,Product
+10001,960,16633439,XpressBees,2,COD,Chennai,Tamil Nadu,Cushion Cover
+10002,3872,27959233,ShadowFax,2,COD,Chennai,Tamil Nadu,Curtains
+10003,3192,23639231,Ekart,1,Prepaid,Pune,Maharashtra,Toothpaste
+10004,566,41872863,XpressBees,3,COD,Bangalore,Karnataka,Soap Bar
+10005,4526,17796551,Ekart,2,COD,Chennai,Tamil Nadu,Cushion Cover
+10006,3544,42519276,ShadowFax,2,COD,Bangalore,Karnataka,Water Bottle
+10007,3271,16642621,ShadowFax,3,COD,Bangalore,Karnataka,Cushion Cover
+10008,3019,63889972,Ekart,2,Prepaid,Mumbai,Maharashtra,Laundry Detergent
+10009,230,39732040,ShadowFax,1,Prepaid,Ahmedabad,Gujarat,Broom
+10010,1785,64607766,Ekart,2,Prepaid,Hyderabad,Telangana,Storage Container
+10011,869,71438326,ShadowFax,4,Prepaid,Mumbai,Maharashtra,Dish Soap
+10012,2491,60914076,ShadowFax,2,COD,Bangalore,Karnataka,Cushion Cover
+10013,2533,89474052,XpressBees,1,COD,Hyderabad,Telangana,Water Bottle
+10014,1284,95245223,Ekart,3,COD,Pune,Maharashtra,Dish Soap
+10015,4655,93801447,XpressBees,1,COD,Kolkata,West Bengal,Mop
+10016,3485,59369858,XpressBees,3,COD,Kolkata,West Bengal,Dinner Plate Set
+10017,4217,32551719,Ekart,2,Prepaid,Bangalore,Karnataka,Floor Cleaner
+10018,4943,99377396,Ekart,3,Prepaid,Pune,Maharashtra,Dinner Plate Set
+10019,3004,86499804,ShadowFax,3,Prepaid,Mumbai,Maharashtra,Air Freshener
+10020,574,51995858,XpressBees,3,Prepaid,Kolkata,West Bengal,Cushion Cover
+10021,1182,47155160,Ekart,3,COD,Pune,Maharashtra,Dish Sponge
+10022,2658,53900883,XpressBees,3,Prepaid,Kolkata,West Bengal,Water Bottle
+10023,2147,55219566,Ekart,4,Prepaid,Pune,Maharashtra,Shampoo
+10024,2847,26876005,ShadowFax,4,COD,Kolkata,West Bengal,Garbage Bags
+10025,1075,58459437,Ekart,3,COD,Hyderabad,Telangana,Floor Cleaner
+10026,1906,72704778,XpressBees,2,COD,Ahmedabad,Gujarat,Electric Kettle
+10027,289,24751949,ShadowFax,2,COD,Delhi,Delhi,Dinner Plate Set
+10028,2834,37633330,XpressBees,3,COD,Delhi,Delhi,Laundry Detergent
+10029,3105,22737502,XpressBees,4,Prepaid,Chennai,Tamil Nadu,Toothpaste
+10030,4758,34321924,XpressBees,2,Prepaid,Kolkata,West Bengal,Storage Container
+10031,1999,64648731,ShadowFax,1,Prepaid,Delhi,Delhi,Air Freshener
+10032,1367,67386450,XpressBees,3,Prepaid,Chennai,Tamil Nadu,Dish Sponge
+10033,1628,23404289,Ekart,4,Prepaid,Bangalore,Karnataka,Toilet Cleaner
+10034,3302,11136245,Ekart,3,COD,Ahmedabad,Gujarat,Laundry Detergent
+10035,3656,91744476,Ekart,2,Prepaid,Pune,Maharashtra,Hand Wash
+10036,3990,10077905,XpressBees,1,COD,Ahmedabad,Gujarat,Soap Bar
+10037,746,55117549,ShadowFax,2,COD,Bangalore,Karnataka,Air Freshener
+10038,2988,59127433,Ekart,2,Prepaid,Delhi,Delhi,Bucket
+10039,2535,93873463,ShadowFax,4,Prepaid,Pune,Maharashtra,Shampoo
+10040,700,33964389,XpressBees,3,Prepaid,Delhi,Delhi,Toothpaste
+10041,2463,93805582,XpressBees,1,COD,Ahmedabad,Gujarat,Broom
+10042,2161,98275866,ShadowFax,1,COD,Delhi,Delhi,Cushion Cover
+10043,341,68123733,XpressBees,3,COD,Bangalore,Karnataka,Cushion Cover
+10044,2141,60530964,Ekart,4,COD,Hyderabad,Telangana,Cushion Cover
+10045,2924,70970111,Ekart,1,COD,Delhi,Delhi,Laundry Detergent
+10046,2712,25222241,Ekart,3,COD,Chennai,Tamil Nadu,Broom
+10047,1463,66618437,ShadowFax,2,Prepaid,Chennai,Tamil Nadu,Water Bottle
+10048,1578,53945486,XpressBees,1,Prepaid,Bangalore,Karnataka,Floor Cleaner
+10049,2656,21514586,XpressBees,1,Prepaid,Ahmedabad,Gujarat,Mop
+10050,875,84969530,ShadowFax,2,COD,Chennai,Tamil Nadu,Electric Kettle
+10051,4114,56837615,XpressBees,3,Prepaid,Ahmedabad,Gujarat,Laundry Detergent
+10052,134,41916457,XpressBees,3,COD,Pune,Maharashtra,Dish Soap
+10053,3252,90577174,ShadowFax,4,COD,Hyderabad,Telangana,Bucket
+10054,2055,93135295,XpressBees,1,COD,Kolkata,West Bengal,Dinner Plate Set
+10055,1685,73129965,Ekart,2,COD,Mumbai,Maharashtra,Garbage Bags
+10056,4043,20173430,Ekart,4,COD,Bangalore,Karnataka,Cushion Cover
+10057,3173,10723040,XpressBees,1,COD,Hyderabad,Telangana,Dish Soap
+10058,1121,67007771,ShadowFax,2,COD,Pune,Maharashtra,Air Freshener
+10059,3561,33937606,Ekart,4,Prepaid,Hyderabad,Telangana,Toothpaste
+10060,2713,81871978,Ekart,3,COD,Pune,Maharashtra,Dinner Plate Set
+10061,3943,65128460,Ekart,4,Prepaid,Ahmedabad,Gujarat,Hand Wash
+10062,1600,22441769,Ekart,1,Prepaid,Hyderabad,Telangana,Shampoo
+10063,4898,24935842,XpressBees,1,COD,Delhi,Delhi,Curtains
+10064,261,60355319,XpressBees,4,Prepaid,Mumbai,Maharashtra,Toilet Cleaner
+10065,4397,82817045,XpressBees,2,COD,Pune,Maharashtra,Storage Container
+10066,2081,13827635,Ekart,3,Prepaid,Mumbai,Maharashtra,Air Freshener
+10067,1095,38171745,Ekart,1,Prepaid,Kolkata,West Bengal,Laundry Detergent
+10068,3442,45769480,XpressBees,3,Prepaid,Bangalore,Karnataka,Hand Wash
+10069,4651,41099362,XpressBees,2,COD,Hyderabad,Telangana,Water Bottle
+10070,3898,15619391,Ekart,2,COD,Mumbai,Maharashtra,Floor Cleaner
+10071,1375,10913277,XpressBees,3,COD,Chennai,Tamil Nadu,Water Bottle
+10072,1116,20825292,ShadowFax,2,Prepaid,Hyderabad,Telangana,Laundry Detergent
+10073,437,49344480,XpressBees,2,COD,Pune,Maharashtra,Cushion Cover
+10074,978,77790563,Ekart,2,COD,Bangalore,Karnataka,Dish Sponge
+10075,1176,44121438,XpressBees,4,Prepaid,Delhi,Delhi,Broom
+10076,4987,59275367,Ekart,4,COD,Mumbai,Maharashtra,Floor Cleaner
+10077,4093,71363456,XpressBees,4,Prepaid,Chennai,Tamil Nadu,Toothpaste
+10078,4959,32160286,Ekart,4,COD,Kolkata,West Bengal,Shampoo
+10079,479,65431065,XpressBees,4,Prepaid,Ahmedabad,Gujarat,Dinner Plate Set
+10080,592,41432655,Ekart,1,Prepaid,Ahmedabad,Gujarat,Air Freshener
+10081,2162,41775414,ShadowFax,1,COD,Bangalore,Karnataka,Hand Wash
+10082,3984,22343883,XpressBees,2,Prepaid,Delhi,Delhi,Dish Soap
+10083,164,97238570,XpressBees,2,Prepaid,Pune,Maharashtra,Laundry Detergent
+10084,2668,96352938,XpressBees,4,COD,Hyderabad,Telangana,Dinner Plate Set
+10085,2127,69902777,XpressBees,3,Prepaid,Pune,Maharashtra,Mop
+10086,2795,14783675,Ekart,2,Prepaid,Bangalore,Karnataka,Bucket
+10087,1595,70124164,ShadowFax,1,COD,Mumbai,Maharashtra,Toothpaste
+10088,491,48728745,Ekart,3,Prepaid,Delhi,Delhi,Dish Soap
+10089,4614,49849403,ShadowFax,3,Prepaid,Ahmedabad,Gujarat,Laundry Detergent
+10090,4574,80227851,Ekart,2,Prepaid,Mumbai,Maharashtra,Garbage Bags
+10091,3661,18514957,XpressBees,4,COD,Hyderabad,Telangana,Electric Kettle
+10092,2378,35313838,XpressBees,3,COD,Bangalore,Karnataka,Water Bottle
+10093,3199,12957277,XpressBees,1,Prepaid,Chennai,Tamil Nadu,Dish Sponge
+10094,300,12399790,ShadowFax,1,Prepaid,Pune,Maharashtra,Broom
+10095,4975,47462544,XpressBees,2,COD,Bangalore,Karnataka,Toothpaste
+10096,3204,30445256,Ekart,4,COD,Bangalore,Karnataka,Hand Wash
+10097,4698,24151999,Ekart,2,COD,Chennai,Tamil Nadu,Soap Bar
+10098,2554,24117715,Ekart,4,Prepaid,Hyderabad,Telangana,Dish Sponge
+10099,3745,35225148,Ekart,2,COD,Delhi,Delhi,Dish Sponge
+10100,904,51634813,Ekart,1,Prepaid,Bangalore,Karnataka,Laundry Detergent
+10101,2831,16497611,ShadowFax,1,Prepaid,Hyderabad,Telangana,Toothpaste
+10102,2873,40042118,XpressBees,4,COD,Chennai,Tamil Nadu,Curtains
+10103,1670,81854965,ShadowFax,1,Prepaid,Hyderabad,Telangana,Mop
+10104,2790,28996124,Ekart,3,Prepaid,Bangalore,Karnataka,Hand Wash
+10105,3940,77866233,Ekart,1,COD,Delhi,Delhi,Electric Kettle
+10106,1128,61878780,XpressBees,4,COD,Kolkata,West Bengal,Shampoo
+10107,602,77333137,ShadowFax,4,COD,Kolkata,West Bengal,Garbage Bags
+10108,4593,46897455,XpressBees,4,COD,Bangalore,Karnataka,Dish Soap
+10109,970,76547722,XpressBees,4,Prepaid,Chennai,Tamil Nadu,Electric Kettle
+10110,4588,77692313,XpressBees,4,Prepaid,Pune,Maharashtra,Toothpaste
+10111,306,74059005,XpressBees,2,COD,Ahmedabad,Gujarat,Mop
+10112,1584,37966426,Ekart,4,COD,Bangalore,Karnataka,Dinner Plate Set
+10113,963,93477434,Ekart,1,Prepaid,Chennai,Tamil Nadu,Soap Bar
+10114,2890,17749463,Ekart,1,Prepaid,Ahmedabad,Gujarat,Curtains
+10115,663,68056231,Ekart,1,COD,Ahmedabad,Gujarat,Garbage Bags
+10116,4291,34296612,ShadowFax,3,Prepaid,Ahmedabad,Gujarat,Hand Wash
+10117,1857,28703424,ShadowFax,2,COD,Pune,Maharashtra,Mop
+10118,1778,47882163,Ekart,2,Prepaid,Delhi,Delhi,Electric Kettle
+10119,3342,14113153,ShadowFax,3,Prepaid,Pune,Maharashtra,Water Bottle
+10120,4736,32333480,Ekart,1,COD,Bangalore,Karnataka,Dish Sponge
+10121,1159,64999784,XpressBees,2,Prepaid,Hyderabad,Telangana,Broom
+10122,1822,11256229,ShadowFax,1,Prepaid,Mumbai,Maharashtra,Dish Sponge
+10123,3414,39129434,Ekart,1,COD,Delhi,Delhi,Bucket
+10124,3257,40127389,Ekart,4,COD,Bangalore,Karnataka,Curtains
+10125,2725,50700029,XpressBees,1,Prepaid,Delhi,Delhi,Dish Sponge
+10126,2829,32647432,Ekart,4,Prepaid,Chennai,Tamil Nadu,Dish Soap
+10127,1697,87398005,XpressBees,3,COD,Kolkata,West Bengal,Bucket
+10128,3160,60004580,Ekart,4,COD,Ahmedabad,Gujarat,Storage Container
+10129,2793,56677922,XpressBees,2,Prepaid,Hyderabad,Telangana,Curtains
+10130,4991,55475675,XpressBees,2,COD,Mumbai,Maharashtra,Dinner Plate Set
+10131,3727,45390283,XpressBees,2,Prepaid,Chennai,Tamil Nadu,Water Bottle
+10132,1463,18938315,XpressBees,4,Prepaid,Delhi,Delhi,Hand Wash
+10133,2081,80712370,Ekart,3,COD,Pune,Maharashtra,Curtains
+10134,1763,83707512,Ekart,3,COD,Mumbai,Maharashtra,Bucket
+10135,1629,26776200,XpressBees,3,COD,Bangalore,Karnataka,Cushion Cover
+10136,2138,23563250,Ekart,4,COD,Delhi,Delhi,Laundry Detergent
+10137,3402,24342834,XpressBees,3,COD,Pune,Maharashtra,Hand Wash
+10138,2337,15557920,Ekart,3,COD,Ahmedabad,Gujarat,Mop
+10139,1406,50122145,XpressBees,1,COD,Kolkata,West Bengal,Cushion Cover
+10140,4129,14389365,XpressBees,1,COD,Ahmedabad,Gujarat,Electric Kettle
+10141,2775,19537112,XpressBees,2,Prepaid,Pune,Maharashtra,Storage Container
+10142,1382,74773043,Ekart,1,Prepaid,Mumbai,Maharashtra,Cushion Cover
+10143,809,66967393,ShadowFax,2,Prepaid,Bangalore,Karnataka,Broom
+10144,4844,10832123,ShadowFax,1,Prepaid,Hyderabad,Telangana,Shampoo
+10145,4513,87673772,Ekart,4,COD,Chennai,Tamil Nadu,Dinner Plate Set
+10146,3848,75773249,XpressBees,2,Prepaid,Kolkata,West Bengal,Soap Bar
+10147,4879,99167702,XpressBees,1,COD,Kolkata,West Bengal,Dinner Plate Set
+10148,763,49740229,XpressBees,2,Prepaid,Hyderabad,Telangana,Laundry Detergent
+10149,2098,19823078,XpressBees,1,Prepaid,Mumbai,Maharashtra,Curtains
+10150,3545,46888484,Ekart,3,COD,Pune,Maharashtra,Water Bottle
+10151,3843,88890938,XpressBees,2,COD,Delhi,Delhi,Laundry Detergent
+10152,1595,63525677,XpressBees,3,COD,Pune,Maharashtra,Bucket
+10153,3404,51884094,ShadowFax,3,Prepaid,Hyderabad,Telangana,Dish Soap
+10154,3863,65125590,XpressBees,3,Prepaid,Kolkata,West Bengal,Dinner Plate Set
+10155,1953,47629518,ShadowFax,1,COD,Hyderabad,Telangana,Floor Cleaner
+10156,4759,99413249,XpressBees,3,COD,Pune,Maharashtra,Hand Wash
+10157,1391,10727845,XpressBees,1,COD,Mumbai,Maharashtra,Soap Bar
+10158,3681,97593816,Ekart,1,COD,Kolkata,West Bengal,Electric Kettle
+10159,3557,26699207,XpressBees,1,COD,Delhi,Delhi,Dinner Plate Set
+10160,1736,15451323,ShadowFax,3,Prepaid,Mumbai,Maharashtra,Floor Cleaner
+10161,3796,49545418,Ekart,4,COD,Ahmedabad,Gujarat,Toothpaste
+10162,3099,30922908,XpressBees,2,COD,Delhi,Delhi,Soap Bar
+10163,3252,68126395,Ekart,1,Prepaid,Kolkata,West Bengal,Toothpaste
+10164,798,31870244,Ekart,1,COD,Delhi,Delhi,Soap Bar
+10165,2260,55077259,Ekart,4,Prepaid,Chennai,Tamil Nadu,Air Freshener
+10166,4197,97241726,XpressBees,4,COD,Bangalore,Karnataka,Dinner Plate Set
+10167,4837,93099988,Ekart,1,COD,Delhi,Delhi,Shampoo
+10168,954,55254308,ShadowFax,3,Prepaid,Kolkata,West Bengal,Broom
+10169,3574,35102009,Ekart,4,COD,Mumbai,Maharashtra,Dish Sponge
+10170,1807,18792630,Ekart,1,COD,Bangalore,Karnataka,Dish Soap
+10171,2877,28072945,XpressBees,1,COD,Pune,Maharashtra,Cushion Cover
+10172,1833,34274452,XpressBees,3,COD,Pune,Maharashtra,Laundry Detergent
+10173,3610,65547355,XpressBees,2,COD,Hyderabad,Telangana,Laundry Detergent
+10174,302,27358049,ShadowFax,3,COD,Mumbai,Maharashtra,Mop
+10175,3355,10782196,Ekart,3,COD,Hyderabad,Telangana,Broom
+10176,4318,66150381,ShadowFax,2,Prepaid,Chennai,Tamil Nadu,Dish Soap
+10177,4596,86416350,Ekart,2,COD,Ahmedabad,Gujarat,Cushion Cover
+10178,866,87696834,XpressBees,3,COD,Pune,Maharashtra,Storage Container
+10179,4489,12226300,XpressBees,4,Prepaid,Mumbai,Maharashtra,Dish Soap
+10180,2427,22963758,Ekart,1,Prepaid,Hyderabad,Telangana,Floor Cleaner
+10181,3031,92132188,Ekart,2,COD,Mumbai,Maharashtra,Dish Soap
+10182,297,21149087,Ekart,4,COD,Hyderabad,Telangana,Toothpaste
+10183,2030,90093808,Ekart,2,COD,Hyderabad,Telangana,Garbage Bags
+10184,3682,32704281,ShadowFax,3,Prepaid,Hyderabad,Telangana,Electric Kettle
+10185,708,22649996,Ekart,2,Prepaid,Mumbai,Maharashtra,Mop
+10186,3372,50288014,XpressBees,4,COD,Bangalore,Karnataka,Dish Soap
+10187,1247,83335024,ShadowFax,2,Prepaid,Ahmedabad,Gujarat,Air Freshener
+10188,4382,73449248,Ekart,4,COD,Hyderabad,Telangana,Air Freshener
+10189,3497,45724735,Ekart,3,Prepaid,Mumbai,Maharashtra,Storage Container
+10190,2611,39587486,Ekart,4,Prepaid,Mumbai,Maharashtra,Dish Sponge
+10191,1894,55041216,Ekart,1,COD,Ahmedabad,Gujarat,Shampoo
+10192,759,35378510,XpressBees,3,COD,Pune,Maharashtra,Cushion Cover
+10193,2911,52825909,ShadowFax,4,Prepaid,Ahmedabad,Gujarat,Toothpaste
+10194,1469,70772966,ShadowFax,2,Prepaid,Chennai,Tamil Nadu,Air Freshener
+10195,2086,18264308,XpressBees,4,COD,Ahmedabad,Gujarat,Shampoo
+10196,246,86068179,Ekart,1,COD,Chennai,Tamil Nadu,Shampoo
+10197,3319,55927750,Ekart,2,COD,Hyderabad,Telangana,Toothpaste
+10198,3011,74315491,Ekart,4,Prepaid,Mumbai,Maharashtra,Dish Soap
+10199,1834,12950314,Ekart,3,Prepaid,Hyderabad,Telangana,Electric Kettle
+10200,1943,40873355,Ekart,2,Prepaid,Ahmedabad,Gujarat,Curtains
+10201,588,11121484,Ekart,4,Prepaid,Chennai,Tamil Nadu,Toilet Cleaner
+10202,3076,82824810,Ekart,3,Prepaid,Pune,Maharashtra,Water Bottle
+10203,2059,85646085,Ekart,4,COD,Ahmedabad,Gujarat,Dish Sponge
+10204,2485,10126468,ShadowFax,1,Prepaid,Delhi,Delhi,Water Bottle
+10205,3019,36890668,XpressBees,2,Prepaid,Pune,Maharashtra,Bucket
+10206,4836,40833514,Ekart,4,COD,Bangalore,Karnataka,Broom
+10207,1902,25933678,XpressBees,2,Prepaid,Ahmedabad,Gujarat,Hand Wash
+10208,4161,85201349,ShadowFax,4,COD,Bangalore,Karnataka,Dinner Plate Set
+10209,3469,63809909,XpressBees,4,Prepaid,Bangalore,Karnataka,Floor Cleaner
+10210,362,47342597,ShadowFax,2,COD,Kolkata,West Bengal,Cushion Cover
+10211,723,25894346,Ekart,3,Prepaid,Chennai,Tamil Nadu,Garbage Bags
+10212,1116,10312794,ShadowFax,2,COD,Kolkata,West Bengal,Cushion Cover
+10213,3743,37972460,Ekart,1,COD,Mumbai,Maharashtra,Shampoo
+10214,2149,59880770,Ekart,3,COD,Hyderabad,Telangana,Dish Soap
+10215,3823,10754968,Ekart,4,COD,Ahmedabad,Gujarat,Soap Bar
+10216,4648,55930321,Ekart,4,COD,Bangalore,Karnataka,Dish Sponge
+10217,3208,23948450,XpressBees,2,Prepaid,Hyderabad,Telangana,Toilet Cleaner
+10218,4190,41964274,XpressBees,1,COD,Chennai,Tamil Nadu,Toilet Cleaner
+10219,2156,51944749,ShadowFax,3,COD,Hyderabad,Telangana,Broom
+10220,3270,75603519,Ekart,4,Prepaid,Mumbai,Maharashtra,Broom
+10221,1782,34034101,Ekart,3,COD,Mumbai,Maharashtra,Electric Kettle
+10222,2355,63651921,Ekart,1,Prepaid,Bangalore,Karnataka,Water Bottle
+10223,1254,93108876,ShadowFax,3,COD,Chennai,Tamil Nadu,Dinner Plate Set
+10224,4599,24919531,ShadowFax,3,Prepaid,Kolkata,West Bengal,Cushion Cover
+10225,3291,49840158,Ekart,3,COD,Bangalore,Karnataka,Curtains
+10226,1796,65138932,ShadowFax,3,COD,Kolkata,West Bengal,Shampoo
+10227,4091,66281538,XpressBees,4,Prepaid,Hyderabad,Telangana,Toilet Cleaner
+10228,4823,68038487,XpressBees,4,COD,Delhi,Delhi,Mop
+10229,4782,68629878,ShadowFax,3,Prepaid,Pune,Maharashtra,Broom
+10230,1748,89983908,XpressBees,1,Prepaid,Pune,Maharashtra,Electric Kettle
+10231,1545,43516181,ShadowFax,4,Prepaid,Bangalore,Karnataka,Electric Kettle
+10232,4299,68289836,XpressBees,1,COD,Pune,Maharashtra,Toilet Cleaner
+10233,4023,74740348,ShadowFax,1,Prepaid,Kolkata,West Bengal,Toilet Cleaner
+10234,353,40788453,XpressBees,2,COD,Delhi,Delhi,Dish Soap
+10235,3283,51158249,ShadowFax,1,Prepaid,Pune,Maharashtra,Toothpaste
+10236,2657,62076749,Ekart,1,COD,Bangalore,Karnataka,Air Freshener
+10237,198,74082716,ShadowFax,4,COD,Chennai,Tamil Nadu,Hand Wash
+10238,2300,57272473,XpressBees,3,Prepaid,Delhi,Delhi,Garbage Bags
+10239,3061,84389123,XpressBees,4,Prepaid,Ahmedabad,Gujarat,Dinner Plate Set
+10240,4533,35722144,ShadowFax,4,Prepaid,Chennai,Tamil Nadu,Floor Cleaner
+10241,3877,75538075,XpressBees,1,Prepaid,Kolkata,West Bengal,Dish Soap
+10242,2969,16580350,XpressBees,3,Prepaid,Chennai,Tamil Nadu,Cushion Cover
+10243,3334,60546160,XpressBees,4,Prepaid,Pune,Maharashtra,Hand Wash
+10244,3891,45990050,ShadowFax,1,Prepaid,Mumbai,Maharashtra,Hand Wash
+10245,1056,27611612,XpressBees,1,Prepaid,Hyderabad,Telangana,Curtains
+10246,4167,37251016,XpressBees,4,COD,Bangalore,Karnataka,Shampoo
+10247,260,22780414,Ekart,3,Prepaid,Ahmedabad,Gujarat,Shampoo
+10248,4593,88650257,XpressBees,3,Prepaid,Kolkata,West Bengal,Storage Container
+10249,1400,91688330,Ekart,1,Prepaid,Mumbai,Maharashtra,Water Bottle
+10250,4087,22432533,ShadowFax,4,Prepaid,Mumbai,Maharashtra,Mop
+10251,1627,24645462,XpressBees,2,COD,Kolkata,West Bengal,Curtains
+10252,1318,92482652,ShadowFax,4,Prepaid,Bangalore,Karnataka,Curtains
+10253,4596,48662092,XpressBees,2,COD,Kolkata,West Bengal,Garbage Bags
+10254,4835,43893727,ShadowFax,1,Prepaid,Kolkata,West Bengal,Cushion Cover
+10255,3204,97044921,Ekart,1,COD,Bangalore,Karnataka,Shampoo
+10256,2835,36166954,Ekart,2,Prepaid,Delhi,Delhi,Storage Container
+10257,4655,83488751,Ekart,3,Prepaid,Delhi,Delhi,Hand Wash
+10258,1054,77682900,Ekart,3,Prepaid,Bangalore,Karnataka,Soap Bar
+10259,4665,67076081,ShadowFax,2,Prepaid,Ahmedabad,Gujarat,Water Bottle
+10260,3546,15477665,Ekart,2,Prepaid,Ahmedabad,Gujarat,Dish Soap
+10261,1145,26969986,ShadowFax,3,Prepaid,Mumbai,Maharashtra,Garbage Bags
+10262,1793,46533420,ShadowFax,4,Prepaid,Bangalore,Karnataka,Cushion Cover
+10263,3536,40091052,ShadowFax,4,Prepaid,Hyderabad,Telangana,Bucket
+10264,662,80831207,ShadowFax,2,COD,Chennai,Tamil Nadu,Air Freshener
+10265,2585,82143230,ShadowFax,2,Prepaid,Kolkata,West Bengal,Floor Cleaner
+10266,3454,10946852,ShadowFax,2,COD,Chennai,Tamil Nadu,Broom
+10267,325,81783220,Ekart,3,Prepaid,Ahmedabad,Gujarat,Water Bottle
+10268,4993,93990916,ShadowFax,4,COD,Ahmedabad,Gujarat,Dish Sponge
+10269,1059,96025151,Ekart,3,COD,Hyderabad,Telangana,Electric Kettle
+10270,4648,24413935,ShadowFax,1,COD,Chennai,Tamil Nadu,Hand Wash
+10271,3167,73054352,ShadowFax,2,Prepaid,Bangalore,Karnataka,Toothpaste
+10272,915,68507271,ShadowFax,1,Prepaid,Hyderabad,Telangana,Mop
+10273,4854,79311342,Ekart,1,Prepaid,Mumbai,Maharashtra,Water Bottle
+10274,4742,48218238,XpressBees,2,Prepaid,Kolkata,West Bengal,Water Bottle
+10275,3220,18803349,Ekart,1,Prepaid,Ahmedabad,Gujarat,Garbage Bags
+10276,116,77961626,ShadowFax,3,Prepaid,Mumbai,Maharashtra,Hand Wash
+10277,1343,84002489,XpressBees,2,Prepaid,Mumbai,Maharashtra,Floor Cleaner
+10278,2305,34436357,XpressBees,4,Prepaid,Chennai,Tamil Nadu,Toilet Cleaner
+10279,2624,93668398,ShadowFax,3,COD,Chennai,Tamil Nadu,Air Freshener
+10280,1169,43142886,XpressBees,3,Prepaid,Delhi,Delhi,Bucket
+10281,3544,77978410,Ekart,2,Prepaid,Ahmedabad,Gujarat,Garbage Bags
+10282,2665,16458720,XpressBees,1,Prepaid,Mumbai,Maharashtra,Mop
+10283,1160,49973691,ShadowFax,2,Prepaid,Bangalore,Karnataka,Water Bottle
+10284,2427,33429019,XpressBees,2,COD,Mumbai,Maharashtra,Shampoo
+10285,3520,26746745,XpressBees,4,Prepaid,Hyderabad,Telangana,Toilet Cleaner
+10286,401,90146416,XpressBees,4,COD,Chennai,Tamil Nadu,Toothpaste
+10287,4376,18012350,XpressBees,1,COD,Bangalore,Karnataka,Shampoo
+10288,706,53889552,XpressBees,3,Prepaid,Bangalore,Karnataka,Electric Kettle
+10289,3270,13029086,XpressBees,3,COD,Pune,Maharashtra,Toilet Cleaner
+10290,799,37778097,ShadowFax,3,COD,Delhi,Delhi,Hand Wash
+10291,1239,85201123,XpressBees,2,COD,Hyderabad,Telangana,Toothpaste
+10292,290,32320493,Ekart,2,Prepaid,Kolkata,West Bengal,Garbage Bags
+10293,2400,26885482,XpressBees,4,Prepaid,Kolkata,West Bengal,Storage Container
+10294,1080,86131209,Ekart,2,COD,Delhi,Delhi,Hand Wash
+10295,3075,47974421,XpressBees,1,Prepaid,Chennai,Tamil Nadu,Broom
+10296,1284,38080447,Ekart,3,Prepaid,Delhi,Delhi,Broom
+10297,3427,15387998,XpressBees,1,COD,Chennai,Tamil Nadu,Floor Cleaner
+10298,3494,80947229,Ekart,3,Prepaid,Delhi,Delhi,Shampoo
+10299,227,67669618,XpressBees,4,COD,Hyderabad,Telangana,Soap Bar
+10300,2165,17753491,Ekart,2,COD,Pune,Maharashtra,Laundry Detergent
+10301,1916,83405965,Ekart,1,Prepaid,Chennai,Tamil Nadu,Curtains
+10302,669,40632206,ShadowFax,3,COD,Bangalore,Karnataka,Water Bottle
+10303,1995,87494012,ShadowFax,4,COD,Mumbai,Maharashtra,Floor Cleaner
+10304,2833,16574392,Ekart,3,Prepaid,Kolkata,West Bengal,Toilet Cleaner
+10305,3963,92850194,XpressBees,4,Prepaid,Pune,Maharashtra,Laundry Detergent
+10306,4821,71331751,Ekart,1,Prepaid,Bangalore,Karnataka,Toothpaste
+10307,4114,47229662,XpressBees,2,COD,Chennai,Tamil Nadu,Mop
+10308,3001,59485028,XpressBees,1,COD,Bangalore,Karnataka,Garbage Bags
+10309,1786,70171158,XpressBees,2,COD,Kolkata,West Bengal,Toothpaste
+10310,3109,62146539,XpressBees,4,COD,Chennai,Tamil Nadu,Water Bottle
+10311,254,27945593,XpressBees,4,Prepaid,Mumbai,Maharashtra,Laundry Detergent
+10312,2637,27885901,Ekart,3,COD,Delhi,Delhi,Floor Cleaner
+10313,1509,86069909,Ekart,4,COD,Mumbai,Maharashtra,Soap Bar
+10314,4157,58863453,Ekart,1,Prepaid,Delhi,Delhi,Hand Wash
+10315,884,63284079,Ekart,3,Prepaid,Mumbai,Maharashtra,Broom
+10316,3275,65234759,Ekart,3,COD,Hyderabad,Telangana,Water Bottle
+10317,4441,75212395,Ekart,2,COD,Bangalore,Karnataka,Toothpaste
+10318,2906,96608414,XpressBees,3,COD,Chennai,Tamil Nadu,Toothpaste
+10319,637,10791823,Ekart,4,Prepaid,Mumbai,Maharashtra,Electric Kettle
+10320,1941,89718453,Ekart,2,COD,Pune,Maharashtra,Toothpaste
+10321,2555,41642470,Ekart,4,COD,Chennai,Tamil Nadu,Cushion Cover
+10322,624,54414359,XpressBees,1,Prepaid,Chennai,Tamil Nadu,Air Freshener
+10323,3050,46278804,Ekart,1,Prepaid,Mumbai,Maharashtra,Storage Container
+10324,4231,47323079,XpressBees,1,COD,Pune,Maharashtra,Toilet Cleaner
+10325,4880,69276241,ShadowFax,4,COD,Ahmedabad,Gujarat,Air Freshener
+10326,4215,15497381,ShadowFax,1,COD,Delhi,Delhi,Toilet Cleaner
+10327,2468,16220941,Ekart,4,COD,Pune,Maharashtra,Electric Kettle
+10328,3947,78821622,XpressBees,4,Prepaid,Hyderabad,Telangana,Mop
+10329,4595,40618061,Ekart,4,Prepaid,Kolkata,West Bengal,Dish Sponge
+10330,2801,58244114,XpressBees,1,COD,Mumbai,Maharashtra,Dish Sponge
+10331,1071,78708701,XpressBees,2,Prepaid,Bangalore,Karnataka,Mop
+10332,1266,56669326,ShadowFax,4,COD,Delhi,Delhi,Broom
+10333,2874,76141103,Ekart,1,COD,Chennai,Tamil Nadu,Dish Soap
+10334,2082,20229532,Ekart,3,Prepaid,Chennai,Tamil Nadu,Air Freshener
+10335,953,79407202,Ekart,2,COD,Ahmedabad,Gujarat,Mop
+10336,4246,64981280,Ekart,1,Prepaid,Pune,Maharashtra,Garbage Bags
+10337,3836,95319462,ShadowFax,3,COD,Pune,Maharashtra,Toothpaste
+10338,3869,51532438,XpressBees,2,Prepaid,Bangalore,Karnataka,Dinner Plate Set
+10339,674,38104189,XpressBees,2,COD,Bangalore,Karnataka,Bucket
+10340,3361,50563158,Ekart,1,COD,Pune,Maharashtra,Dinner Plate Set
+10341,1248,66217917,XpressBees,1,Prepaid,Pune,Maharashtra,Dish Soap
+10342,1815,51812068,XpressBees,4,COD,Delhi,Delhi,Storage Container
+10343,4877,24382899,ShadowFax,1,COD,Pune,Maharashtra,Curtains
+10344,3954,85575645,XpressBees,4,COD,Kolkata,West Bengal,Toothpaste
+10345,2591,58782159,XpressBees,2,Prepaid,Chennai,Tamil Nadu,Toilet Cleaner
+10346,2760,93829536,Ekart,2,Prepaid,Ahmedabad,Gujarat,Cushion Cover
+10347,3224,38340570,Ekart,4,COD,Kolkata,West Bengal,Dish Soap
+10348,3151,94708745,ShadowFax,4,COD,Kolkata,West Bengal,Dinner Plate Set
+10349,104,53752595,Ekart,2,Prepaid,Ahmedabad,Gujarat,Hand Wash
+10350,4969,10983102,ShadowFax,4,Prepaid,Pune,Maharashtra,Dinner Plate Set
+10351,976,61748483,Ekart,1,Prepaid,Bangalore,Karnataka,Water Bottle
+10352,1091,74679933,Ekart,3,Prepaid,Delhi,Delhi,Bucket
+10353,4242,25552654,ShadowFax,4,COD,Chennai,Tamil Nadu,Curtains
+10354,4464,95251813,XpressBees,3,COD,Bangalore,Karnataka,Laundry Detergent
+10355,4565,46480270,Ekart,1,COD,Ahmedabad,Gujarat,Garbage Bags
+10356,735,26988990,XpressBees,1,Prepaid,Pune,Maharashtra,Broom
+10357,1793,43042832,ShadowFax,2,Prepaid,Mumbai,Maharashtra,Garbage Bags
+10358,1782,28161107,Ekart,1,Prepaid,Pune,Maharashtra,Water Bottle
+10359,4852,65127344,XpressBees,3,Prepaid,Pune,Maharashtra,Garbage Bags
+10360,219,39941264,ShadowFax,2,Prepaid,Chennai,Tamil Nadu,Hand Wash
+10361,930,80973940,Ekart,4,COD,Bangalore,Karnataka,Garbage Bags
+10362,3775,80784779,ShadowFax,4,COD,Delhi,Delhi,Soap Bar
+10363,1469,35554141,Ekart,2,COD,Chennai,Tamil Nadu,Storage Container
+10364,840,34776345,XpressBees,2,COD,Chennai,Tamil Nadu,Air Freshener
+10365,216,85007404,Ekart,2,Prepaid,Delhi,Delhi,Curtains
+10366,2938,15837776,Ekart,1,Prepaid,Hyderabad,Telangana,Garbage Bags
+10367,1250,12989928,Ekart,4,COD,Kolkata,West Bengal,Hand Wash
+10368,2031,66206321,Ekart,4,Prepaid,Chennai,Tamil Nadu,Dinner Plate Set
+10369,1112,21955262,XpressBees,1,Prepaid,Pune,Maharashtra,Shampoo
+10370,1764,50213017,XpressBees,1,Prepaid,Ahmedabad,Gujarat,Garbage Bags
+10371,1181,84485818,Ekart,2,COD,Mumbai,Maharashtra,Dinner Plate Set
+10372,4829,50388217,XpressBees,3,COD,Bangalore,Karnataka,Air Freshener
+10373,612,75065258,Ekart,2,COD,Delhi,Delhi,Curtains
+10374,2949,93554075,Ekart,1,Prepaid,Kolkata,West Bengal,Curtains
+10375,659,87636002,XpressBees,1,Prepaid,Mumbai,Maharashtra,Cushion Cover
+10376,3772,60531311,Ekart,2,COD,Bangalore,Karnataka,Air Freshener
+10377,4683,29882076,Ekart,3,COD,Pune,Maharashtra,Shampoo
+10378,3443,88702441,XpressBees,1,Prepaid,Ahmedabad,Gujarat,Cushion Cover
+10379,4170,89299678,Ekart,3,Prepaid,Chennai,Tamil Nadu,Dinner Plate Set
+10380,4899,62911329,XpressBees,4,Prepaid,Kolkata,West Bengal,Electric Kettle
+10381,1570,68292772,XpressBees,4,Prepaid,Pune,Maharashtra,Shampoo
+10382,680,65290900,Ekart,3,COD,Chennai,Tamil Nadu,Curtains
+10383,2394,92728281,XpressBees,4,Prepaid,Kolkata,West Bengal,Toothpaste
+10384,3247,67562346,Ekart,3,Prepaid,Delhi,Delhi,Garbage Bags
+10385,4349,72408800,Ekart,2,COD,Kolkata,West Bengal,Dinner Plate Set
+10386,1779,87858110,XpressBees,4,Prepaid,Chennai,Tamil Nadu,Dinner Plate Set
+10387,3606,97249238,Ekart,1,Prepaid,Ahmedabad,Gujarat,Toilet Cleaner
+10388,2844,20179762,Ekart,2,COD,Bangalore,Karnataka,Broom
+10389,3456,23000682,ShadowFax,3,COD,Bangalore,Karnataka,Mop
+10390,4145,59282039,Ekart,4,Prepaid,Mumbai,Maharashtra,Water Bottle
+10391,1343,44471313,Ekart,3,COD,Chennai,Tamil Nadu,Bucket
+10392,3218,65765410,Ekart,3,Prepaid,Hyderabad,Telangana,Cushion Cover
+10393,2241,75446281,ShadowFax,1,COD,Pune,Maharashtra,Dish Soap
+10394,3159,75731494,Ekart,4,Prepaid,Ahmedabad,Gujarat,Soap Bar
+10395,4648,38333664,Ekart,3,COD,Pune,Maharashtra,Garbage Bags
+10396,3059,94871401,Ekart,4,COD,Kolkata,West Bengal,Toothpaste
+10397,2365,15984292,XpressBees,3,COD,Kolkata,West Bengal,Soap Bar
+10398,2579,61771328,Ekart,4,COD,Delhi,Delhi,Soap Bar
+10399,4746,64479376,XpressBees,2,Prepaid,Hyderabad,Telangana,Water Bottle
+10400,1735,95565805,ShadowFax,4,COD,Mumbai,Maharashtra,Shampoo
+10401,1857,80097443,Ekart,3,COD,Delhi,Delhi,Broom
+10402,4552,39462682,Ekart,2,Prepaid,Ahmedabad,Gujarat,Dinner Plate Set
+10403,2170,87699493,XpressBees,1,Prepaid,Kolkata,West Bengal,Laundry Detergent
+10404,2949,64271805,XpressBees,1,COD,Delhi,Delhi,Toilet Cleaner
+10405,3351,91716109,ShadowFax,2,COD,Hyderabad,Telangana,Storage Container
+10406,3830,48847939,XpressBees,1,Prepaid,Delhi,Delhi,Curtains
+10407,2589,13850158,ShadowFax,2,Prepaid,Kolkata,West Bengal,Mop
+10408,1731,20565418,XpressBees,3,Prepaid,Bangalore,Karnataka,Dish Sponge
+10409,2916,45571313,Ekart,1,Prepaid,Hyderabad,Telangana,Toothpaste
+10410,1115,65970904,XpressBees,3,COD,Bangalore,Karnataka,Cushion Cover
+10411,1448,22706213,XpressBees,4,COD,Chennai,Tamil Nadu,Mop
+10412,4711,59623738,XpressBees,4,Prepaid,Kolkata,West Bengal,Toothpaste
+10413,3187,19562799,Ekart,2,COD,Bangalore,Karnataka,Toothpaste
+10414,2939,46677965,ShadowFax,2,Prepaid,Kolkata,West Bengal,Laundry Detergent
+10415,435,74109708,Ekart,3,COD,Mumbai,Maharashtra,Soap Bar
+10416,4692,25837355,XpressBees,2,COD,Pune,Maharashtra,Toothpaste
+10417,995,83602578,Ekart,3,COD,Kolkata,West Bengal,Dish Soap
+10418,3646,38390283,XpressBees,4,COD,Pune,Maharashtra,Water Bottle
+10419,951,57736891,XpressBees,3,Prepaid,Pune,Maharashtra,Storage Container
+10420,1787,89746718,XpressBees,3,COD,Delhi,Delhi,Shampoo
+10421,2031,71823656,Ekart,1,Prepaid,Ahmedabad,Gujarat,Bucket
+10422,3846,91701320,XpressBees,4,COD,Mumbai,Maharashtra,Broom
+10423,2527,88362383,Ekart,1,Prepaid,Hyderabad,Telangana,Garbage Bags
+10424,1668,15632727,ShadowFax,3,Prepaid,Kolkata,West Bengal,Curtains
+10425,4100,82007239,XpressBees,4,Prepaid,Chennai,Tamil Nadu,Dish Sponge
+10426,2838,67881828,XpressBees,2,COD,Pune,Maharashtra,Mop
+10427,3598,18351071,XpressBees,3,Prepaid,Delhi,Delhi,Dinner Plate Set
+10428,4013,46358004,XpressBees,1,COD,Bangalore,Karnataka,Storage Container
+10429,1166,94276393,XpressBees,4,COD,Delhi,Delhi,Bucket
+10430,4480,50234262,Ekart,2,COD,Mumbai,Maharashtra,Storage Container
+10431,2544,50715941,XpressBees,1,Prepaid,Bangalore,Karnataka,Mop
+10432,4207,87254143,Ekart,2,COD,Pune,Maharashtra,Toilet Cleaner
+10433,3473,50768406,Ekart,1,Prepaid,Kolkata,West Bengal,Hand Wash
+10434,4069,85157846,ShadowFax,3,COD,Delhi,Delhi,Cushion Cover
+10435,2646,85052281,Ekart,4,COD,Bangalore,Karnataka,Air Freshener
+10436,853,69202656,ShadowFax,1,COD,Chennai,Tamil Nadu,Bucket
+10437,2182,28326013,Ekart,3,COD,Hyderabad,Telangana,Toothpaste
+10438,2874,36016232,XpressBees,4,Prepaid,Ahmedabad,Gujarat,Broom
+10439,2996,97401369,XpressBees,1,COD,Hyderabad,Telangana,Laundry Detergent
+10440,4285,35009959,ShadowFax,1,Prepaid,Hyderabad,Telangana,Broom
+10441,875,38822528,XpressBees,3,Prepaid,Bangalore,Karnataka,Hand Wash
+10442,1725,68492876,ShadowFax,2,Prepaid,Kolkata,West Bengal,Storage Container
+10443,3169,20434778,ShadowFax,1,Prepaid,Mumbai,Maharashtra,Toothpaste
+10444,517,77937713,Ekart,1,COD,Pune,Maharashtra,Mop
+10445,214,18925483,Ekart,3,COD,Hyderabad,Telangana,Curtains
+10446,716,41358518,Ekart,4,COD,Pune,Maharashtra,Dinner Plate Set
+10447,4074,26330382,ShadowFax,1,COD,Hyderabad,Telangana,Mop
+10448,3367,70261469,XpressBees,3,COD,Pune,Maharashtra,Dish Sponge
+10449,925,57083563,Ekart,1,Prepaid,Ahmedabad,Gujarat,Storage Container
+10450,1616,79616087,ShadowFax,2,Prepaid,Bangalore,Karnataka,Laundry Detergent
+10451,3246,73776095,Ekart,4,Prepaid,Pune,Maharashtra,Cushion Cover
+10452,512,17489749,ShadowFax,1,COD,Mumbai,Maharashtra,Electric Kettle
+10453,828,83501892,ShadowFax,4,COD,Pune,Maharashtra,Curtains
+10454,3448,65832900,Ekart,2,Prepaid,Pune,Maharashtra,Toilet Cleaner
+10455,2908,91525693,Ekart,1,COD,Chennai,Tamil Nadu,Dish Soap
+10456,775,46406128,Ekart,2,COD,Hyderabad,Telangana,Floor Cleaner
+10457,3565,94496306,Ekart,3,Prepaid,Ahmedabad,Gujarat,Dinner Plate Set
+10458,2604,81800998,Ekart,3,Prepaid,Hyderabad,Telangana,Laundry Detergent
+10459,3067,36400149,XpressBees,4,COD,Delhi,Delhi,Curtains
+10460,2886,30182406,XpressBees,4,COD,Pune,Maharashtra,Shampoo
+10461,1222,23177393,Ekart,1,Prepaid,Chennai,Tamil Nadu,Curtains
+10462,4179,47864700,Ekart,1,COD,Pune,Maharashtra,Dinner Plate Set
+10463,1671,63342025,Ekart,3,Prepaid,Bangalore,Karnataka,Toothpaste
+10464,2243,15864049,Ekart,3,COD,Hyderabad,Telangana,Mop
+10465,1787,32919819,Ekart,4,Prepaid,Delhi,Delhi,Hand Wash
+10466,4232,46522941,ShadowFax,4,Prepaid,Hyderabad,Telangana,Dinner Plate Set
+10467,3951,43041764,XpressBees,4,COD,Kolkata,West Bengal,Toothpaste
+10468,3540,32946518,XpressBees,1,COD,Delhi,Delhi,Garbage Bags
+10469,3866,19862053,XpressBees,2,Prepaid,Ahmedabad,Gujarat,Floor Cleaner
+10470,2426,29874508,Ekart,2,Prepaid,Mumbai,Maharashtra,Laundry Detergent
+10471,3014,85462597,XpressBees,4,Prepaid,Pune,Maharashtra,Toilet Cleaner
+10472,4052,96027816,XpressBees,3,Prepaid,Pune,Maharashtra,Air Freshener
+10473,695,89567554,ShadowFax,3,Prepaid,Mumbai,Maharashtra,Curtains
+10474,828,17111994,ShadowFax,3,COD,Delhi,Delhi,Dinner Plate Set
+10475,1465,54439453,XpressBees,4,COD,Pune,Maharashtra,Bucket
+10476,4592,79256436,Ekart,1,COD,Pune,Maharashtra,Shampoo
+10477,798,11044144,XpressBees,2,COD,Bangalore,Karnataka,Shampoo
+10478,495,16374064,ShadowFax,2,Prepaid,Mumbai,Maharashtra,Curtains
+10479,4271,64787626,Ekart,2,COD,Bangalore,Karnataka,Laundry Detergent
+10480,4460,77267303,Ekart,1,COD,Bangalore,Karnataka,Toothpaste
+10481,2602,85047056,Ekart,3,COD,Delhi,Delhi,Laundry Detergent
+10482,1919,91115848,XpressBees,2,Prepaid,Pune,Maharashtra,Storage Container
+10483,817,47716499,XpressBees,4,COD,Chennai,Tamil Nadu,Garbage Bags
+10484,2882,41237452,Ekart,4,Prepaid,Pune,Maharashtra,Electric Kettle
+10485,3677,55098970,Ekart,2,Prepaid,Hyderabad,Telangana,Mop
+10486,243,87722595,XpressBees,4,COD,Hyderabad,Telangana,Storage Container
+10487,3240,97389955,XpressBees,1,Prepaid,Kolkata,West Bengal,Bucket
+10488,4591,74542791,Ekart,4,Prepaid,Pune,Maharashtra,Mop
+10489,3038,29980735,XpressBees,3,Prepaid,Chennai,Tamil Nadu,Toothpaste
+10490,3736,97812744,XpressBees,3,COD,Chennai,Tamil Nadu,Mop
+10491,3322,70162772,XpressBees,1,Prepaid,Mumbai,Maharashtra,Broom
+10492,1267,41761186,Ekart,3,Prepaid,Ahmedabad,Gujarat,Curtains
+10493,2716,27701244,Ekart,2,COD,Hyderabad,Telangana,Storage Container
+10494,1162,64894278,ShadowFax,3,COD,Delhi,Delhi,Air Freshener
+10495,2256,43962161,ShadowFax,4,Prepaid,Chennai,Tamil Nadu,Dish Soap
+10496,3082,45116716,ShadowFax,4,Prepaid,Ahmedabad,Gujarat,Bucket
+10497,3394,86800269,Ekart,3,COD,Hyderabad,Telangana,Laundry Detergent
+10498,4829,65990381,Ekart,1,Prepaid,Kolkata,West Bengal,Dish Soap
+10499,1256,93845435,ShadowFax,3,COD,Kolkata,West Bengal,Dinner Plate Set
+10500,832,90417948,XpressBees,4,Prepaid,Hyderabad,Telangana,Hand Wash
+10501,4430,74755576,Ekart,3,Prepaid,Kolkata,West Bengal,Broom
+10502,4946,72956348,Ekart,3,COD,Ahmedabad,Gujarat,Toilet Cleaner
+10503,1053,42141524,Ekart,4,COD,Bangalore,Karnataka,Electric Kettle
+10504,2639,52020539,XpressBees,2,Prepaid,Hyderabad,Telangana,Water Bottle
+10505,3424,44648176,Ekart,2,COD,Hyderabad,Telangana,Dish Soap
+10506,3401,12564417,ShadowFax,2,Prepaid,Ahmedabad,Gujarat,Storage Container
+10507,1642,42609330,XpressBees,3,Prepaid,Pune,Maharashtra,Shampoo
+10508,1291,76986505,Ekart,1,COD,Chennai,Tamil Nadu,Hand Wash
+10509,3093,64938455,XpressBees,1,Prepaid,Mumbai,Maharashtra,Toothpaste
+10510,2781,51250394,XpressBees,4,Prepaid,Hyderabad,Telangana,Toothpaste
+10511,1317,23262898,Ekart,2,Prepaid,Pune,Maharashtra,Curtains
+10512,1640,57305196,Ekart,4,Prepaid,Kolkata,West Bengal,Hand Wash
+10513,3336,73179734,Ekart,3,COD,Pune,Maharashtra,Mop
+10514,2486,22978863,ShadowFax,3,COD,Delhi,Delhi,Floor Cleaner
+10515,3819,85059256,Ekart,3,COD,Hyderabad,Telangana,Dish Sponge
+10516,1488,52715571,Ekart,3,COD,Hyderabad,Telangana,Bucket
+10517,1956,28837219,ShadowFax,1,COD,Pune,Maharashtra,Electric Kettle
+10518,1465,10264504,XpressBees,4,COD,Hyderabad,Telangana,Curtains
+10519,599,49166805,Ekart,4,Prepaid,Chennai,Tamil Nadu,Toilet Cleaner
+10520,1780,51849558,Ekart,3,COD,Bangalore,Karnataka,Dish Soap
+10521,610,86901237,XpressBees,2,COD,Chennai,Tamil Nadu,Broom
+10522,4412,91939467,Ekart,4,Prepaid,Bangalore,Karnataka,Dinner Plate Set
+10523,1424,87525452,Ekart,1,COD,Hyderabad,Telangana,Garbage Bags
+10524,1255,39129505,ShadowFax,2,COD,Ahmedabad,Gujarat,Soap Bar
+10525,1927,70500417,Ekart,4,COD,Kolkata,West Bengal,Bucket
+10526,3241,27603068,Ekart,3,COD,Kolkata,West Bengal,Storage Container
+10527,3586,61257108,Ekart,2,Prepaid,Bangalore,Karnataka,Dinner Plate Set
+10528,1910,92276215,XpressBees,2,Prepaid,Mumbai,Maharashtra,Bucket
+10529,3023,42823646,ShadowFax,1,COD,Ahmedabad,Gujarat,Water Bottle
+10530,2314,26527761,XpressBees,3,Prepaid,Chennai,Tamil Nadu,Floor Cleaner
+10531,4286,13443149,Ekart,3,Prepaid,Kolkata,West Bengal,Shampoo
+10532,813,23466925,Ekart,2,Prepaid,Hyderabad,Telangana,Soap Bar
+10533,3702,84860294,Ekart,2,COD,Bangalore,Karnataka,Curtains
+10534,4234,41106981,ShadowFax,3,COD,Ahmedabad,Gujarat,Hand Wash
+10535,3622,53705219,Ekart,2,Prepaid,Pune,Maharashtra,Floor Cleaner
+10536,4368,16782986,XpressBees,4,Prepaid,Mumbai,Maharashtra,Garbage Bags
+10537,4848,91670917,XpressBees,2,Prepaid,Kolkata,West Bengal,Broom
+10538,4949,33969126,Ekart,1,COD,Delhi,Delhi,Broom
+10539,1343,77551473,XpressBees,2,COD,Kolkata,West Bengal,Laundry Detergent
+10540,3809,42950301,ShadowFax,4,Prepaid,Pune,Maharashtra,Dish Soap
+10541,1181,18387945,Ekart,3,COD,Hyderabad,Telangana,Toilet Cleaner
+10542,555,77127653,Ekart,3,Prepaid,Chennai,Tamil Nadu,Shampoo
+10543,994,61816162,Ekart,3,COD,Delhi,Delhi,Dinner Plate Set
+10544,1484,70621952,XpressBees,4,COD,Pune,Maharashtra,Dish Soap
+10545,2058,56704983,XpressBees,1,Prepaid,Kolkata,West Bengal,Dish Sponge
+10546,3172,75932603,Ekart,4,COD,Kolkata,West Bengal,Dish Soap
+10547,2096,70006831,Ekart,1,Prepaid,Ahmedabad,Gujarat,Garbage Bags
+10548,4385,25589403,Ekart,4,COD,Mumbai,Maharashtra,Electric Kettle
+10549,604,91590608,Ekart,4,Prepaid,Chennai,Tamil Nadu,Garbage Bags
+10550,1314,21167831,XpressBees,2,Prepaid,Kolkata,West Bengal,Water Bottle
+10551,1631,54914204,ShadowFax,1,COD,Pune,Maharashtra,Dish Soap
+10552,3540,33523099,XpressBees,3,COD,Ahmedabad,Gujarat,Curtains
+10553,923,74980813,ShadowFax,3,Prepaid,Hyderabad,Telangana,Cushion Cover
+10554,1028,16539689,Ekart,3,Prepaid,Mumbai,Maharashtra,Bucket
+10555,233,38365503,ShadowFax,1,COD,Ahmedabad,Gujarat,Dinner Plate Set
+10556,2205,54216187,XpressBees,2,Prepaid,Mumbai,Maharashtra,Dish Sponge
+10557,3727,83938575,Ekart,3,COD,Delhi,Delhi,Garbage Bags
+10558,4880,83991587,Ekart,1,Prepaid,Chennai,Tamil Nadu,Air Freshener
+10559,1952,40668060,XpressBees,2,Prepaid,Chennai,Tamil Nadu,Floor Cleaner
+10560,4275,81118170,Ekart,4,Prepaid,Bangalore,Karnataka,Bucket
+10561,3033,16840092,XpressBees,3,Prepaid,Pune,Maharashtra,Laundry Detergent
+10562,3384,52304411,ShadowFax,1,Prepaid,Kolkata,West Bengal,Dinner Plate Set
+10563,4398,36652255,Ekart,3,COD,Bangalore,Karnataka,Cushion Cover
+10564,2911,69220378,XpressBees,1,Prepaid,Kolkata,West Bengal,Storage Container
+10565,1350,88176522,XpressBees,1,COD,Pune,Maharashtra,Dish Sponge
+10566,3612,95580460,XpressBees,2,COD,Pune,Maharashtra,Garbage Bags
+10567,1356,62178119,Ekart,1,COD,Hyderabad,Telangana,Garbage Bags
+10568,3476,27550263,Ekart,1,COD,Mumbai,Maharashtra,Shampoo
+10569,3586,62333232,XpressBees,2,COD,Mumbai,Maharashtra,Hand Wash
+10570,3684,67588532,XpressBees,1,Prepaid,Ahmedabad,Gujarat,Mop
+10571,1496,59940803,ShadowFax,2,COD,Mumbai,Maharashtra,Laundry Detergent
+10572,3737,69078067,ShadowFax,2,Prepaid,Chennai,Tamil Nadu,Broom
+10573,3430,22592248,XpressBees,3,Prepaid,Pune,Maharashtra,Toothpaste
+10574,2803,97518411,XpressBees,4,COD,Kolkata,West Bengal,Dish Soap
+10575,570,50860363,Ekart,1,Prepaid,Bangalore,Karnataka,Mop
+10576,1453,68135282,XpressBees,1,COD,Kolkata,West Bengal,Mop
+10577,2883,94941623,XpressBees,2,Prepaid,Chennai,Tamil Nadu,Broom
+10578,2931,60368595,XpressBees,2,COD,Hyderabad,Telangana,Toilet Cleaner
+10579,457,62741126,XpressBees,1,Prepaid,Mumbai,Maharashtra,Hand Wash
+10580,3119,55339250,ShadowFax,1,Prepaid,Hyderabad,Telangana,Toilet Cleaner
+10581,767,49194834,Ekart,4,Prepaid,Mumbai,Maharashtra,Curtains
+10582,4568,60330257,Ekart,3,COD,Chennai,Tamil Nadu,Dinner Plate Set
+10583,1245,84667787,ShadowFax,3,COD,Bangalore,Karnataka,Cushion Cover
+10584,4285,65771758,XpressBees,1,Prepaid,Mumbai,Maharashtra,Garbage Bags
+10585,3819,85797156,Ekart,4,Prepaid,Bangalore,Karnataka,Water Bottle
+10586,2845,51555209,XpressBees,4,Prepaid,Chennai,Tamil Nadu,Laundry Detergent
+10587,639,28958166,ShadowFax,4,COD,Mumbai,Maharashtra,Soap Bar
+10588,2879,99742289,Ekart,2,Prepaid,Kolkata,West Bengal,Dish Sponge
+10589,4236,82915893,XpressBees,2,Prepaid,Chennai,Tamil Nadu,Hand Wash
+10590,4935,52705902,XpressBees,1,Prepaid,Bangalore,Karnataka,Shampoo
+10591,3875,20639221,XpressBees,4,COD,Ahmedabad,Gujarat,Laundry Detergent
+10592,2608,29763137,Ekart,4,Prepaid,Bangalore,Karnataka,Storage Container
+10593,2879,20578173,XpressBees,3,Prepaid,Hyderabad,Telangana,Storage Container
+10594,1024,78990529,XpressBees,4,COD,Chennai,Tamil Nadu,Hand Wash
+10595,3056,14573281,ShadowFax,1,COD,Pune,Maharashtra,Storage Container
+10596,1681,82593865,ShadowFax,2,COD,Bangalore,Karnataka,Cushion Cover
+10597,3424,88217316,XpressBees,2,COD,Chennai,Tamil Nadu,Electric Kettle
+10598,4585,92845599,ShadowFax,2,COD,Ahmedabad,Gujarat,Laundry Detergent
+10599,355,21392792,XpressBees,3,Prepaid,Mumbai,Maharashtra,Shampoo
+10600,4904,89565975,XpressBees,1,COD,Mumbai,Maharashtra,Toilet Cleaner
+10601,1938,65571412,Ekart,2,Prepaid,Mumbai,Maharashtra,Air Freshener
+10602,2044,88343660,XpressBees,4,Prepaid,Ahmedabad,Gujarat,Water Bottle
+10603,109,97250726,XpressBees,1,COD,Ahmedabad,Gujarat,Bucket
+10604,2971,69899707,Ekart,1,COD,Kolkata,West Bengal,Shampoo
+10605,897,19989657,ShadowFax,4,Prepaid,Mumbai,Maharashtra,Mop
+10606,1115,41199998,XpressBees,2,COD,Delhi,Delhi,Air Freshener
+10607,1924,42622405,ShadowFax,2,COD,Pune,Maharashtra,Air Freshener
+10608,4569,34417576,Ekart,2,Prepaid,Kolkata,West Bengal,Bucket
+10609,3236,16978207,XpressBees,3,Prepaid,Bangalore,Karnataka,Curtains
+10610,2293,36016263,Ekart,2,Prepaid,Delhi,Delhi,Floor Cleaner
+10611,323,86494865,Ekart,1,COD,Hyderabad,Telangana,Garbage Bags
+10612,4258,13674809,Ekart,3,COD,Hyderabad,Telangana,Water Bottle
+10613,4025,24692213,XpressBees,2,Prepaid,Delhi,Delhi,Mop
+10614,4884,73507072,ShadowFax,3,Prepaid,Ahmedabad,Gujarat,Water Bottle
+10615,4100,30670638,ShadowFax,1,Prepaid,Ahmedabad,Gujarat,Dinner Plate Set
+10616,1733,72153552,Ekart,1,Prepaid,Delhi,Delhi,Hand Wash
+10617,2252,42254526,Ekart,1,Prepaid,Bangalore,Karnataka,Garbage Bags
+10618,610,54950417,ShadowFax,1,Prepaid,Bangalore,Karnataka,Storage Container
+10619,484,37065747,Ekart,4,Prepaid,Delhi,Delhi,Garbage Bags
+10620,504,17069721,Ekart,2,Prepaid,Delhi,Delhi,Hand Wash
+10621,4713,45045489,Ekart,4,COD,Delhi,Delhi,Water Bottle
+10622,4671,17615709,Ekart,1,Prepaid,Bangalore,Karnataka,Bucket
+10623,2100,67135450,XpressBees,1,Prepaid,Delhi,Delhi,Curtains
+10624,2856,74518166,XpressBees,2,COD,Hyderabad,Telangana,Electric Kettle
+10625,1768,26445453,XpressBees,2,Prepaid,Pune,Maharashtra,Water Bottle
+10626,1560,40000226,ShadowFax,3,Prepaid,Hyderabad,Telangana,Water Bottle
+10627,3736,63203199,Ekart,2,COD,Kolkata,West Bengal,Dinner Plate Set
+10628,2824,23132511,Ekart,3,COD,Mumbai,Maharashtra,Curtains
+10629,4909,55748652,Ekart,2,Prepaid,Ahmedabad,Gujarat,Shampoo
+10630,4278,67700803,XpressBees,2,COD,Kolkata,West Bengal,Cushion Cover
+10631,2148,86161557,ShadowFax,2,COD,Delhi,Delhi,Toothpaste
+10632,4246,84341488,Ekart,4,Prepaid,Hyderabad,Telangana,Hand Wash
+10633,4880,40397984,ShadowFax,4,COD,Pune,Maharashtra,Soap Bar
+10634,816,64406924,Ekart,3,COD,Delhi,Delhi,Dish Sponge
+10635,4644,31479853,Ekart,2,Prepaid,Hyderabad,Telangana,Toilet Cleaner
+10636,4683,23998187,Ekart,4,Prepaid,Pune,Maharashtra,Dinner Plate Set
+10637,1923,29017856,Ekart,4,Prepaid,Hyderabad,Telangana,Bucket
+10638,2181,75058958,XpressBees,1,COD,Ahmedabad,Gujarat,Storage Container
+10639,3519,11330054,XpressBees,4,Prepaid,Kolkata,West Bengal,Storage Container
+10640,1674,50062352,Ekart,4,COD,Delhi,Delhi,Storage Container
+10641,349,26420299,ShadowFax,1,Prepaid,Pune,Maharashtra,Dinner Plate Set
+10642,773,44704694,XpressBees,3,COD,Hyderabad,Telangana,Mop
+10643,4633,41291191,XpressBees,3,COD,Hyderabad,Telangana,Bucket
+10644,2265,62919309,Ekart,1,COD,Ahmedabad,Gujarat,Hand Wash
+10645,870,75439308,Ekart,2,Prepaid,Kolkata,West Bengal,Water Bottle
+10646,4062,93890292,XpressBees,3,Prepaid,Chennai,Tamil Nadu,Dinner Plate Set
+10647,4463,13447711,XpressBees,2,Prepaid,Delhi,Delhi,Water Bottle
+10648,2084,67464553,Ekart,3,COD,Mumbai,Maharashtra,Storage Container
+10649,1177,50824956,Ekart,1,Prepaid,Chennai,Tamil Nadu,Cushion Cover
+10650,335,96374424,Ekart,2,COD,Ahmedabad,Gujarat,Storage Container
+10651,488,42874074,XpressBees,4,COD,Bangalore,Karnataka,Toothpaste
+10652,3137,56633367,ShadowFax,2,Prepaid,Mumbai,Maharashtra,Soap Bar
+10653,4958,23808524,ShadowFax,3,Prepaid,Delhi,Delhi,Shampoo
+10654,1948,25030364,XpressBees,4,Prepaid,Bangalore,Karnataka,Storage Container
+10655,4819,60406618,XpressBees,1,Prepaid,Chennai,Tamil Nadu,Dinner Plate Set
+10656,2914,31548550,Ekart,2,COD,Kolkata,West Bengal,Dinner Plate Set
+10657,3474,65488652,XpressBees,1,COD,Chennai,Tamil Nadu,Dinner Plate Set
+10658,3378,55135458,ShadowFax,2,COD,Hyderabad,Telangana,Air Freshener
+10659,1352,33691973,XpressBees,3,Prepaid,Chennai,Tamil Nadu,Bucket
+10660,4081,52959674,Ekart,2,Prepaid,Hyderabad,Telangana,Laundry Detergent
+10661,4773,76775437,ShadowFax,1,COD,Pune,Maharashtra,Toilet Cleaner
+10662,2222,93656212,Ekart,2,COD,Hyderabad,Telangana,Storage Container
+10663,4630,16378543,XpressBees,4,Prepaid,Chennai,Tamil Nadu,Electric Kettle
+10664,2250,31119068,Ekart,1,Prepaid,Pune,Maharashtra,Bucket
+10665,4959,89314969,ShadowFax,2,Prepaid,Chennai,Tamil Nadu,Garbage Bags
+10666,1429,19251878,ShadowFax,1,Prepaid,Delhi,Delhi,Dish Sponge
+10667,1458,95635519,Ekart,3,Prepaid,Mumbai,Maharashtra,Curtains
+10668,2582,15098353,XpressBees,4,Prepaid,Hyderabad,Telangana,Garbage Bags
+10669,4642,89430124,Ekart,1,COD,Delhi,Delhi,Toilet Cleaner
+10670,2117,25973859,Ekart,2,Prepaid,Mumbai,Maharashtra,Mop
+10671,1431,15894811,XpressBees,2,COD,Ahmedabad,Gujarat,Hand Wash
+10672,4444,56667658,ShadowFax,1,COD,Mumbai,Maharashtra,Dish Soap
+10673,4361,91441547,XpressBees,1,COD,Chennai,Tamil Nadu,Floor Cleaner
+10674,1458,61608091,XpressBees,1,COD,Chennai,Tamil Nadu,Dish Sponge
+10675,4737,73296542,XpressBees,2,Prepaid,Bangalore,Karnataka,Soap Bar
+10676,4954,56185444,Ekart,2,COD,Chennai,Tamil Nadu,Soap Bar
+10677,3277,37364279,Ekart,3,Prepaid,Delhi,Delhi,Broom
+10678,2228,47804528,XpressBees,3,COD,Bangalore,Karnataka,Water Bottle
+10679,2280,41188223,Ekart,3,Prepaid,Delhi,Delhi,Electric Kettle
+10680,4992,59795484,ShadowFax,3,Prepaid,Mumbai,Maharashtra,Dinner Plate Set
+10681,237,46455300,XpressBees,4,COD,Hyderabad,Telangana,Soap Bar
+10682,3572,91979260,ShadowFax,3,Prepaid,Pune,Maharashtra,Garbage Bags
+10683,2932,90423340,XpressBees,4,Prepaid,Ahmedabad,Gujarat,Garbage Bags
+10684,3679,37889224,XpressBees,3,Prepaid,Ahmedabad,Gujarat,Storage Container
+10685,3131,16306206,Ekart,4,COD,Hyderabad,Telangana,Mop
+10686,4264,93579350,Ekart,3,COD,Kolkata,West Bengal,Storage Container
+10687,2693,48114170,ShadowFax,1,COD,Pune,Maharashtra,Hand Wash
+10688,4400,43447861,Ekart,1,COD,Delhi,Delhi,Water Bottle
+10689,3918,33237587,XpressBees,2,COD,Hyderabad,Telangana,Dish Soap
+10690,4238,57432948,Ekart,4,Prepaid,Kolkata,West Bengal,Toilet Cleaner
+10691,3923,56513710,ShadowFax,1,COD,Kolkata,West Bengal,Mop
+10692,4142,39848711,ShadowFax,2,COD,Ahmedabad,Gujarat,Laundry Detergent
+10693,2006,48619823,Ekart,4,Prepaid,Kolkata,West Bengal,Floor Cleaner
+10694,860,59755327,ShadowFax,4,Prepaid,Chennai,Tamil Nadu,Dish Sponge
+10695,3545,17149873,Ekart,4,Prepaid,Delhi,Delhi,Toothpaste
+10696,999,73738922,XpressBees,4,Prepaid,Hyderabad,Telangana,Floor Cleaner
+10697,4555,28792812,Ekart,1,COD,Delhi,Delhi,Toilet Cleaner
+10698,3047,72649678,XpressBees,2,Prepaid,Chennai,Tamil Nadu,Broom
+10699,1819,16053463,Ekart,4,Prepaid,Ahmedabad,Gujarat,Dish Sponge
+10700,380,52079412,Ekart,4,Prepaid,Ahmedabad,Gujarat,Dish Soap
+10701,3366,14430629,XpressBees,1,COD,Ahmedabad,Gujarat,Curtains
+10702,1987,77772472,ShadowFax,3,Prepaid,Pune,Maharashtra,Toilet Cleaner
+10703,3366,42811272,Ekart,1,Prepaid,Pune,Maharashtra,Dinner Plate Set
+10704,766,88519128,XpressBees,2,COD,Delhi,Delhi,Curtains
+10705,4288,66820366,XpressBees,3,COD,Chennai,Tamil Nadu,Water Bottle
+10706,771,21535898,XpressBees,3,COD,Kolkata,West Bengal,Dish Soap
+10707,2069,92773164,ShadowFax,1,COD,Ahmedabad,Gujarat,Dish Soap
+10708,4256,80461428,ShadowFax,2,COD,Kolkata,West Bengal,Air Freshener
+10709,3222,68077189,Ekart,1,Prepaid,Chennai,Tamil Nadu,Broom
+10710,4799,79330959,XpressBees,4,Prepaid,Mumbai,Maharashtra,Mop
+10711,4877,16101810,ShadowFax,2,COD,Kolkata,West Bengal,Broom
+10712,4000,28362140,Ekart,3,Prepaid,Ahmedabad,Gujarat,Soap Bar
+10713,623,19830376,ShadowFax,2,Prepaid,Chennai,Tamil Nadu,Mop
+10714,2493,68790028,XpressBees,4,COD,Mumbai,Maharashtra,Soap Bar
+10715,3217,73894405,Ekart,4,COD,Pune,Maharashtra,Dinner Plate Set
+10716,2693,61228179,ShadowFax,2,Prepaid,Ahmedabad,Gujarat,Storage Container
+10717,2068,17662693,Ekart,4,COD,Mumbai,Maharashtra,Floor Cleaner
+10718,1853,87159265,XpressBees,1,Prepaid,Hyderabad,Telangana,Cushion Cover
+10719,2396,92393169,XpressBees,2,COD,Pune,Maharashtra,Toothpaste
+10720,2361,50152006,Ekart,2,Prepaid,Pune,Maharashtra,Hand Wash
+10721,2386,70985892,ShadowFax,3,Prepaid,Hyderabad,Telangana,Curtains
+10722,4302,29200501,ShadowFax,1,COD,Kolkata,West Bengal,Dish Soap
+10723,2978,25991245,XpressBees,1,Prepaid,Mumbai,Maharashtra,Soap Bar
+10724,4243,69960269,Ekart,3,COD,Delhi,Delhi,Mop
+10725,3744,35154947,XpressBees,1,Prepaid,Chennai,Tamil Nadu,Mop
+10726,4532,32780557,Ekart,4,Prepaid,Hyderabad,Telangana,Toilet Cleaner
+10727,2155,20786103,Ekart,2,Prepaid,Kolkata,West Bengal,Bucket
+10728,4820,83158560,Ekart,3,COD,Delhi,Delhi,Mop
+10729,1376,78766919,XpressBees,1,COD,Kolkata,West Bengal,Cushion Cover
+10730,2866,12147674,XpressBees,1,COD,Pune,Maharashtra,Mop
+10731,402,73946464,Ekart,4,Prepaid,Kolkata,West Bengal,Broom
+10732,738,65868153,ShadowFax,2,COD,Ahmedabad,Gujarat,Air Freshener
+10733,155,15278073,ShadowFax,4,Prepaid,Ahmedabad,Gujarat,Soap Bar
+10734,4921,82990045,XpressBees,4,Prepaid,Delhi,Delhi,Toothpaste
+10735,625,39329797,ShadowFax,4,COD,Ahmedabad,Gujarat,Mop
+10736,4669,14697984,Ekart,4,COD,Bangalore,Karnataka,Hand Wash
+10737,4223,49707144,Ekart,1,Prepaid,Ahmedabad,Gujarat,Water Bottle
+10738,2225,18605750,ShadowFax,2,Prepaid,Ahmedabad,Gujarat,Dish Soap
+10739,3387,55576223,Ekart,4,Prepaid,Chennai,Tamil Nadu,Garbage Bags
+10740,464,13066720,Ekart,4,COD,Kolkata,West Bengal,Hand Wash
+10741,4721,34968953,Ekart,3,Prepaid,Bangalore,Karnataka,Broom
+10742,1746,96002193,Ekart,2,COD,Bangalore,Karnataka,Bucket
+10743,1018,35914148,Ekart,4,COD,Mumbai,Maharashtra,Storage Container
+10744,2897,89064254,XpressBees,1,Prepaid,Mumbai,Maharashtra,Dinner Plate Set
+10745,1631,89583364,Ekart,2,Prepaid,Mumbai,Maharashtra,Soap Bar
+10746,3445,16978871,Ekart,4,COD,Chennai,Tamil Nadu,Curtains
+10747,2006,56237893,XpressBees,4,Prepaid,Hyderabad,Telangana,Toilet Cleaner
+10748,3186,68201296,Ekart,4,COD,Ahmedabad,Gujarat,Mop
+10749,4680,85243911,Ekart,4,Prepaid,Bangalore,Karnataka,Cushion Cover
+10750,2175,45060356,Ekart,4,COD,Pune,Maharashtra,Laundry Detergent
+10751,813,18972059,Ekart,4,Prepaid,Bangalore,Karnataka,Toilet Cleaner
+10752,1162,90926158,XpressBees,4,Prepaid,Ahmedabad,Gujarat,Bucket
+10753,2076,36974011,Ekart,2,Prepaid,Hyderabad,Telangana,Dinner Plate Set
+10754,1396,90397403,ShadowFax,4,Prepaid,Kolkata,West Bengal,Hand Wash
+10755,225,50223063,Ekart,1,Prepaid,Hyderabad,Telangana,Dish Soap
+10756,4732,38104793,ShadowFax,4,COD,Kolkata,West Bengal,Hand Wash
+10757,3696,92688582,Ekart,1,COD,Hyderabad,Telangana,Laundry Detergent
+10758,3383,11878578,Ekart,1,Prepaid,Kolkata,West Bengal,Laundry Detergent
+10759,1703,36465599,ShadowFax,1,Prepaid,Ahmedabad,Gujarat,Hand Wash
+10760,166,25777694,Ekart,3,Prepaid,Bangalore,Karnataka,Floor Cleaner
+10761,332,75444538,Ekart,4,Prepaid,Ahmedabad,Gujarat,Broom
+10762,2256,86229170,Ekart,3,COD,Chennai,Tamil Nadu,Hand Wash
+10763,1269,53139906,XpressBees,4,COD,Chennai,Tamil Nadu,Dinner Plate Set
+10764,2258,39873818,ShadowFax,2,COD,Chennai,Tamil Nadu,Bucket
+10765,4306,17900368,XpressBees,4,COD,Pune,Maharashtra,Toothpaste
+10766,1593,76666655,XpressBees,2,Prepaid,Kolkata,West Bengal,Shampoo
+10767,4818,99190091,Ekart,3,COD,Bangalore,Karnataka,Laundry Detergent
+10768,4107,55524653,XpressBees,2,COD,Delhi,Delhi,Curtains
+10769,2572,70457635,Ekart,3,Prepaid,Hyderabad,Telangana,Mop
+10770,2760,93787851,ShadowFax,3,COD,Ahmedabad,Gujarat,Air Freshener
+10771,2839,51344651,XpressBees,2,Prepaid,Ahmedabad,Gujarat,Air Freshener
+10772,1861,96936890,XpressBees,4,Prepaid,Kolkata,West Bengal,Hand Wash
+10773,3614,11779923,ShadowFax,1,Prepaid,Delhi,Delhi,Mop
+10774,2075,56263977,ShadowFax,4,COD,Bangalore,Karnataka,Toothpaste
+10775,2462,91576258,XpressBees,1,Prepaid,Hyderabad,Telangana,Toilet Cleaner
+10776,976,89141150,Ekart,3,COD,Delhi,Delhi,Garbage Bags
+10777,3912,45110148,XpressBees,1,Prepaid,Pune,Maharashtra,Dish Sponge
+10778,3548,87437523,ShadowFax,1,Prepaid,Pune,Maharashtra,Air Freshener
+10779,1412,43829607,XpressBees,3,COD,Hyderabad,Telangana,Toilet Cleaner
+10780,1560,80802094,Ekart,1,Prepaid,Hyderabad,Telangana,Mop
+10781,2809,49792887,XpressBees,3,COD,Pune,Maharashtra,Shampoo
+10782,2424,10803497,XpressBees,2,COD,Pune,Maharashtra,Air Freshener
+10783,1833,11821879,XpressBees,4,Prepaid,Kolkata,West Bengal,Dish Sponge
+10784,1705,47576842,XpressBees,4,COD,Kolkata,West Bengal,Air Freshener
+10785,2663,91540844,Ekart,3,COD,Delhi,Delhi,Toothpaste
+10786,3521,76054312,Ekart,2,Prepaid,Mumbai,Maharashtra,Shampoo
+10787,3617,44485027,Ekart,1,COD,Hyderabad,Telangana,Air Freshener
+10788,2497,63599518,Ekart,2,COD,Delhi,Delhi,Floor Cleaner
+10789,3835,36922071,Ekart,4,Prepaid,Kolkata,West Bengal,Dinner Plate Set
+10790,2970,60271739,Ekart,4,COD,Bangalore,Karnataka,Storage Container
+10791,1260,45709313,Ekart,3,COD,Hyderabad,Telangana,Water Bottle
+10792,4954,20125596,ShadowFax,1,COD,Kolkata,West Bengal,Curtains
+10793,342,99123642,XpressBees,2,COD,Chennai,Tamil Nadu,Bucket
+10794,2690,54409128,ShadowFax,4,COD,Chennai,Tamil Nadu,Bucket
+10795,1163,31065768,ShadowFax,2,COD,Hyderabad,Telangana,Air Freshener
+10796,4424,68124538,XpressBees,1,COD,Chennai,Tamil Nadu,Dish Sponge
+10797,2695,18906999,XpressBees,2,COD,Mumbai,Maharashtra,Dish Sponge
+10798,1019,32568542,XpressBees,2,Prepaid,Chennai,Tamil Nadu,Dish Sponge
+10799,105,88849405,Ekart,3,COD,Pune,Maharashtra,Dinner Plate Set
+10800,567,62359123,Ekart,3,Prepaid,Chennai,Tamil Nadu,Laundry Detergent
+10801,4270,32622058,ShadowFax,3,Prepaid,Mumbai,Maharashtra,Curtains
+10802,103,93343270,Ekart,2,Prepaid,Hyderabad,Telangana,Storage Container
+10803,745,24698190,ShadowFax,3,Prepaid,Hyderabad,Telangana,Cushion Cover
+10804,217,28578896,XpressBees,3,COD,Bangalore,Karnataka,Garbage Bags
+10805,3028,87450371,Ekart,4,COD,Pune,Maharashtra,Electric Kettle
+10806,2651,31668595,ShadowFax,1,COD,Bangalore,Karnataka,Floor Cleaner
+10807,4389,75431582,ShadowFax,3,COD,Hyderabad,Telangana,Electric Kettle
+10808,946,29883805,ShadowFax,1,COD,Bangalore,Karnataka,Cushion Cover
+10809,2862,18747452,ShadowFax,4,COD,Hyderabad,Telangana,Air Freshener
+10810,1241,55185476,Ekart,2,COD,Bangalore,Karnataka,Toilet Cleaner
+10811,1910,39388380,Ekart,2,COD,Pune,Maharashtra,Air Freshener
+10812,823,10476616,XpressBees,4,Prepaid,Pune,Maharashtra,Mop
+10813,324,87118308,Ekart,1,Prepaid,Hyderabad,Telangana,Dish Soap
+10814,4727,39617421,Ekart,3,Prepaid,Ahmedabad,Gujarat,Water Bottle
+10815,4308,90736759,Ekart,1,Prepaid,Delhi,Delhi,Hand Wash
+10816,4754,20910225,Ekart,4,COD,Ahmedabad,Gujarat,Storage Container
+10817,2148,13419344,XpressBees,3,Prepaid,Chennai,Tamil Nadu,Air Freshener
+10818,4849,96467001,Ekart,2,Prepaid,Kolkata,West Bengal,Storage Container
+10819,4515,74390908,ShadowFax,3,COD,Kolkata,West Bengal,Broom
+10820,1673,35556244,XpressBees,3,Prepaid,Hyderabad,Telangana,Mop
+10821,1928,13423213,Ekart,1,Prepaid,Delhi,Delhi,Dinner Plate Set
+10822,2017,73968521,ShadowFax,2,COD,Mumbai,Maharashtra,Floor Cleaner
+10823,4334,20746219,Ekart,1,Prepaid,Hyderabad,Telangana,Broom
+10824,2126,34093204,Ekart,4,Prepaid,Chennai,Tamil Nadu,Air Freshener
+10825,3844,73893440,Ekart,3,Prepaid,Ahmedabad,Gujarat,Hand Wash
+10826,1001,49237928,XpressBees,1,Prepaid,Ahmedabad,Gujarat,Air Freshener
+10827,4885,72147070,Ekart,1,Prepaid,Delhi,Delhi,Electric Kettle
+10828,2139,46464563,XpressBees,3,COD,Mumbai,Maharashtra,Soap Bar
+10829,109,69829359,ShadowFax,4,Prepaid,Ahmedabad,Gujarat,Curtains
+10830,360,76016901,Ekart,2,Prepaid,Kolkata,West Bengal,Cushion Cover
+10831,1773,90288792,XpressBees,1,COD,Chennai,Tamil Nadu,Dish Soap
+10832,2319,50561379,Ekart,4,Prepaid,Delhi,Delhi,Toothpaste
+10833,2160,31315837,Ekart,4,Prepaid,Delhi,Delhi,Dish Sponge
+10834,3813,10195842,Ekart,2,COD,Hyderabad,Telangana,Storage Container
+10835,1719,76586731,XpressBees,4,COD,Chennai,Tamil Nadu,Dinner Plate Set
+10836,420,81341863,Ekart,2,Prepaid,Ahmedabad,Gujarat,Toilet Cleaner
+10837,1442,15513279,Ekart,3,Prepaid,Hyderabad,Telangana,Air Freshener
+10838,2476,55347031,Ekart,3,Prepaid,Ahmedabad,Gujarat,Electric Kettle
+10839,2932,42792665,Ekart,4,COD,Hyderabad,Telangana,Floor Cleaner
+10840,2924,21231227,Ekart,2,Prepaid,Delhi,Delhi,Bucket
+10841,2094,71856196,ShadowFax,4,COD,Kolkata,West Bengal,Broom
+10842,3058,88002685,Ekart,4,COD,Mumbai,Maharashtra,Garbage Bags
+10843,2138,30290429,Ekart,1,Prepaid,Hyderabad,Telangana,Broom
+10844,3590,66161957,XpressBees,2,COD,Pune,Maharashtra,Bucket
+10845,3777,85614048,XpressBees,4,Prepaid,Pune,Maharashtra,Dish Soap
+10846,1218,57502516,XpressBees,2,Prepaid,Mumbai,Maharashtra,Garbage Bags
+10847,1704,53314192,ShadowFax,4,COD,Chennai,Tamil Nadu,Electric Kettle
+10848,4127,88148064,Ekart,4,Prepaid,Pune,Maharashtra,Air Freshener
+10849,335,35574635,Ekart,3,COD,Chennai,Tamil Nadu,Toilet Cleaner
+10850,2069,30592994,XpressBees,1,Prepaid,Mumbai,Maharashtra,Garbage Bags
+10851,4529,32617101,XpressBees,3,COD,Chennai,Tamil Nadu,Toilet Cleaner
+10852,2008,22705293,ShadowFax,2,COD,Delhi,Delhi,Dish Soap
+10853,475,97462636,XpressBees,3,COD,Mumbai,Maharashtra,Water Bottle
+10854,3630,98232612,Ekart,2,Prepaid,Chennai,Tamil Nadu,Dish Soap
+10855,2735,79762635,XpressBees,3,COD,Bangalore,Karnataka,Shampoo
+10856,1670,11107170,Ekart,4,Prepaid,Bangalore,Karnataka,Floor Cleaner
+10857,2660,63622303,XpressBees,2,COD,Hyderabad,Telangana,Dish Sponge
+10858,3491,13055105,Ekart,1,COD,Delhi,Delhi,Soap Bar
+10859,3065,55833056,XpressBees,3,COD,Kolkata,West Bengal,Toilet Cleaner
+10860,3743,12303225,Ekart,1,COD,Ahmedabad,Gujarat,Toothpaste
+10861,3950,32176911,ShadowFax,2,COD,Kolkata,West Bengal,Air Freshener
+10862,972,54805976,XpressBees,3,COD,Kolkata,West Bengal,Soap Bar
+10863,1352,15401743,Ekart,3,COD,Hyderabad,Telangana,Bucket
+10864,1414,53685199,XpressBees,4,COD,Bangalore,Karnataka,Soap Bar
+10865,4920,88225930,XpressBees,2,Prepaid,Pune,Maharashtra,Hand Wash
+10866,2998,18738107,Ekart,2,COD,Hyderabad,Telangana,Dish Soap
+10867,177,38182735,XpressBees,2,COD,Hyderabad,Telangana,Laundry Detergent
+10868,2721,56457350,Ekart,1,Prepaid,Ahmedabad,Gujarat,Broom
+10869,4327,58153307,Ekart,1,Prepaid,Mumbai,Maharashtra,Soap Bar
+10870,700,90228210,Ekart,2,COD,Pune,Maharashtra,Storage Container
+10871,1165,65762974,XpressBees,1,Prepaid,Bangalore,Karnataka,Dish Soap
+10872,2236,75658634,XpressBees,2,Prepaid,Chennai,Tamil Nadu,Broom
+10873,2549,22495818,Ekart,3,COD,Kolkata,West Bengal,Dish Sponge
+10874,2443,67737276,Ekart,2,Prepaid,Bangalore,Karnataka,Water Bottle
+10875,1963,65423672,ShadowFax,3,COD,Chennai,Tamil Nadu,Electric Kettle
+10876,1418,88120736,Ekart,4,COD,Delhi,Delhi,Storage Container
+10877,4811,35240758,XpressBees,1,Prepaid,Kolkata,West Bengal,Soap Bar
+10878,3697,11098026,XpressBees,2,Prepaid,Mumbai,Maharashtra,Dish Sponge
+10879,3862,93288681,Ekart,1,Prepaid,Ahmedabad,Gujarat,Electric Kettle
+10880,4770,96112375,ShadowFax,4,Prepaid,Delhi,Delhi,Water Bottle
+10881,2290,10819696,XpressBees,1,COD,Chennai,Tamil Nadu,Dish Sponge
+10882,1092,65221728,Ekart,1,Prepaid,Pune,Maharashtra,Broom
+10883,2812,12027109,XpressBees,4,Prepaid,Chennai,Tamil Nadu,Mop
+10884,2292,97097566,Ekart,2,Prepaid,Bangalore,Karnataka,Toothpaste
+10885,1348,84593540,XpressBees,1,COD,Mumbai,Maharashtra,Soap Bar
+10886,3154,23887806,ShadowFax,1,COD,Delhi,Delhi,Air Freshener
+10887,4698,95031441,XpressBees,3,COD,Mumbai,Maharashtra,Hand Wash
+10888,4133,49666819,Ekart,3,COD,Chennai,Tamil Nadu,Laundry Detergent
+10889,2097,36856369,XpressBees,1,Prepaid,Hyderabad,Telangana,Broom
+10890,3787,79696564,Ekart,4,COD,Ahmedabad,Gujarat,Dinner Plate Set
+10891,2251,92503315,ShadowFax,3,Prepaid,Mumbai,Maharashtra,Toilet Cleaner
+10892,4118,27104111,Ekart,2,Prepaid,Hyderabad,Telangana,Laundry Detergent
+10893,3210,81202357,XpressBees,3,COD,Bangalore,Karnataka,Soap Bar
+10894,2070,28710555,Ekart,1,COD,Pune,Maharashtra,Toilet Cleaner
+10895,297,94162798,ShadowFax,4,Prepaid,Delhi,Delhi,Laundry Detergent
+10896,2726,73447116,XpressBees,2,COD,Delhi,Delhi,Water Bottle
+10897,1302,61876002,Ekart,4,Prepaid,Kolkata,West Bengal,Toothpaste
+10898,2135,90290705,XpressBees,2,Prepaid,Ahmedabad,Gujarat,Water Bottle
+10899,577,14751776,Ekart,1,COD,Mumbai,Maharashtra,Electric Kettle
+10900,1354,44384099,Ekart,1,COD,Mumbai,Maharashtra,Water Bottle
+10901,1022,82036488,XpressBees,2,COD,Hyderabad,Telangana,Electric Kettle
+10902,519,41927296,Ekart,2,Prepaid,Mumbai,Maharashtra,Garbage Bags
+10903,2304,93644061,XpressBees,4,Prepaid,Hyderabad,Telangana,Cushion Cover
+10904,2697,36016297,Ekart,4,COD,Delhi,Delhi,Bucket
+10905,1220,11436747,Ekart,3,Prepaid,Chennai,Tamil Nadu,Air Freshener
+10906,3168,78565227,XpressBees,4,Prepaid,Mumbai,Maharashtra,Mop
+10907,1050,38847502,ShadowFax,2,COD,Hyderabad,Telangana,Bucket
+10908,2436,26674522,XpressBees,4,Prepaid,Pune,Maharashtra,Dish Sponge
+10909,2343,75385564,XpressBees,4,COD,Ahmedabad,Gujarat,Toothpaste
+10910,2745,38941838,ShadowFax,2,COD,Kolkata,West Bengal,Cushion Cover
+10911,1957,77348066,Ekart,4,Prepaid,Pune,Maharashtra,Floor Cleaner
+10912,4712,78113161,Ekart,3,COD,Chennai,Tamil Nadu,Curtains
+10913,1965,51017016,XpressBees,2,COD,Hyderabad,Telangana,Mop
+10914,3012,49802009,ShadowFax,1,COD,Pune,Maharashtra,Garbage Bags
+10915,2953,53102625,XpressBees,4,COD,Hyderabad,Telangana,Shampoo
+10916,3328,60529977,XpressBees,3,Prepaid,Kolkata,West Bengal,Dish Soap
+10917,3819,10946431,Ekart,2,Prepaid,Delhi,Delhi,Curtains
+10918,3328,51840782,Ekart,2,Prepaid,Chennai,Tamil Nadu,Shampoo
+10919,2471,52561731,XpressBees,2,COD,Hyderabad,Telangana,Dinner Plate Set
+10920,2991,13750892,XpressBees,4,COD,Chennai,Tamil Nadu,Cushion Cover
+10921,3856,77124777,XpressBees,1,Prepaid,Chennai,Tamil Nadu,Hand Wash
+10922,4325,48722962,ShadowFax,2,COD,Chennai,Tamil Nadu,Electric Kettle
+10923,194,99892141,ShadowFax,3,Prepaid,Delhi,Delhi,Hand Wash
+10924,2774,59561960,Ekart,4,Prepaid,Chennai,Tamil Nadu,Laundry Detergent
+10925,2055,70812626,ShadowFax,3,COD,Ahmedabad,Gujarat,Water Bottle
+10926,893,13762864,XpressBees,4,COD,Bangalore,Karnataka,Soap Bar
+10927,1934,74151799,XpressBees,4,COD,Delhi,Delhi,Electric Kettle
+10928,2216,57502521,ShadowFax,2,Prepaid,Kolkata,West Bengal,Curtains
+10929,4206,10875940,Ekart,2,Prepaid,Kolkata,West Bengal,Bucket
+10930,3425,35112385,XpressBees,3,COD,Chennai,Tamil Nadu,Laundry Detergent
+10931,3019,76103765,ShadowFax,4,COD,Mumbai,Maharashtra,Water Bottle
+10932,2697,54972235,XpressBees,3,Prepaid,Hyderabad,Telangana,Dish Sponge
+10933,3305,78292333,XpressBees,1,Prepaid,Ahmedabad,Gujarat,Storage Container
+10934,4907,90969638,Ekart,4,COD,Kolkata,West Bengal,Cushion Cover
+10935,914,39513709,XpressBees,1,Prepaid,Ahmedabad,Gujarat,Hand Wash
+10936,445,19667454,ShadowFax,1,COD,Pune,Maharashtra,Curtains
+10937,2449,10300020,Ekart,4,Prepaid,Delhi,Delhi,Cushion Cover
+10938,462,40663796,Ekart,1,COD,Pune,Maharashtra,Toothpaste
+10939,2543,77059341,XpressBees,4,Prepaid,Bangalore,Karnataka,Electric Kettle
+10940,2365,55969561,Ekart,4,COD,Mumbai,Maharashtra,Garbage Bags
+10941,2288,47115017,XpressBees,2,COD,Mumbai,Maharashtra,Garbage Bags
+10942,3105,83114838,XpressBees,3,COD,Hyderabad,Telangana,Hand Wash
+10943,3381,85031970,Ekart,4,COD,Chennai,Tamil Nadu,Floor Cleaner
+10944,1084,19940942,Ekart,1,Prepaid,Hyderabad,Telangana,Dish Soap
+10945,1739,72233140,XpressBees,1,COD,Chennai,Tamil Nadu,Water Bottle
+10946,927,97532924,Ekart,3,COD,Bangalore,Karnataka,Bucket
+10947,2830,16218668,Ekart,3,COD,Kolkata,West Bengal,Bucket
+10948,3631,55967528,XpressBees,2,Prepaid,Bangalore,Karnataka,Mop
+10949,4551,72952476,XpressBees,4,Prepaid,Chennai,Tamil Nadu,Garbage Bags
+10950,3035,73469374,Ekart,4,COD,Pune,Maharashtra,Curtains
+10951,3976,23224872,Ekart,4,COD,Kolkata,West Bengal,Dish Sponge
+10952,226,46073387,Ekart,3,Prepaid,Kolkata,West Bengal,Dish Sponge
+10953,3277,49024767,XpressBees,3,COD,Pune,Maharashtra,Bucket
+10954,3156,72139826,XpressBees,3,Prepaid,Delhi,Delhi,Shampoo
+10955,703,27047092,Ekart,2,COD,Kolkata,West Bengal,Mop
+10956,3549,65516940,XpressBees,3,Prepaid,Bangalore,Karnataka,Laundry Detergent
+10957,4246,25589625,Ekart,4,COD,Pune,Maharashtra,Soap Bar
+10958,3633,34002203,XpressBees,2,COD,Mumbai,Maharashtra,Toilet Cleaner
+10959,3467,67032999,XpressBees,3,Prepaid,Pune,Maharashtra,Storage Container
+10960,3468,16682218,XpressBees,3,Prepaid,Kolkata,West Bengal,Curtains
+10961,3897,77111374,ShadowFax,3,COD,Chennai,Tamil Nadu,Laundry Detergent
+10962,1892,22989245,Ekart,1,COD,Delhi,Delhi,Mop
+10963,2961,34739508,XpressBees,4,COD,Pune,Maharashtra,Storage Container
+10964,3576,21942128,Ekart,4,COD,Pune,Maharashtra,Dish Soap
+10965,3517,39501643,XpressBees,1,Prepaid,Mumbai,Maharashtra,Toilet Cleaner
+10966,1745,84560285,Ekart,3,COD,Ahmedabad,Gujarat,Dish Soap
+10967,1305,38295363,Ekart,1,COD,Mumbai,Maharashtra,Dish Sponge
+10968,3130,50420902,XpressBees,1,COD,Kolkata,West Bengal,Mop
+10969,2972,47204587,Ekart,1,Prepaid,Bangalore,Karnataka,Floor Cleaner
+10970,3172,82837082,XpressBees,1,Prepaid,Hyderabad,Telangana,Water Bottle
+10971,1954,56769617,XpressBees,2,Prepaid,Chennai,Tamil Nadu,Toothpaste
+10972,4121,52613390,Ekart,4,COD,Hyderabad,Telangana,Dish Soap
+10973,4762,26699809,XpressBees,1,Prepaid,Hyderabad,Telangana,Soap Bar
+10974,2808,65836886,ShadowFax,3,COD,Bangalore,Karnataka,Garbage Bags
+10975,3602,34670425,ShadowFax,1,Prepaid,Delhi,Delhi,Dinner Plate Set
+10976,1432,58842889,Ekart,4,COD,Kolkata,West Bengal,Toothpaste
+10977,301,18343007,XpressBees,3,Prepaid,Delhi,Delhi,Bucket
+10978,3607,83236823,Ekart,2,COD,Mumbai,Maharashtra,Hand Wash
+10979,4312,81916835,XpressBees,4,COD,Chennai,Tamil Nadu,Toothpaste
+10980,674,53436553,ShadowFax,1,COD,Delhi,Delhi,Dish Soap
+10981,636,16180193,XpressBees,4,Prepaid,Kolkata,West Bengal,Bucket
+10982,1725,26390521,Ekart,1,COD,Hyderabad,Telangana,Soap Bar
+10983,2222,89788429,Ekart,3,COD,Ahmedabad,Gujarat,Dish Soap
+10984,485,32338756,Ekart,3,Prepaid,Mumbai,Maharashtra,Bucket
+10985,3381,81938577,XpressBees,3,Prepaid,Hyderabad,Telangana,Storage Container
+10986,574,92823605,XpressBees,1,Prepaid,Mumbai,Maharashtra,Electric Kettle
+10987,517,15504263,ShadowFax,3,COD,Chennai,Tamil Nadu,Dish Sponge
+10988,3700,25462750,XpressBees,1,COD,Hyderabad,Telangana,Cushion Cover
+10989,1054,20762859,Ekart,2,COD,Ahmedabad,Gujarat,Cushion Cover
+10990,4958,26017979,XpressBees,1,COD,Ahmedabad,Gujarat,Dish Sponge
+10991,1305,20227852,XpressBees,1,Prepaid,Ahmedabad,Gujarat,Air Freshener
+10992,4859,37837578,XpressBees,3,Prepaid,Kolkata,West Bengal,Air Freshener
+10993,4220,36379151,ShadowFax,3,Prepaid,Ahmedabad,Gujarat,Curtains
+10994,2090,84497744,XpressBees,2,Prepaid,Kolkata,West Bengal,Curtains
+10995,4905,16326072,XpressBees,1,Prepaid,Kolkata,West Bengal,Hand Wash
+10996,3672,39110501,XpressBees,2,COD,Kolkata,West Bengal,Broom
+10997,4480,23583884,Ekart,2,Prepaid,Ahmedabad,Gujarat,Cushion Cover
+10998,4258,91575724,Ekart,1,COD,Chennai,Tamil Nadu,Mop
+10999,4857,71079911,Ekart,4,Prepaid,Hyderabad,Telangana,Bucket
+11000,2813,50831623,Ekart,2,COD,Delhi,Delhi,Floor Cleaner
+11001,2303,35533266,XpressBees,1,Prepaid,Bangalore,Karnataka,Dinner Plate Set
+11002,3220,72317225,XpressBees,2,COD,Pune,Maharashtra,Bucket
+11003,1066,57841911,ShadowFax,3,Prepaid,Bangalore,Karnataka,Soap Bar
+11004,3532,68845262,Ekart,4,COD,Pune,Maharashtra,Dinner Plate Set
+11005,788,22779253,Ekart,3,Prepaid,Hyderabad,Telangana,Water Bottle
+11006,4343,25819206,ShadowFax,3,Prepaid,Bangalore,Karnataka,Floor Cleaner
+11007,3801,19936369,XpressBees,2,COD,Hyderabad,Telangana,Curtains
+11008,441,53989050,Ekart,4,Prepaid,Delhi,Delhi,Bucket
+11009,1824,96555724,ShadowFax,2,COD,Ahmedabad,Gujarat,Mop
+11010,4522,29083068,XpressBees,3,COD,Ahmedabad,Gujarat,Electric Kettle
+11011,1892,23061373,Ekart,1,Prepaid,Kolkata,West Bengal,Dinner Plate Set
+11012,1859,26302866,XpressBees,1,COD,Ahmedabad,Gujarat,Electric Kettle
+11013,3312,16823862,ShadowFax,3,COD,Ahmedabad,Gujarat,Cushion Cover
+11014,1089,86827710,XpressBees,3,COD,Mumbai,Maharashtra,Garbage Bags
+11015,2362,11958908,ShadowFax,4,Prepaid,Hyderabad,Telangana,Water Bottle
+11016,2582,31885333,XpressBees,4,COD,Kolkata,West Bengal,Storage Container
+11017,1051,56332935,XpressBees,2,Prepaid,Ahmedabad,Gujarat,Laundry Detergent
+11018,822,11528362,ShadowFax,2,Prepaid,Ahmedabad,Gujarat,Dish Soap
+11019,3489,76950296,ShadowFax,3,Prepaid,Delhi,Delhi,Laundry Detergent
+11020,2179,89294228,XpressBees,4,COD,Delhi,Delhi,Dinner Plate Set
+11021,2817,54809867,ShadowFax,3,Prepaid,Pune,Maharashtra,Storage Container
+11022,2432,50978458,Ekart,1,COD,Pune,Maharashtra,Dish Soap
+11023,3476,37456682,ShadowFax,2,Prepaid,Mumbai,Maharashtra,Electric Kettle
+11024,4624,81846850,XpressBees,2,Prepaid,Mumbai,Maharashtra,Bucket
+11025,1600,37344437,Ekart,3,COD,Hyderabad,Telangana,Bucket
+11026,385,36466238,ShadowFax,2,COD,Hyderabad,Telangana,Bucket
+11027,3595,16719244,Ekart,1,Prepaid,Bangalore,Karnataka,Floor Cleaner
+11028,2165,34979730,Ekart,2,Prepaid,Ahmedabad,Gujarat,Electric Kettle
+11029,868,67011148,Ekart,1,Prepaid,Hyderabad,Telangana,Garbage Bags
+11030,3157,75016435,XpressBees,1,COD,Ahmedabad,Gujarat,Storage Container
+11031,4389,94477021,Ekart,3,Prepaid,Mumbai,Maharashtra,Hand Wash
+11032,2261,17063757,XpressBees,3,Prepaid,Chennai,Tamil Nadu,Dish Soap
+11033,3393,91163321,ShadowFax,4,Prepaid,Kolkata,West Bengal,Garbage Bags
+11034,1046,36555423,ShadowFax,3,COD,Delhi,Delhi,Broom
+11035,3435,43127273,XpressBees,2,Prepaid,Bangalore,Karnataka,Floor Cleaner
+11036,4250,54480048,XpressBees,2,Prepaid,Hyderabad,Telangana,Dish Soap
+11037,4995,73212133,ShadowFax,4,COD,Mumbai,Maharashtra,Curtains
+11038,4973,56315149,Ekart,4,Prepaid,Chennai,Tamil Nadu,Mop
+11039,1581,82254509,XpressBees,3,COD,Chennai,Tamil Nadu,Bucket
+11040,2001,59949275,XpressBees,2,Prepaid,Bangalore,Karnataka,Hand Wash
+11041,3551,21742396,XpressBees,4,COD,Hyderabad,Telangana,Air Freshener
+11042,4164,18820376,Ekart,2,Prepaid,Mumbai,Maharashtra,Water Bottle
+11043,154,11650122,ShadowFax,1,COD,Kolkata,West Bengal,Storage Container
+11044,1923,31694140,Ekart,3,Prepaid,Chennai,Tamil Nadu,Cushion Cover
+11045,3562,76764826,XpressBees,2,COD,Delhi,Delhi,Floor Cleaner
+11046,3179,94141980,Ekart,4,Prepaid,Delhi,Delhi,Water Bottle
+11047,932,74869188,Ekart,1,Prepaid,Chennai,Tamil Nadu,Electric Kettle
+11048,4508,25097814,Ekart,4,COD,Hyderabad,Telangana,Electric Kettle
+11049,2906,28982638,XpressBees,1,COD,Mumbai,Maharashtra,Air Freshener
+11050,2590,77477008,Ekart,1,Prepaid,Bangalore,Karnataka,Laundry Detergent
+11051,427,39267954,XpressBees,4,COD,Hyderabad,Telangana,Dish Soap
+11052,3410,47536949,XpressBees,3,COD,Bangalore,Karnataka,Dish Sponge
+11053,3400,62159623,XpressBees,4,Prepaid,Ahmedabad,Gujarat,Soap Bar
+11054,3775,85781686,XpressBees,2,Prepaid,Kolkata,West Bengal,Dish Sponge
+11055,3154,82921037,XpressBees,4,Prepaid,Pune,Maharashtra,Hand Wash
+11056,2243,11165737,XpressBees,1,COD,Hyderabad,Telangana,Soap Bar
+11057,1411,74729758,ShadowFax,1,Prepaid,Kolkata,West Bengal,Dish Sponge
+11058,3291,41918400,XpressBees,2,Prepaid,Mumbai,Maharashtra,Air Freshener
+11059,2638,44831364,XpressBees,1,Prepaid,Chennai,Tamil Nadu,Dish Soap
+11060,4083,21244676,ShadowFax,4,Prepaid,Delhi,Delhi,Laundry Detergent
+11061,4647,13994657,Ekart,1,COD,Pune,Maharashtra,Toothpaste
+11062,264,31091054,Ekart,3,COD,Bangalore,Karnataka,Curtains
+11063,4377,69660288,XpressBees,1,Prepaid,Ahmedabad,Gujarat,Cushion Cover
+11064,922,38706789,Ekart,4,COD,Bangalore,Karnataka,Toothpaste
+11065,1043,59872677,Ekart,3,COD,Kolkata,West Bengal,Dinner Plate Set
+11066,4525,27847815,ShadowFax,1,COD,Mumbai,Maharashtra,Air Freshener
+11067,874,35939608,XpressBees,2,COD,Pune,Maharashtra,Cushion Cover
+11068,2298,98373340,ShadowFax,2,Prepaid,Kolkata,West Bengal,Toilet Cleaner
+11069,3256,38570033,ShadowFax,4,Prepaid,Kolkata,West Bengal,Shampoo
+11070,4342,20176828,ShadowFax,1,COD,Ahmedabad,Gujarat,Air Freshener
+11071,3795,52338852,Ekart,3,COD,Ahmedabad,Gujarat,Bucket
+11072,3552,49529972,XpressBees,3,COD,Bangalore,Karnataka,Water Bottle
+11073,1014,95400002,Ekart,3,COD,Kolkata,West Bengal,Toothpaste
+11074,1408,78740285,ShadowFax,4,Prepaid,Hyderabad,Telangana,Laundry Detergent
+11075,4277,64133381,Ekart,3,COD,Delhi,Delhi,Air Freshener
+11076,613,70100550,ShadowFax,2,Prepaid,Chennai,Tamil Nadu,Garbage Bags
+11077,2020,33479346,Ekart,4,Prepaid,Delhi,Delhi,Bucket
+11078,3694,13164558,Ekart,1,COD,Pune,Maharashtra,Soap Bar
+11079,4941,91655201,ShadowFax,1,Prepaid,Kolkata,West Bengal,Soap Bar
+11080,1509,32994367,ShadowFax,2,Prepaid,Bangalore,Karnataka,Garbage Bags
+11081,4902,33759597,Ekart,2,COD,Mumbai,Maharashtra,Cushion Cover
+11082,4666,97960651,ShadowFax,2,COD,Chennai,Tamil Nadu,Dinner Plate Set
+11083,3290,45987708,Ekart,4,Prepaid,Delhi,Delhi,Air Freshener
+11084,4591,91760920,Ekart,3,Prepaid,Bangalore,Karnataka,Garbage Bags
+11085,1655,33772069,ShadowFax,2,Prepaid,Kolkata,West Bengal,Dish Soap
+11086,904,40227133,XpressBees,4,COD,Bangalore,Karnataka,Shampoo
+11087,1379,61467841,XpressBees,2,COD,Bangalore,Karnataka,Cushion Cover
+11088,3677,50075604,Ekart,1,COD,Delhi,Delhi,Storage Container
+11089,3001,25890336,Ekart,4,COD,Mumbai,Maharashtra,Mop
+11090,1487,50522778,Ekart,2,Prepaid,Mumbai,Maharashtra,Bucket
+11091,4788,64437866,XpressBees,2,Prepaid,Hyderabad,Telangana,Mop
+11092,2861,89876252,ShadowFax,1,COD,Bangalore,Karnataka,Soap Bar
+11093,2779,90861742,Ekart,2,Prepaid,Pune,Maharashtra,Toilet Cleaner
+11094,2206,74126023,Ekart,1,Prepaid,Pune,Maharashtra,Hand Wash
+11095,4323,56366228,Ekart,3,Prepaid,Delhi,Delhi,Laundry Detergent
+11096,4931,43658646,Ekart,4,Prepaid,Chennai,Tamil Nadu,Dish Sponge
+11097,2868,37315345,XpressBees,3,Prepaid,Ahmedabad,Gujarat,Floor Cleaner
+11098,4053,61324971,ShadowFax,4,Prepaid,Hyderabad,Telangana,Dish Sponge
+11099,3286,55358151,Ekart,4,COD,Pune,Maharashtra,Toilet Cleaner
+11100,3380,88825651,Ekart,2,Prepaid,Hyderabad,Telangana,Dish Soap
+11101,2673,42201047,ShadowFax,2,COD,Chennai,Tamil Nadu,Cushion Cover
+11102,4716,58342986,XpressBees,3,Prepaid,Bangalore,Karnataka,Laundry Detergent
+11103,2699,10622636,Ekart,3,Prepaid,Kolkata,West Bengal,Soap Bar
+11104,4133,85000647,ShadowFax,3,Prepaid,Pune,Maharashtra,Toilet Cleaner
+11105,336,41912535,ShadowFax,4,Prepaid,Kolkata,West Bengal,Dinner Plate Set
+11106,1404,62107568,Ekart,2,COD,Ahmedabad,Gujarat,Hand Wash
+11107,3530,38288129,XpressBees,2,COD,Ahmedabad,Gujarat,Dinner Plate Set
+11108,1401,89657547,Ekart,3,COD,Bangalore,Karnataka,Garbage Bags
+11109,2641,15361561,Ekart,3,COD,Mumbai,Maharashtra,Curtains
+11110,2151,43501010,Ekart,2,COD,Kolkata,West Bengal,Shampoo
+11111,541,89067121,XpressBees,3,COD,Ahmedabad,Gujarat,Soap Bar
+11112,2176,22061657,ShadowFax,4,COD,Hyderabad,Telangana,Laundry Detergent
+11113,3280,24996823,ShadowFax,3,Prepaid,Pune,Maharashtra,Dish Soap
+11114,2757,10988073,ShadowFax,1,Prepaid,Mumbai,Maharashtra,Dish Soap
+11115,3898,84836282,Ekart,2,COD,Delhi,Delhi,Soap Bar
+11116,904,30088808,Ekart,2,COD,Delhi,Delhi,Toilet Cleaner
+11117,174,92902415,ShadowFax,2,COD,Kolkata,West Bengal,Garbage Bags
+11118,2275,17861696,XpressBees,4,COD,Chennai,Tamil Nadu,Water Bottle
+11119,4024,55172989,Ekart,4,COD,Chennai,Tamil Nadu,Soap Bar
+11120,2189,95137276,XpressBees,1,COD,Delhi,Delhi,Water Bottle
+11121,140,21128223,XpressBees,1,Prepaid,Pune,Maharashtra,Broom
+11122,2181,20308015,ShadowFax,4,Prepaid,Kolkata,West Bengal,Mop
+11123,4783,30888316,XpressBees,4,Prepaid,Chennai,Tamil Nadu,Floor Cleaner
+11124,1722,97140152,Ekart,1,COD,Hyderabad,Telangana,Electric Kettle
+11125,441,51831655,XpressBees,2,COD,Mumbai,Maharashtra,Laundry Detergent
+11126,4152,70666354,ShadowFax,4,Prepaid,Bangalore,Karnataka,Storage Container
+11127,2174,72198433,XpressBees,3,Prepaid,Kolkata,West Bengal,Dish Sponge
+11128,745,10628401,XpressBees,3,Prepaid,Delhi,Delhi,Toothpaste
+11129,4926,42476115,XpressBees,1,Prepaid,Kolkata,West Bengal,Dish Soap
+11130,4363,85673302,XpressBees,3,Prepaid,Ahmedabad,Gujarat,Dish Soap
+11131,709,56658139,Ekart,3,Prepaid,Mumbai,Maharashtra,Broom
+11132,554,26272435,Ekart,1,Prepaid,Ahmedabad,Gujarat,Air Freshener
+11133,3053,74788029,Ekart,2,COD,Bangalore,Karnataka,Water Bottle
+11134,1808,12729468,Ekart,2,COD,Kolkata,West Bengal,Dish Sponge
+11135,3572,80758701,XpressBees,3,Prepaid,Chennai,Tamil Nadu,Mop
+11136,3069,45809830,XpressBees,3,Prepaid,Kolkata,West Bengal,Soap Bar
+11137,3128,80519736,Ekart,3,Prepaid,Chennai,Tamil Nadu,Hand Wash
+11138,4897,65383835,Ekart,1,COD,Mumbai,Maharashtra,Soap Bar
+11139,2781,36688164,Ekart,3,COD,Delhi,Delhi,Hand Wash
+11140,3729,91731571,Ekart,2,Prepaid,Delhi,Delhi,Toothpaste
+11141,4325,90229209,ShadowFax,3,COD,Ahmedabad,Gujarat,Shampoo
+11142,3167,92591211,Ekart,1,COD,Bangalore,Karnataka,Storage Container
+11143,1486,90821496,XpressBees,4,Prepaid,Mumbai,Maharashtra,Electric Kettle
+11144,3876,24847866,XpressBees,4,COD,Mumbai,Maharashtra,Dish Sponge
+11145,2966,20320282,ShadowFax,2,Prepaid,Mumbai,Maharashtra,Shampoo
+11146,4888,30920876,XpressBees,3,COD,Bangalore,Karnataka,Electric Kettle
+11147,3463,50486778,Ekart,4,COD,Hyderabad,Telangana,Electric Kettle
+11148,4989,68318800,ShadowFax,3,Prepaid,Pune,Maharashtra,Bucket
+11149,4224,47819247,XpressBees,2,Prepaid,Delhi,Delhi,Storage Container
+11150,248,20866572,ShadowFax,3,COD,Ahmedabad,Gujarat,Hand Wash
+11151,3950,47158186,Ekart,1,Prepaid,Chennai,Tamil Nadu,Curtains
+11152,2158,83908021,Ekart,4,COD,Kolkata,West Bengal,Dish Sponge
+11153,1236,39674183,Ekart,3,Prepaid,Ahmedabad,Gujarat,Floor Cleaner
+11154,286,44265972,Ekart,4,Prepaid,Chennai,Tamil Nadu,Electric Kettle
+11155,2954,13846084,ShadowFax,2,Prepaid,Chennai,Tamil Nadu,Garbage Bags
+11156,1350,33498406,XpressBees,1,COD,Pune,Maharashtra,Electric Kettle
+11157,1433,54776823,XpressBees,4,Prepaid,Mumbai,Maharashtra,Garbage Bags
+11158,4293,80366269,ShadowFax,3,COD,Bangalore,Karnataka,Cushion Cover
+11159,4250,60146046,XpressBees,1,Prepaid,Hyderabad,Telangana,Bucket
+11160,2811,56416738,XpressBees,2,COD,Bangalore,Karnataka,Shampoo
+11161,4953,50714933,ShadowFax,1,Prepaid,Ahmedabad,Gujarat,Mop
+11162,4601,12701544,ShadowFax,4,Prepaid,Pune,Maharashtra,Bucket
+11163,1885,24809336,ShadowFax,1,Prepaid,Bangalore,Karnataka,Toilet Cleaner
+11164,850,10769026,ShadowFax,1,COD,Ahmedabad,Gujarat,Shampoo
+11165,1862,86656585,XpressBees,4,Prepaid,Hyderabad,Telangana,Soap Bar
+11166,4020,67981761,XpressBees,2,COD,Ahmedabad,Gujarat,Bucket
+11167,4560,86945708,Ekart,4,COD,Kolkata,West Bengal,Floor Cleaner
+11168,581,57918828,XpressBees,4,Prepaid,Bangalore,Karnataka,Toothpaste
+11169,253,26055046,Ekart,2,Prepaid,Kolkata,West Bengal,Hand Wash
+11170,1624,86135996,Ekart,1,COD,Kolkata,West Bengal,Toilet Cleaner
+11171,2220,11451414,Ekart,3,Prepaid,Kolkata,West Bengal,Hand Wash
+11172,2443,82069516,Ekart,3,COD,Delhi,Delhi,Shampoo
+11173,1340,73224380,XpressBees,4,COD,Pune,Maharashtra,Toothpaste
+11174,160,83293733,XpressBees,1,Prepaid,Hyderabad,Telangana,Hand Wash
+11175,1038,43175035,XpressBees,4,COD,Chennai,Tamil Nadu,Bucket
+11176,1739,90105899,XpressBees,1,Prepaid,Delhi,Delhi,Floor Cleaner
+11177,4220,99283593,Ekart,3,COD,Chennai,Tamil Nadu,Garbage Bags
+11178,4326,46422370,Ekart,2,COD,Pune,Maharashtra,Toothpaste
+11179,3669,58115614,ShadowFax,2,COD,Bangalore,Karnataka,Curtains
+11180,1352,67683360,ShadowFax,4,COD,Chennai,Tamil Nadu,Hand Wash
+11181,4303,46330391,Ekart,2,COD,Delhi,Delhi,Garbage Bags
+11182,271,90622348,XpressBees,4,COD,Chennai,Tamil Nadu,Garbage Bags
+11183,1558,54315361,Ekart,2,COD,Mumbai,Maharashtra,Floor Cleaner
+11184,3649,36107124,ShadowFax,4,COD,Mumbai,Maharashtra,Air Freshener
+11185,4297,49710738,Ekart,1,Prepaid,Mumbai,Maharashtra,Mop
+11186,2422,66865491,Ekart,3,Prepaid,Kolkata,West Bengal,Soap Bar
+11187,1736,50025149,XpressBees,1,Prepaid,Delhi,Delhi,Dinner Plate Set
+11188,3215,47090898,Ekart,2,COD,Pune,Maharashtra,Electric Kettle
+11189,4190,97471022,Ekart,2,Prepaid,Ahmedabad,Gujarat,Toothpaste
+11190,3104,39427230,Ekart,3,COD,Ahmedabad,Gujarat,Dish Sponge
+11191,429,49798162,Ekart,3,Prepaid,Kolkata,West Bengal,Floor Cleaner
+11192,3740,62157658,Ekart,2,COD,Bangalore,Karnataka,Toothpaste
+11193,3994,40871818,Ekart,3,COD,Pune,Maharashtra,Dish Sponge
+11194,4207,16683943,ShadowFax,4,COD,Hyderabad,Telangana,Laundry Detergent
+11195,1441,91440586,Ekart,2,COD,Ahmedabad,Gujarat,Dinner Plate Set
+11196,3763,21677537,Ekart,4,Prepaid,Hyderabad,Telangana,Toilet Cleaner
+11197,315,32233457,XpressBees,4,Prepaid,Kolkata,West Bengal,Shampoo
+11198,438,18939942,XpressBees,3,Prepaid,Delhi,Delhi,Storage Container
+11199,4162,70542441,ShadowFax,4,COD,Kolkata,West Bengal,Mop
+11200,2808,44719062,ShadowFax,1,COD,Hyderabad,Telangana,Mop
+11201,3252,25716172,XpressBees,3,Prepaid,Pune,Maharashtra,Curtains
+11202,1850,99090721,ShadowFax,1,COD,Delhi,Delhi,Dish Soap
+11203,2521,67883386,Ekart,2,Prepaid,Kolkata,West Bengal,Toothpaste
+11204,809,63400239,Ekart,4,Prepaid,Mumbai,Maharashtra,Garbage Bags
+11205,3826,63704299,ShadowFax,4,Prepaid,Pune,Maharashtra,Toilet Cleaner
+11206,3742,42722990,Ekart,4,COD,Ahmedabad,Gujarat,Dinner Plate Set
+11207,4093,13125634,Ekart,2,COD,Mumbai,Maharashtra,Garbage Bags
+11208,588,38517676,XpressBees,1,COD,Mumbai,Maharashtra,Toilet Cleaner
+11209,146,48122673,XpressBees,2,COD,Ahmedabad,Gujarat,Hand Wash
+11210,3459,63099810,XpressBees,3,Prepaid,Pune,Maharashtra,Garbage Bags
+11211,4973,29171363,XpressBees,3,COD,Chennai,Tamil Nadu,Air Freshener
+11212,4906,89054974,Ekart,4,Prepaid,Hyderabad,Telangana,Hand Wash
+11213,500,97364147,XpressBees,3,COD,Delhi,Delhi,Dish Soap
+11214,4090,91552663,XpressBees,1,Prepaid,Delhi,Delhi,Dish Soap
+11215,3257,51684229,Ekart,4,Prepaid,Bangalore,Karnataka,Mop
+11216,4445,72574406,Ekart,4,Prepaid,Chennai,Tamil Nadu,Water Bottle
+11217,490,54568603,ShadowFax,1,COD,Hyderabad,Telangana,Dinner Plate Set
+11218,3953,49487532,XpressBees,1,Prepaid,Ahmedabad,Gujarat,Toilet Cleaner
+11219,4530,12729510,ShadowFax,2,COD,Kolkata,West Bengal,Electric Kettle
+11220,728,34604116,Ekart,1,COD,Kolkata,West Bengal,Mop
+11221,4332,49142026,ShadowFax,4,COD,Kolkata,West Bengal,Water Bottle
+11222,3030,52911435,XpressBees,3,Prepaid,Mumbai,Maharashtra,Floor Cleaner
+11223,1621,16331899,Ekart,2,COD,Hyderabad,Telangana,Water Bottle
+11224,926,43912993,Ekart,2,COD,Delhi,Delhi,Laundry Detergent
+11225,4922,56277410,XpressBees,1,COD,Bangalore,Karnataka,Electric Kettle
+11226,1600,26364147,XpressBees,3,COD,Hyderabad,Telangana,Electric Kettle
+11227,3394,65286004,Ekart,4,Prepaid,Bangalore,Karnataka,Floor Cleaner
+11228,2519,46978816,XpressBees,2,COD,Bangalore,Karnataka,Dish Soap
+11229,1034,97672723,XpressBees,3,COD,Mumbai,Maharashtra,Storage Container
+11230,3142,81088799,ShadowFax,4,Prepaid,Ahmedabad,Gujarat,Curtains
+11231,4597,64364853,XpressBees,2,Prepaid,Hyderabad,Telangana,Dinner Plate Set
+11232,1566,74278419,ShadowFax,2,Prepaid,Ahmedabad,Gujarat,Toilet Cleaner
+11233,3661,98264013,ShadowFax,4,COD,Hyderabad,Telangana,Water Bottle
+11234,714,96028996,Ekart,3,COD,Ahmedabad,Gujarat,Water Bottle
+11235,1282,80478039,XpressBees,4,Prepaid,Pune,Maharashtra,Storage Container
+11236,3323,98540542,XpressBees,4,Prepaid,Ahmedabad,Gujarat,Bucket
+11237,2767,21708556,XpressBees,3,COD,Pune,Maharashtra,Dish Soap
+11238,230,54239582,ShadowFax,4,COD,Ahmedabad,Gujarat,Cushion Cover
+11239,3083,93310125,XpressBees,3,COD,Ahmedabad,Gujarat,Water Bottle
+11240,4378,23745047,XpressBees,3,Prepaid,Chennai,Tamil Nadu,Toothpaste
+11241,4559,95706103,XpressBees,4,Prepaid,Kolkata,West Bengal,Toilet Cleaner
+11242,138,35178009,XpressBees,2,Prepaid,Hyderabad,Telangana,Dish Soap
+11243,4059,58765984,XpressBees,4,COD,Delhi,Delhi,Floor Cleaner
+11244,3687,78216360,Ekart,4,COD,Mumbai,Maharashtra,Broom
+11245,1020,89533783,Ekart,4,Prepaid,Hyderabad,Telangana,Soap Bar
+11246,2869,80141440,XpressBees,3,Prepaid,Chennai,Tamil Nadu,Electric Kettle
+11247,4211,63259528,XpressBees,2,COD,Delhi,Delhi,Toothpaste
+11248,592,11364958,ShadowFax,2,COD,Hyderabad,Telangana,Cushion Cover
+11249,1231,75255610,ShadowFax,2,COD,Bangalore,Karnataka,Electric Kettle
+11250,3621,52034296,Ekart,4,Prepaid,Kolkata,West Bengal,Mop
+11251,410,41043671,ShadowFax,3,COD,Ahmedabad,Gujarat,Dinner Plate Set
+11252,838,71676458,XpressBees,3,COD,Delhi,Delhi,Hand Wash
+11253,3341,70824102,Ekart,2,Prepaid,Pune,Maharashtra,Soap Bar
+11254,645,17324469,ShadowFax,1,COD,Hyderabad,Telangana,Water Bottle
+11255,2561,73615125,Ekart,4,Prepaid,Hyderabad,Telangana,Toilet Cleaner
+11256,4446,53998560,XpressBees,2,COD,Delhi,Delhi,Dish Soap
+11257,4954,35538015,XpressBees,4,COD,Chennai,Tamil Nadu,Toothpaste
+11258,1904,68961864,Ekart,1,Prepaid,Mumbai,Maharashtra,Shampoo
+11259,3312,99731541,Ekart,3,COD,Kolkata,West Bengal,Bucket
+11260,3910,80184290,Ekart,2,Prepaid,Ahmedabad,Gujarat,Mop
+11261,913,19217634,Ekart,4,Prepaid,Bangalore,Karnataka,Mop
+11262,4224,48618733,XpressBees,4,Prepaid,Delhi,Delhi,Garbage Bags
+11263,2132,64805872,XpressBees,1,COD,Delhi,Delhi,Broom
+11264,4672,72150068,ShadowFax,2,COD,Ahmedabad,Gujarat,Mop
+11265,4513,75336585,XpressBees,2,COD,Bangalore,Karnataka,Storage Container
+11266,344,43370220,XpressBees,1,COD,Hyderabad,Telangana,Mop
+11267,4943,93422748,XpressBees,2,Prepaid,Bangalore,Karnataka,Water Bottle
+11268,4892,57343504,Ekart,4,COD,Pune,Maharashtra,Mop
+11269,371,64287673,Ekart,1,Prepaid,Mumbai,Maharashtra,Dish Soap
+11270,3611,82407811,XpressBees,4,COD,Hyderabad,Telangana,Bucket
+11271,1871,66629172,XpressBees,3,Prepaid,Mumbai,Maharashtra,Storage Container
+11272,1362,46718670,Ekart,2,Prepaid,Pune,Maharashtra,Laundry Detergent
+11273,2524,47864190,ShadowFax,3,Prepaid,Chennai,Tamil Nadu,Dinner Plate Set
+11274,4461,65937667,XpressBees,1,Prepaid,Pune,Maharashtra,Broom
+11275,1020,46107276,XpressBees,1,Prepaid,Kolkata,West Bengal,Curtains
+11276,3530,38381361,XpressBees,1,COD,Mumbai,Maharashtra,Dinner Plate Set
+11277,4535,83628724,Ekart,3,Prepaid,Hyderabad,Telangana,Hand Wash
+11278,4584,50267589,ShadowFax,1,COD,Chennai,Tamil Nadu,Floor Cleaner
+11279,2724,56050628,ShadowFax,2,Prepaid,Kolkata,West Bengal,Shampoo
+11280,3860,24809888,ShadowFax,2,COD,Chennai,Tamil Nadu,Soap Bar
+11281,2150,42691141,ShadowFax,3,Prepaid,Mumbai,Maharashtra,Storage Container
+11282,3600,78543044,XpressBees,2,COD,Pune,Maharashtra,Cushion Cover
+11283,1265,90362275,ShadowFax,2,Prepaid,Ahmedabad,Gujarat,Dinner Plate Set
+11284,475,26560908,ShadowFax,4,Prepaid,Bangalore,Karnataka,Dish Sponge
+11285,2133,11444699,Ekart,4,Prepaid,Ahmedabad,Gujarat,Soap Bar
+11286,245,28636934,ShadowFax,2,COD,Ahmedabad,Gujarat,Air Freshener
+11287,4488,78036664,XpressBees,1,Prepaid,Kolkata,West Bengal,Broom
+11288,531,64218376,ShadowFax,4,COD,Ahmedabad,Gujarat,Garbage Bags
+11289,804,85659104,XpressBees,2,COD,Bangalore,Karnataka,Hand Wash
+11290,2732,31632310,ShadowFax,4,Prepaid,Hyderabad,Telangana,Cushion Cover
+11291,4594,25582742,Ekart,2,Prepaid,Mumbai,Maharashtra,Floor Cleaner
+11292,1063,74358244,ShadowFax,4,COD,Ahmedabad,Gujarat,Dish Soap
+11293,2334,93950263,XpressBees,2,Prepaid,Bangalore,Karnataka,Bucket
+11294,2141,50913049,Ekart,4,Prepaid,Pune,Maharashtra,Toothpaste
+11295,1928,22696179,Ekart,3,Prepaid,Kolkata,West Bengal,Garbage Bags
+11296,2208,85848112,Ekart,4,Prepaid,Delhi,Delhi,Soap Bar
+11297,4168,78594252,ShadowFax,3,COD,Kolkata,West Bengal,Broom
+11298,1038,85195354,XpressBees,2,Prepaid,Hyderabad,Telangana,Floor Cleaner
+11299,4905,72453185,XpressBees,2,COD,Hyderabad,Telangana,Hand Wash
+11300,906,45970748,Ekart,4,COD,Pune,Maharashtra,Broom
+11301,1563,15001487,Ekart,3,Prepaid,Mumbai,Maharashtra,Curtains
+11302,3515,30204127,Ekart,1,COD,Kolkata,West Bengal,Broom
+11303,110,20163451,Ekart,2,Prepaid,Bangalore,Karnataka,Storage Container
+11304,1968,49006175,XpressBees,3,Prepaid,Mumbai,Maharashtra,Dish Soap
+11305,4967,24370435,Ekart,4,Prepaid,Pune,Maharashtra,Bucket
+11306,984,22567337,XpressBees,3,Prepaid,Kolkata,West Bengal,Electric Kettle
+11307,3664,13333742,Ekart,2,COD,Bangalore,Karnataka,Storage Container
+11308,1489,94376556,XpressBees,1,COD,Kolkata,West Bengal,Storage Container
+11309,3501,30662921,Ekart,3,COD,Pune,Maharashtra,Curtains
+11310,4421,31688195,Ekart,4,Prepaid,Ahmedabad,Gujarat,Dish Sponge
+11311,924,15245935,ShadowFax,4,COD,Hyderabad,Telangana,Dish Soap
+11312,2365,67089857,Ekart,3,COD,Kolkata,West Bengal,Toilet Cleaner
+11313,1036,92411739,XpressBees,1,Prepaid,Chennai,Tamil Nadu,Cushion Cover
+11314,2900,74252884,ShadowFax,2,Prepaid,Hyderabad,Telangana,Electric Kettle
+11315,2653,21240417,XpressBees,3,Prepaid,Chennai,Tamil Nadu,Dinner Plate Set
+11316,3945,18421111,XpressBees,1,Prepaid,Bangalore,Karnataka,Dish Sponge
+11317,1896,74183843,XpressBees,4,Prepaid,Chennai,Tamil Nadu,Cushion Cover
+11318,153,92990513,XpressBees,2,Prepaid,Bangalore,Karnataka,Curtains
+11319,826,84077122,Ekart,3,COD,Delhi,Delhi,Curtains
+11320,2836,38857733,ShadowFax,2,COD,Chennai,Tamil Nadu,Dish Sponge
+11321,3270,96171136,ShadowFax,1,Prepaid,Pune,Maharashtra,Floor Cleaner
+11322,2013,41592611,ShadowFax,3,Prepaid,Mumbai,Maharashtra,Dish Sponge
+11323,1696,87170341,Ekart,1,Prepaid,Mumbai,Maharashtra,Hand Wash
+11324,2014,35022895,XpressBees,1,Prepaid,Ahmedabad,Gujarat,Curtains
+11325,2566,35130754,ShadowFax,3,COD,Bangalore,Karnataka,Bucket
+11326,2837,71200892,Ekart,2,COD,Bangalore,Karnataka,Shampoo
+11327,949,63082801,XpressBees,3,Prepaid,Chennai,Tamil Nadu,Floor Cleaner
+11328,2209,23896626,Ekart,1,COD,Ahmedabad,Gujarat,Toothpaste
+11329,102,93598483,Ekart,3,Prepaid,Delhi,Delhi,Curtains
+11330,4355,75102573,Ekart,1,Prepaid,Delhi,Delhi,Dish Soap
+11331,4169,76105005,XpressBees,3,COD,Mumbai,Maharashtra,Toothpaste
+11332,4976,12295680,XpressBees,2,Prepaid,Ahmedabad,Gujarat,Laundry Detergent
+11333,992,74870941,Ekart,1,COD,Kolkata,West Bengal,Broom
+11334,2130,27573947,Ekart,3,Prepaid,Delhi,Delhi,Shampoo
+11335,3260,12546600,ShadowFax,4,Prepaid,Hyderabad,Telangana,Dish Sponge
+11336,2476,76379725,XpressBees,3,Prepaid,Bangalore,Karnataka,Soap Bar
+11337,4775,98422509,XpressBees,2,Prepaid,Kolkata,West Bengal,Toilet Cleaner
+11338,2033,56683421,XpressBees,3,COD,Delhi,Delhi,Toothpaste
+11339,1480,99431243,Ekart,3,COD,Delhi,Delhi,Toothpaste
+11340,3781,83609483,Ekart,4,COD,Mumbai,Maharashtra,Mop
+11341,1390,54944449,XpressBees,1,COD,Chennai,Tamil Nadu,Toothpaste
+11342,1740,66537977,Ekart,1,Prepaid,Hyderabad,Telangana,Water Bottle
+11343,2782,76646986,Ekart,3,COD,Bangalore,Karnataka,Dish Soap
+11344,1087,93505839,Ekart,3,Prepaid,Pune,Maharashtra,Toilet Cleaner
+11345,1318,83540876,ShadowFax,4,Prepaid,Pune,Maharashtra,Cushion Cover
+11346,1455,24551869,XpressBees,4,Prepaid,Delhi,Delhi,Bucket
+11347,4365,22325010,XpressBees,1,COD,Kolkata,West Bengal,Curtains
+11348,4716,64678410,Ekart,3,Prepaid,Mumbai,Maharashtra,Hand Wash
+11349,4235,46566045,Ekart,3,COD,Hyderabad,Telangana,Dish Sponge
+11350,1660,72730880,Ekart,3,COD,Ahmedabad,Gujarat,Floor Cleaner
+11351,1518,32016460,XpressBees,4,Prepaid,Chennai,Tamil Nadu,Curtains
+11352,1054,36942906,XpressBees,4,COD,Chennai,Tamil Nadu,Floor Cleaner
+11353,1083,99367102,XpressBees,4,Prepaid,Pune,Maharashtra,Cushion Cover
+11354,1074,72932629,XpressBees,4,COD,Ahmedabad,Gujarat,Water Bottle
+11355,4233,31379219,ShadowFax,4,Prepaid,Ahmedabad,Gujarat,Bucket
+11356,4072,13550861,ShadowFax,2,COD,Hyderabad,Telangana,Broom
+11357,1013,20103631,ShadowFax,4,Prepaid,Bangalore,Karnataka,Curtains
+11358,4649,61872914,XpressBees,2,Prepaid,Kolkata,West Bengal,Bucket
+11359,136,90623398,XpressBees,1,COD,Ahmedabad,Gujarat,Dish Sponge
+11360,3487,20272348,XpressBees,2,Prepaid,Pune,Maharashtra,Electric Kettle
+11361,1811,30589861,ShadowFax,3,Prepaid,Kolkata,West Bengal,Shampoo
+11362,3120,95935493,Ekart,2,Prepaid,Delhi,Delhi,Curtains
+11363,895,72216217,Ekart,2,Prepaid,Bangalore,Karnataka,Floor Cleaner
+11364,4136,25893168,XpressBees,4,COD,Kolkata,West Bengal,Dish Sponge
+11365,4788,37233640,XpressBees,4,COD,Delhi,Delhi,Floor Cleaner
+11366,3211,37076248,Ekart,3,COD,Mumbai,Maharashtra,Mop
+11367,1424,92312839,ShadowFax,3,COD,Chennai,Tamil Nadu,Dinner Plate Set
+11368,417,99729646,Ekart,1,Prepaid,Mumbai,Maharashtra,Bucket
+11369,2496,49973503,XpressBees,4,COD,Bangalore,Karnataka,Dinner Plate Set
+11370,2262,11831956,Ekart,3,COD,Bangalore,Karnataka,Toilet Cleaner
+11371,2845,30077770,XpressBees,3,Prepaid,Hyderabad,Telangana,Dish Sponge
+11372,1691,40368210,XpressBees,3,COD,Mumbai,Maharashtra,Toothpaste
+11373,3211,68283916,Ekart,1,Prepaid,Pune,Maharashtra,Bucket
+11374,4030,54023470,ShadowFax,3,COD,Delhi,Delhi,Curtains
+11375,2096,38303449,Ekart,4,COD,Chennai,Tamil Nadu,Hand Wash
+11376,1412,27204876,ShadowFax,4,Prepaid,Bangalore,Karnataka,Bucket
+11377,1385,90847215,Ekart,3,Prepaid,Delhi,Delhi,Mop
+11378,4411,54429463,XpressBees,1,Prepaid,Ahmedabad,Gujarat,Hand Wash
+11379,2483,40670931,XpressBees,3,Prepaid,Delhi,Delhi,Curtains
+11380,3339,27547062,XpressBees,1,COD,Pune,Maharashtra,Cushion Cover
+11381,2239,45967291,XpressBees,1,Prepaid,Chennai,Tamil Nadu,Water Bottle
+11382,1804,40301028,ShadowFax,1,COD,Hyderabad,Telangana,Laundry Detergent
+11383,462,27497238,XpressBees,1,COD,Pune,Maharashtra,Electric Kettle
+11384,2704,17773867,XpressBees,2,COD,Kolkata,West Bengal,Soap Bar
+11385,1816,70438461,Ekart,3,Prepaid,Delhi,Delhi,Toilet Cleaner
+11386,4551,82168524,ShadowFax,4,COD,Bangalore,Karnataka,Water Bottle
+11387,4386,32552431,XpressBees,3,COD,Kolkata,West Bengal,Dish Sponge
+11388,3838,10151973,ShadowFax,4,COD,Chennai,Tamil Nadu,Broom
+11389,2569,92383161,Ekart,2,Prepaid,Kolkata,West Bengal,Curtains
+11390,4895,47884790,Ekart,4,Prepaid,Bangalore,Karnataka,Electric Kettle
+11391,656,78220780,XpressBees,4,Prepaid,Bangalore,Karnataka,Hand Wash
+11392,925,12961293,ShadowFax,1,COD,Pune,Maharashtra,Dish Soap
+11393,2908,62870307,XpressBees,4,Prepaid,Ahmedabad,Gujarat,Hand Wash
+11394,4621,45232696,ShadowFax,1,Prepaid,Hyderabad,Telangana,Dish Soap
+11395,2819,84622519,ShadowFax,3,Prepaid,Mumbai,Maharashtra,Dish Soap
+11396,3608,87710504,XpressBees,4,Prepaid,Ahmedabad,Gujarat,Air Freshener
+11397,3841,77784068,Ekart,3,Prepaid,Hyderabad,Telangana,Dish Sponge
+11398,1674,17219711,Ekart,4,Prepaid,Kolkata,West Bengal,Cushion Cover
+11399,4098,23475983,Ekart,4,Prepaid,Bangalore,Karnataka,Soap Bar
+11400,2229,10555339,Ekart,3,Prepaid,Pune,Maharashtra,Mop
+11401,2503,79406919,XpressBees,4,COD,Chennai,Tamil Nadu,Bucket
+11402,3429,40477195,Ekart,4,Prepaid,Ahmedabad,Gujarat,Bucket
+11403,688,59293191,XpressBees,4,COD,Pune,Maharashtra,Hand Wash
+11404,2112,54733054,ShadowFax,2,Prepaid,Hyderabad,Telangana,Floor Cleaner
+11405,1647,93168234,XpressBees,1,Prepaid,Pune,Maharashtra,Soap Bar
+11406,394,78081092,Ekart,3,Prepaid,Pune,Maharashtra,Dinner Plate Set
+11407,2085,23705199,ShadowFax,4,COD,Chennai,Tamil Nadu,Electric Kettle
+11408,3217,47453097,Ekart,1,COD,Mumbai,Maharashtra,Storage Container
+11409,1790,53864344,Ekart,3,COD,Delhi,Delhi,Cushion Cover
+11410,1236,93804767,XpressBees,4,COD,Hyderabad,Telangana,Water Bottle
+11411,2164,93121226,Ekart,2,COD,Bangalore,Karnataka,Curtains
+11412,4555,85176061,Ekart,4,Prepaid,Kolkata,West Bengal,Toothpaste
+11413,4895,11126837,Ekart,2,Prepaid,Pune,Maharashtra,Air Freshener
+11414,4643,64629798,XpressBees,4,Prepaid,Delhi,Delhi,Water Bottle
+11415,4870,13837243,XpressBees,2,Prepaid,Bangalore,Karnataka,Soap Bar
+11416,1107,58007548,ShadowFax,1,COD,Kolkata,West Bengal,Storage Container
+11417,2614,68589229,XpressBees,2,COD,Ahmedabad,Gujarat,Storage Container
+11418,3626,82866236,ShadowFax,2,COD,Ahmedabad,Gujarat,Air Freshener
+11419,4781,53388333,Ekart,2,Prepaid,Chennai,Tamil Nadu,Curtains
+11420,1347,74783253,Ekart,1,Prepaid,Chennai,Tamil Nadu,Hand Wash
+11421,4002,93521873,XpressBees,3,COD,Ahmedabad,Gujarat,Dish Sponge
+11422,1535,33210448,XpressBees,4,COD,Bangalore,Karnataka,Water Bottle
+11423,671,35809472,Ekart,3,COD,Kolkata,West Bengal,Mop
+11424,2482,41941718,Ekart,4,Prepaid,Ahmedabad,Gujarat,Bucket
+11425,1345,10310023,Ekart,1,COD,Pune,Maharashtra,Broom
+11426,2184,97796064,XpressBees,1,Prepaid,Hyderabad,Telangana,Broom
+11427,377,26748112,ShadowFax,1,Prepaid,Chennai,Tamil Nadu,Bucket
+11428,1987,19200998,Ekart,4,Prepaid,Delhi,Delhi,Broom
+11429,4679,62792763,XpressBees,2,Prepaid,Kolkata,West Bengal,Bucket
+11430,1365,40870932,Ekart,1,Prepaid,Chennai,Tamil Nadu,Shampoo
+11431,4926,74400508,Ekart,3,COD,Chennai,Tamil Nadu,Soap Bar
+11432,1140,47708571,Ekart,2,Prepaid,Mumbai,Maharashtra,Floor Cleaner
+11433,1017,85971526,Ekart,4,Prepaid,Kolkata,West Bengal,Storage Container
+11434,985,70291281,Ekart,4,COD,Bangalore,Karnataka,Air Freshener
+11435,2852,52972657,ShadowFax,3,COD,Chennai,Tamil Nadu,Floor Cleaner
+11436,121,34754684,ShadowFax,3,COD,Chennai,Tamil Nadu,Dish Sponge
+11437,4669,81777274,XpressBees,1,Prepaid,Mumbai,Maharashtra,Dish Soap
+11438,3291,76040608,XpressBees,2,COD,Bangalore,Karnataka,Water Bottle
+11439,2453,98633645,Ekart,1,Prepaid,Bangalore,Karnataka,Bucket
+11440,4899,31297983,XpressBees,1,Prepaid,Kolkata,West Bengal,Broom
+11441,786,32186390,Ekart,4,Prepaid,Kolkata,West Bengal,Toilet Cleaner
+11442,384,17656884,XpressBees,3,COD,Kolkata,West Bengal,Bucket
+11443,4911,15672758,Ekart,4,Prepaid,Delhi,Delhi,Mop
+11444,3847,39510054,ShadowFax,4,Prepaid,Mumbai,Maharashtra,Air Freshener
+11445,862,86540095,XpressBees,2,Prepaid,Hyderabad,Telangana,Electric Kettle
+11446,2528,97502457,Ekart,3,Prepaid,Delhi,Delhi,Hand Wash
+11447,2607,53081426,XpressBees,2,Prepaid,Hyderabad,Telangana,Air Freshener
+11448,128,97271826,Ekart,4,COD,Pune,Maharashtra,Dinner Plate Set
+11449,1006,12364419,ShadowFax,1,COD,Hyderabad,Telangana,Electric Kettle
+11450,3204,24948358,XpressBees,2,COD,Bangalore,Karnataka,Electric Kettle
+11451,4099,75705372,ShadowFax,2,Prepaid,Hyderabad,Telangana,Toothpaste
+11452,3094,83569766,Ekart,1,COD,Chennai,Tamil Nadu,Dinner Plate Set
+11453,2606,21629386,XpressBees,3,COD,Mumbai,Maharashtra,Curtains
+11454,4765,14239964,XpressBees,1,COD,Delhi,Delhi,Air Freshener
+11455,3709,12784556,XpressBees,2,Prepaid,Chennai,Tamil Nadu,Dish Soap
+11456,3653,79268055,XpressBees,1,COD,Ahmedabad,Gujarat,Dish Sponge
+11457,1553,69881710,ShadowFax,1,COD,Bangalore,Karnataka,Cushion Cover
+11458,4933,37476810,XpressBees,3,Prepaid,Ahmedabad,Gujarat,Dinner Plate Set
+11459,3456,16615585,Ekart,4,Prepaid,Ahmedabad,Gujarat,Water Bottle
+11460,615,39803351,Ekart,1,COD,Kolkata,West Bengal,Toilet Cleaner
+11461,138,57601912,Ekart,1,COD,Kolkata,West Bengal,Electric Kettle
+11462,3442,75107371,Ekart,1,COD,Bangalore,Karnataka,Toothpaste
+11463,986,75531366,Ekart,1,COD,Delhi,Delhi,Water Bottle
+11464,2944,47005719,Ekart,2,COD,Hyderabad,Telangana,Broom
+11465,2304,82672135,ShadowFax,3,Prepaid,Hyderabad,Telangana,Toothpaste
+11466,1198,31492846,Ekart,3,COD,Chennai,Tamil Nadu,Curtains
+11467,1923,10699961,Ekart,2,Prepaid,Hyderabad,Telangana,Toothpaste
+11468,3301,69920387,XpressBees,2,COD,Chennai,Tamil Nadu,Dinner Plate Set
+11469,3255,76646731,Ekart,1,COD,Bangalore,Karnataka,Toilet Cleaner
+11470,3193,66896630,Ekart,2,Prepaid,Mumbai,Maharashtra,Broom
+11471,3630,44805781,Ekart,3,Prepaid,Hyderabad,Telangana,Mop
+11472,3878,50730832,Ekart,2,Prepaid,Ahmedabad,Gujarat,Garbage Bags
+11473,2996,84214360,XpressBees,1,COD,Chennai,Tamil Nadu,Toothpaste
+11474,3553,39527538,ShadowFax,1,COD,Bangalore,Karnataka,Broom
+11475,3611,32134969,XpressBees,3,Prepaid,Mumbai,Maharashtra,Dish Soap
+11476,1088,91993486,Ekart,4,Prepaid,Hyderabad,Telangana,Water Bottle
+11477,4216,41557267,Ekart,2,COD,Mumbai,Maharashtra,Air Freshener
+11478,4126,78207902,Ekart,4,COD,Bangalore,Karnataka,Curtains
+11479,4279,18396017,XpressBees,3,COD,Mumbai,Maharashtra,Toothpaste
+11480,1782,31451076,XpressBees,4,COD,Bangalore,Karnataka,Air Freshener
+11481,4765,68088157,Ekart,3,COD,Hyderabad,Telangana,Toilet Cleaner
+11482,4063,14268213,Ekart,4,COD,Hyderabad,Telangana,Laundry Detergent
+11483,1033,47478074,ShadowFax,1,Prepaid,Mumbai,Maharashtra,Hand Wash
+11484,3698,37038453,Ekart,2,COD,Chennai,Tamil Nadu,Dish Sponge
+11485,3333,67651453,Ekart,4,COD,Pune,Maharashtra,Shampoo
+11486,2080,40530778,XpressBees,4,COD,Kolkata,West Bengal,Laundry Detergent
+11487,1955,51673133,Ekart,1,Prepaid,Chennai,Tamil Nadu,Soap Bar
+11488,3156,68145773,Ekart,4,Prepaid,Bangalore,Karnataka,Storage Container
+11489,892,37145168,XpressBees,4,Prepaid,Ahmedabad,Gujarat,Storage Container
+11490,891,74206701,XpressBees,3,Prepaid,Kolkata,West Bengal,Electric Kettle
+11491,1909,28796675,ShadowFax,2,Prepaid,Ahmedabad,Gujarat,Electric Kettle
+11492,2355,52543682,ShadowFax,3,COD,Ahmedabad,Gujarat,Electric Kettle
+11493,3710,15188870,XpressBees,3,COD,Hyderabad,Telangana,Garbage Bags
+11494,1707,41533939,Ekart,1,COD,Chennai,Tamil Nadu,Broom
+11495,1084,41868642,XpressBees,1,COD,Ahmedabad,Gujarat,Bucket
+11496,3776,57081292,XpressBees,3,COD,Bangalore,Karnataka,Shampoo
+11497,3480,69264050,Ekart,2,Prepaid,Bangalore,Karnataka,Toilet Cleaner
+11498,619,95208795,ShadowFax,1,Prepaid,Ahmedabad,Gujarat,Dinner Plate Set
+11499,690,99825779,Ekart,1,Prepaid,Mumbai,Maharashtra,Broom
+11500,1150,78465869,Ekart,1,Prepaid,Delhi,Delhi,Toothpaste
+11501,3733,48647458,ShadowFax,1,Prepaid,Kolkata,West Bengal,Toothpaste
+11502,4544,72348922,XpressBees,4,Prepaid,Kolkata,West Bengal,Toothpaste
+11503,1059,50142181,XpressBees,2,COD,Bangalore,Karnataka,Broom
+11504,792,42741691,ShadowFax,3,Prepaid,Hyderabad,Telangana,Mop
+11505,3999,88174148,Ekart,1,COD,Mumbai,Maharashtra,Storage Container
+11506,4573,98728063,Ekart,4,Prepaid,Hyderabad,Telangana,Water Bottle
+11507,3046,13909515,XpressBees,4,COD,Hyderabad,Telangana,Electric Kettle
+11508,626,21781030,XpressBees,3,COD,Chennai,Tamil Nadu,Dish Soap
+11509,3324,58910451,XpressBees,1,COD,Mumbai,Maharashtra,Dinner Plate Set
+11510,2353,22432573,ShadowFax,2,Prepaid,Mumbai,Maharashtra,Dinner Plate Set
+11511,3444,18482154,Ekart,3,COD,Chennai,Tamil Nadu,Cushion Cover
+11512,4065,86821680,XpressBees,2,COD,Delhi,Delhi,Curtains
+11513,1975,65196683,Ekart,2,COD,Ahmedabad,Gujarat,Mop
+11514,1863,82697681,Ekart,4,COD,Kolkata,West Bengal,Laundry Detergent
+11515,620,29282290,XpressBees,1,Prepaid,Chennai,Tamil Nadu,Soap Bar
+11516,1116,79783369,Ekart,4,COD,Kolkata,West Bengal,Electric Kettle
+11517,216,26129221,XpressBees,3,Prepaid,Hyderabad,Telangana,Toothpaste
+11518,2533,73965956,Ekart,1,Prepaid,Delhi,Delhi,Garbage Bags
+11519,683,86470380,XpressBees,1,COD,Pune,Maharashtra,Dish Sponge
+11520,494,88496854,ShadowFax,1,COD,Mumbai,Maharashtra,Floor Cleaner
+11521,3888,36259206,ShadowFax,4,Prepaid,Ahmedabad,Gujarat,Laundry Detergent
+11522,2868,40043946,Ekart,3,Prepaid,Hyderabad,Telangana,Electric Kettle
+11523,4267,29896184,XpressBees,3,Prepaid,Kolkata,West Bengal,Garbage Bags
+11524,3960,14810028,XpressBees,4,Prepaid,Delhi,Delhi,Dinner Plate Set
+11525,373,36730270,Ekart,4,COD,Delhi,Delhi,Bucket
+11526,2113,69074941,XpressBees,2,COD,Delhi,Delhi,Electric Kettle
+11527,4533,48332050,XpressBees,4,Prepaid,Bangalore,Karnataka,Bucket
+11528,1489,28611826,XpressBees,1,Prepaid,Ahmedabad,Gujarat,Garbage Bags
+11529,3666,65940579,XpressBees,1,COD,Bangalore,Karnataka,Storage Container
+11530,4802,69325995,ShadowFax,4,COD,Chennai,Tamil Nadu,Laundry Detergent
+11531,265,17661681,XpressBees,3,COD,Hyderabad,Telangana,Toothpaste
+11532,1667,56937770,Ekart,2,COD,Delhi,Delhi,Hand Wash
+11533,828,99609343,XpressBees,1,Prepaid,Bangalore,Karnataka,Floor Cleaner
+11534,2143,12228091,XpressBees,2,COD,Ahmedabad,Gujarat,Electric Kettle
+11535,4297,90705239,XpressBees,3,COD,Chennai,Tamil Nadu,Mop
+11536,3596,62219720,Ekart,3,Prepaid,Hyderabad,Telangana,Mop
+11537,878,77438391,ShadowFax,4,Prepaid,Kolkata,West Bengal,Toothpaste
+11538,313,80717217,XpressBees,4,Prepaid,Mumbai,Maharashtra,Cushion Cover
+11539,3862,93815072,XpressBees,3,COD,Delhi,Delhi,Soap Bar
+11540,1676,61802883,ShadowFax,1,COD,Kolkata,West Bengal,Water Bottle
+11541,2548,28888086,XpressBees,3,Prepaid,Hyderabad,Telangana,Floor Cleaner
+11542,3036,54263729,XpressBees,4,Prepaid,Ahmedabad,Gujarat,Soap Bar
+11543,3217,86382115,XpressBees,1,COD,Delhi,Delhi,Laundry Detergent
+11544,691,90486105,Ekart,1,Prepaid,Hyderabad,Telangana,Dinner Plate Set
+11545,2820,24468032,ShadowFax,2,COD,Chennai,Tamil Nadu,Soap Bar
+11546,813,47828639,Ekart,4,COD,Delhi,Delhi,Hand Wash
+11547,1035,69142383,ShadowFax,1,COD,Hyderabad,Telangana,Broom
+11548,4437,15090139,XpressBees,2,Prepaid,Delhi,Delhi,Dinner Plate Set
+11549,101,67465943,Ekart,1,COD,Delhi,Delhi,Cushion Cover
+11550,2948,80572556,XpressBees,2,Prepaid,Bangalore,Karnataka,Curtains
+11551,4144,79657952,XpressBees,4,Prepaid,Hyderabad,Telangana,Broom
+11552,2049,45861920,ShadowFax,3,Prepaid,Ahmedabad,Gujarat,Storage Container
+11553,1017,15423740,ShadowFax,1,COD,Pune,Maharashtra,Mop
+11554,3274,93143692,ShadowFax,1,COD,Ahmedabad,Gujarat,Hand Wash
+11555,2341,58138300,Ekart,4,Prepaid,Pune,Maharashtra,Dinner Plate Set
+11556,189,49817534,XpressBees,2,Prepaid,Chennai,Tamil Nadu,Dish Sponge
+11557,1809,30203448,Ekart,3,COD,Hyderabad,Telangana,Water Bottle
+11558,2269,51637540,Ekart,1,Prepaid,Delhi,Delhi,Mop
+11559,4338,53659448,Ekart,3,Prepaid,Delhi,Delhi,Toilet Cleaner
+11560,3141,20716989,Ekart,2,Prepaid,Delhi,Delhi,Mop
+11561,205,46317222,XpressBees,1,Prepaid,Mumbai,Maharashtra,Toilet Cleaner
+11562,986,26637758,Ekart,1,COD,Delhi,Delhi,Air Freshener
+11563,527,98970833,XpressBees,4,Prepaid,Bangalore,Karnataka,Hand Wash
+11564,1995,42234255,ShadowFax,3,Prepaid,Delhi,Delhi,Laundry Detergent
+11565,416,40824110,XpressBees,2,COD,Hyderabad,Telangana,Floor Cleaner
+11566,734,15827038,XpressBees,2,Prepaid,Pune,Maharashtra,Floor Cleaner
+11567,2025,60688217,Ekart,2,Prepaid,Bangalore,Karnataka,Storage Container
+11568,2156,65359411,Ekart,2,COD,Pune,Maharashtra,Shampoo
+11569,3244,53373175,XpressBees,1,Prepaid,Ahmedabad,Gujarat,Laundry Detergent
+11570,2370,15318009,ShadowFax,2,Prepaid,Chennai,Tamil Nadu,Dish Soap
+11571,1539,54616055,ShadowFax,3,Prepaid,Bangalore,Karnataka,Mop
+11572,652,78245185,XpressBees,1,COD,Delhi,Delhi,Floor Cleaner
+11573,815,93565880,Ekart,2,COD,Mumbai,Maharashtra,Dish Sponge
+11574,4011,42831653,XpressBees,3,Prepaid,Delhi,Delhi,Toilet Cleaner
+11575,1813,82686538,Ekart,3,Prepaid,Bangalore,Karnataka,Storage Container
+11576,3489,59651204,XpressBees,4,COD,Mumbai,Maharashtra,Laundry Detergent
+11577,1207,26777006,XpressBees,4,COD,Ahmedabad,Gujarat,Garbage Bags
+11578,4306,19710639,Ekart,3,COD,Ahmedabad,Gujarat,Broom
+11579,350,95935282,ShadowFax,4,Prepaid,Mumbai,Maharashtra,Hand Wash
+11580,2530,19993364,XpressBees,1,Prepaid,Delhi,Delhi,Toothpaste
+11581,2154,75597645,Ekart,1,COD,Ahmedabad,Gujarat,Bucket
+11582,558,16965384,Ekart,1,Prepaid,Pune,Maharashtra,Floor Cleaner
+11583,307,22471060,XpressBees,2,COD,Bangalore,Karnataka,Mop
+11584,999,60144429,Ekart,2,COD,Hyderabad,Telangana,Dish Sponge
+11585,3561,61682529,XpressBees,1,COD,Pune,Maharashtra,Hand Wash
+11586,3485,45251453,Ekart,1,Prepaid,Chennai,Tamil Nadu,Broom
+11587,121,88758005,Ekart,4,COD,Mumbai,Maharashtra,Curtains
+11588,509,73404867,ShadowFax,1,Prepaid,Chennai,Tamil Nadu,Toilet Cleaner
+11589,994,83435288,Ekart,4,Prepaid,Hyderabad,Telangana,Toilet Cleaner
+11590,614,16471079,Ekart,4,Prepaid,Ahmedabad,Gujarat,Dinner Plate Set
+11591,4209,69487391,XpressBees,3,Prepaid,Hyderabad,Telangana,Broom
+11592,2234,73708221,XpressBees,3,COD,Pune,Maharashtra,Soap Bar
+11593,3695,73232028,XpressBees,3,COD,Bangalore,Karnataka,Garbage Bags
+11594,3056,47754977,XpressBees,2,Prepaid,Delhi,Delhi,Mop
+11595,1660,46792497,XpressBees,2,COD,Chennai,Tamil Nadu,Curtains
+11596,1366,61096211,XpressBees,3,Prepaid,Chennai,Tamil Nadu,Curtains
+11597,2269,39101007,XpressBees,4,Prepaid,Kolkata,West Bengal,Curtains
+11598,3738,45329928,Ekart,4,COD,Ahmedabad,Gujarat,Hand Wash
+11599,849,32331733,Ekart,2,COD,Pune,Maharashtra,Broom
+11600,3527,45100961,XpressBees,1,Prepaid,Bangalore,Karnataka,Hand Wash
+11601,4880,26817134,ShadowFax,4,COD,Chennai,Tamil Nadu,Shampoo
+11602,2027,69613928,Ekart,4,COD,Bangalore,Karnataka,Mop
+11603,3904,74745640,XpressBees,1,Prepaid,Mumbai,Maharashtra,Storage Container
+11604,3802,20053699,XpressBees,2,Prepaid,Mumbai,Maharashtra,Air Freshener
+11605,2456,66733380,XpressBees,2,Prepaid,Kolkata,West Bengal,Water Bottle
+11606,4890,63427903,XpressBees,1,Prepaid,Delhi,Delhi,Garbage Bags
+11607,2435,57801675,Ekart,2,Prepaid,Pune,Maharashtra,Dinner Plate Set
+11608,406,57339104,Ekart,3,COD,Chennai,Tamil Nadu,Storage Container
+11609,3765,33895090,XpressBees,3,COD,Bangalore,Karnataka,Dish Sponge
+11610,2089,14381754,Ekart,4,Prepaid,Kolkata,West Bengal,Cushion Cover
+11611,761,76470846,XpressBees,2,Prepaid,Pune,Maharashtra,Cushion Cover
+11612,4744,18726142,ShadowFax,4,COD,Pune,Maharashtra,Toothpaste
+11613,411,59933483,Ekart,3,COD,Delhi,Delhi,Toothpaste
+11614,3020,73023581,ShadowFax,4,Prepaid,Pune,Maharashtra,Dish Soap
+11615,1182,71143724,XpressBees,4,Prepaid,Mumbai,Maharashtra,Mop
+11616,3071,68198195,XpressBees,4,Prepaid,Ahmedabad,Gujarat,Bucket
+11617,854,76825228,XpressBees,2,Prepaid,Hyderabad,Telangana,Water Bottle
+11618,4230,25553581,Ekart,4,COD,Pune,Maharashtra,Toothpaste
+11619,4640,39794211,ShadowFax,2,Prepaid,Chennai,Tamil Nadu,Garbage Bags
+11620,452,86196867,Ekart,4,COD,Hyderabad,Telangana,Toothpaste
+11621,1002,89510332,ShadowFax,3,Prepaid,Hyderabad,Telangana,Bucket
+11622,3988,26952512,XpressBees,4,Prepaid,Bangalore,Karnataka,Hand Wash
+11623,258,73347173,Ekart,4,COD,Delhi,Delhi,Toilet Cleaner
+11624,2077,86433115,Ekart,3,COD,Hyderabad,Telangana,Dish Soap
+11625,1056,21689048,XpressBees,4,COD,Hyderabad,Telangana,Dinner Plate Set
+11626,2171,78182999,XpressBees,4,COD,Chennai,Tamil Nadu,Garbage Bags
+11627,503,95798337,Ekart,1,COD,Ahmedabad,Gujarat,Garbage Bags
+11628,4711,36951446,XpressBees,3,Prepaid,Delhi,Delhi,Shampoo
+11629,2879,79361970,XpressBees,2,Prepaid,Bangalore,Karnataka,Shampoo
+11630,1487,68475857,XpressBees,4,COD,Kolkata,West Bengal,Dish Sponge
+11631,3553,56881975,Ekart,2,COD,Kolkata,West Bengal,Shampoo
+11632,1055,55309071,ShadowFax,3,Prepaid,Mumbai,Maharashtra,Floor Cleaner
+11633,1812,41689313,Ekart,1,COD,Kolkata,West Bengal,Air Freshener
+11634,4803,44622361,Ekart,3,Prepaid,Kolkata,West Bengal,Dish Sponge
+11635,1373,57972199,Ekart,3,COD,Ahmedabad,Gujarat,Laundry Detergent
+11636,3911,36845627,XpressBees,2,COD,Delhi,Delhi,Toothpaste
+11637,2725,70642797,XpressBees,3,COD,Ahmedabad,Gujarat,Hand Wash
+11638,2482,42454597,XpressBees,2,COD,Delhi,Delhi,Hand Wash
+11639,1541,23694251,ShadowFax,4,COD,Chennai,Tamil Nadu,Toothpaste
+11640,3079,18457224,XpressBees,3,COD,Bangalore,Karnataka,Hand Wash
+11641,1897,63947526,Ekart,2,Prepaid,Hyderabad,Telangana,Bucket
+11642,4490,69128350,XpressBees,4,COD,Delhi,Delhi,Mop
+11643,4109,42496544,XpressBees,2,COD,Bangalore,Karnataka,Mop
+11644,4950,94462917,XpressBees,2,COD,Mumbai,Maharashtra,Soap Bar
+11645,1494,21143884,XpressBees,2,COD,Delhi,Delhi,Garbage Bags
+11646,4381,39312328,Ekart,4,COD,Delhi,Delhi,Hand Wash
+11647,1369,58093209,Ekart,2,COD,Pune,Maharashtra,Air Freshener
+11648,4832,34013874,XpressBees,4,COD,Pune,Maharashtra,Floor Cleaner
+11649,3814,49528637,XpressBees,2,COD,Chennai,Tamil Nadu,Dish Soap
+11650,629,76147716,ShadowFax,2,Prepaid,Hyderabad,Telangana,Dish Soap
+11651,3723,56228910,Ekart,4,Prepaid,Pune,Maharashtra,Shampoo
+11652,3058,84903250,XpressBees,2,COD,Chennai,Tamil Nadu,Floor Cleaner
+11653,3014,90267666,ShadowFax,1,COD,Delhi,Delhi,Shampoo
+11654,4989,50318787,Ekart,1,COD,Bangalore,Karnataka,Bucket
+11655,3691,29826530,Ekart,4,Prepaid,Bangalore,Karnataka,Curtains
+11656,2247,87136036,ShadowFax,3,COD,Bangalore,Karnataka,Electric Kettle
+11657,4673,89662283,ShadowFax,1,COD,Bangalore,Karnataka,Dish Soap
+11658,3469,49214015,ShadowFax,3,Prepaid,Kolkata,West Bengal,Curtains
+11659,1039,90340455,Ekart,4,Prepaid,Mumbai,Maharashtra,Hand Wash
+11660,625,63035348,XpressBees,2,Prepaid,Ahmedabad,Gujarat,Water Bottle
+11661,101,72747830,XpressBees,4,COD,Kolkata,West Bengal,Toilet Cleaner
+11662,474,65545468,XpressBees,2,Prepaid,Mumbai,Maharashtra,Shampoo
+11663,2440,97336275,XpressBees,1,Prepaid,Chennai,Tamil Nadu,Toilet Cleaner
+11664,4105,96610041,Ekart,4,Prepaid,Ahmedabad,Gujarat,Mop
+11665,3152,42544945,ShadowFax,1,COD,Hyderabad,Telangana,Soap Bar
+11666,4748,77620757,Ekart,1,Prepaid,Hyderabad,Telangana,Storage Container
+11667,2465,24263595,ShadowFax,4,Prepaid,Bangalore,Karnataka,Laundry Detergent
+11668,1625,54004676,XpressBees,2,COD,Hyderabad,Telangana,Hand Wash
+11669,4576,99058951,ShadowFax,1,COD,Hyderabad,Telangana,Dinner Plate Set
+11670,1746,25612679,ShadowFax,1,Prepaid,Kolkata,West Bengal,Mop
+11671,113,33772122,Ekart,1,Prepaid,Pune,Maharashtra,Soap Bar
+11672,4699,85287015,ShadowFax,2,Prepaid,Bangalore,Karnataka,Garbage Bags
+11673,2378,88726865,Ekart,2,COD,Bangalore,Karnataka,Toothpaste
+11674,3255,52403961,ShadowFax,3,Prepaid,Bangalore,Karnataka,Floor Cleaner
+11675,229,61594099,XpressBees,3,COD,Delhi,Delhi,Floor Cleaner
+11676,3914,91523081,Ekart,1,COD,Delhi,Delhi,Laundry Detergent
+11677,3316,95111975,ShadowFax,2,Prepaid,Pune,Maharashtra,Curtains
+11678,3038,51828324,Ekart,1,Prepaid,Delhi,Delhi,Storage Container
+11679,4028,64909884,Ekart,2,COD,Hyderabad,Telangana,Broom
+11680,2140,39758122,ShadowFax,1,COD,Pune,Maharashtra,Toilet Cleaner
+11681,127,78291047,XpressBees,2,COD,Delhi,Delhi,Garbage Bags
+11682,2213,42925106,XpressBees,3,Prepaid,Kolkata,West Bengal,Floor Cleaner
+11683,1352,98519766,XpressBees,2,COD,Ahmedabad,Gujarat,Dinner Plate Set
+11684,4456,39229686,Ekart,3,Prepaid,Hyderabad,Telangana,Bucket
+11685,2146,10955282,XpressBees,3,COD,Kolkata,West Bengal,Laundry Detergent
+11686,4655,66374294,XpressBees,1,Prepaid,Pune,Maharashtra,Storage Container
+11687,4123,89186749,ShadowFax,4,Prepaid,Bangalore,Karnataka,Cushion Cover
+11688,4496,59054120,XpressBees,2,Prepaid,Kolkata,West Bengal,Laundry Detergent
+11689,3474,60366718,ShadowFax,3,Prepaid,Hyderabad,Telangana,Dish Sponge
+11690,3566,70974987,ShadowFax,4,COD,Chennai,Tamil Nadu,Mop
+11691,3181,77172067,Ekart,3,COD,Mumbai,Maharashtra,Water Bottle
+11692,3878,32318091,Ekart,3,Prepaid,Hyderabad,Telangana,Laundry Detergent
+11693,729,54803482,ShadowFax,4,Prepaid,Ahmedabad,Gujarat,Toilet Cleaner
+11694,369,16212623,XpressBees,4,Prepaid,Pune,Maharashtra,Toilet Cleaner
+11695,2739,60334708,Ekart,4,Prepaid,Chennai,Tamil Nadu,Dinner Plate Set
+11696,2093,18947083,Ekart,3,COD,Mumbai,Maharashtra,Electric Kettle
+11697,2991,69738548,Ekart,2,Prepaid,Kolkata,West Bengal,Toothpaste
+11698,3532,79841166,XpressBees,1,COD,Ahmedabad,Gujarat,Curtains
+11699,1380,92432000,XpressBees,4,COD,Delhi,Delhi,Bucket
+11700,2460,65997211,ShadowFax,2,COD,Pune,Maharashtra,Water Bottle
+11701,675,60150751,Ekart,2,COD,Bangalore,Karnataka,Mop
+11702,1407,83414731,Ekart,1,COD,Bangalore,Karnataka,Storage Container
+11703,3292,60215611,ShadowFax,1,COD,Chennai,Tamil Nadu,Air Freshener
+11704,3278,17734405,ShadowFax,3,Prepaid,Ahmedabad,Gujarat,Toilet Cleaner
+11705,2834,60172606,ShadowFax,2,COD,Delhi,Delhi,Storage Container
+11706,2312,88771422,Ekart,2,COD,Mumbai,Maharashtra,Water Bottle
+11707,2452,39631482,XpressBees,1,Prepaid,Hyderabad,Telangana,Broom
+11708,3668,83123961,XpressBees,1,Prepaid,Hyderabad,Telangana,Floor Cleaner
+11709,1755,10590344,Ekart,4,COD,Mumbai,Maharashtra,Bucket
+11710,1679,41477043,XpressBees,2,COD,Bangalore,Karnataka,Bucket
+11711,2303,17080408,XpressBees,3,COD,Pune,Maharashtra,Curtains
+11712,1490,71017909,ShadowFax,2,COD,Delhi,Delhi,Toothpaste
+11713,1842,69020366,Ekart,1,COD,Ahmedabad,Gujarat,Water Bottle
+11714,2025,64634147,XpressBees,4,Prepaid,Bangalore,Karnataka,Dish Soap
+11715,719,11742233,Ekart,4,Prepaid,Ahmedabad,Gujarat,Dinner Plate Set
+11716,1374,78586480,ShadowFax,1,COD,Chennai,Tamil Nadu,Cushion Cover
+11717,1056,98721064,XpressBees,3,COD,Mumbai,Maharashtra,Dinner Plate Set
+11718,2039,97991060,XpressBees,4,Prepaid,Pune,Maharashtra,Curtains
+11719,4053,33658100,Ekart,4,Prepaid,Hyderabad,Telangana,Dish Sponge
+11720,2481,97239557,ShadowFax,3,Prepaid,Hyderabad,Telangana,Toothpaste
+11721,1068,69833482,Ekart,1,COD,Delhi,Delhi,Toothpaste
+11722,1416,23501854,ShadowFax,3,COD,Hyderabad,Telangana,Shampoo
+11723,1143,45338167,ShadowFax,1,COD,Bangalore,Karnataka,Bucket
+11724,381,41346250,XpressBees,2,COD,Hyderabad,Telangana,Bucket
+11725,2944,47196594,XpressBees,3,COD,Mumbai,Maharashtra,Air Freshener
+11726,1158,59825388,ShadowFax,4,COD,Ahmedabad,Gujarat,Dinner Plate Set
+11727,4393,55851271,Ekart,3,COD,Chennai,Tamil Nadu,Electric Kettle
+11728,2632,69170898,XpressBees,3,Prepaid,Delhi,Delhi,Toothpaste
+11729,3928,31129965,Ekart,2,Prepaid,Kolkata,West Bengal,Storage Container
+11730,1108,50155108,XpressBees,3,COD,Ahmedabad,Gujarat,Air Freshener
+11731,1329,32639786,ShadowFax,3,Prepaid,Ahmedabad,Gujarat,Storage Container
+11732,1135,73605620,XpressBees,2,Prepaid,Delhi,Delhi,Bucket
+11733,4685,77840558,XpressBees,4,COD,Ahmedabad,Gujarat,Garbage Bags
+11734,375,26018703,XpressBees,2,Prepaid,Mumbai,Maharashtra,Shampoo
+11735,2840,44007776,XpressBees,1,Prepaid,Hyderabad,Telangana,Dish Soap
+11736,2389,52943650,XpressBees,1,Prepaid,Delhi,Delhi,Dinner Plate Set
+11737,1339,42998153,XpressBees,3,Prepaid,Pune,Maharashtra,Dish Soap
+11738,225,99794787,XpressBees,2,Prepaid,Mumbai,Maharashtra,Floor Cleaner
+11739,4165,58306518,ShadowFax,4,Prepaid,Delhi,Delhi,Dish Sponge
+11740,4412,23812534,Ekart,2,Prepaid,Bangalore,Karnataka,Shampoo
+11741,3968,11083516,XpressBees,4,Prepaid,Pune,Maharashtra,Electric Kettle
+11742,1308,43613059,XpressBees,2,COD,Chennai,Tamil Nadu,Air Freshener
+11743,3349,67149906,Ekart,3,COD,Delhi,Delhi,Soap Bar
+11744,1018,44615081,ShadowFax,3,COD,Pune,Maharashtra,Garbage Bags
+11745,4023,55763049,XpressBees,2,Prepaid,Pune,Maharashtra,Water Bottle
+11746,4503,24939917,Ekart,2,COD,Pune,Maharashtra,Toilet Cleaner
+11747,2069,59891893,ShadowFax,2,Prepaid,Bangalore,Karnataka,Toilet Cleaner
+11748,2893,97821165,Ekart,4,COD,Bangalore,Karnataka,Dish Soap
+11749,991,79407697,XpressBees,1,Prepaid,Hyderabad,Telangana,Water Bottle
+11750,4570,29035977,Ekart,4,COD,Delhi,Delhi,Mop
+11751,2133,63624866,Ekart,4,Prepaid,Kolkata,West Bengal,Toothpaste
+11752,1464,49133622,Ekart,3,COD,Ahmedabad,Gujarat,Garbage Bags
+11753,228,90649368,XpressBees,3,Prepaid,Pune,Maharashtra,Garbage Bags
+11754,1114,84615655,Ekart,4,Prepaid,Kolkata,West Bengal,Garbage Bags
+11755,1899,70993902,Ekart,1,Prepaid,Bangalore,Karnataka,Bucket
+11756,4712,66734061,Ekart,4,Prepaid,Pune,Maharashtra,Electric Kettle
+11757,1618,68662670,XpressBees,3,COD,Kolkata,West Bengal,Air Freshener
+11758,4281,62422495,Ekart,4,COD,Hyderabad,Telangana,Laundry Detergent
+11759,1298,81514681,XpressBees,3,Prepaid,Hyderabad,Telangana,Laundry Detergent
+11760,3973,62223968,Ekart,2,COD,Mumbai,Maharashtra,Dinner Plate Set
+11761,2574,13537818,ShadowFax,4,COD,Chennai,Tamil Nadu,Toothpaste
+11762,3585,72606381,XpressBees,4,Prepaid,Chennai,Tamil Nadu,Water Bottle
+11763,4149,94239592,Ekart,1,COD,Kolkata,West Bengal,Mop
+11764,3819,90262238,Ekart,3,Prepaid,Chennai,Tamil Nadu,Garbage Bags
+11765,402,65754598,XpressBees,3,COD,Ahmedabad,Gujarat,Dish Sponge
+11766,4052,13277294,XpressBees,4,COD,Mumbai,Maharashtra,Broom
+11767,4783,29374649,XpressBees,3,COD,Chennai,Tamil Nadu,Garbage Bags
+11768,1086,23260611,ShadowFax,4,Prepaid,Hyderabad,Telangana,Storage Container
+11769,1963,46884209,XpressBees,1,Prepaid,Hyderabad,Telangana,Air Freshener
+11770,4540,45403183,XpressBees,3,COD,Ahmedabad,Gujarat,Soap Bar
+11771,3172,55454866,XpressBees,3,Prepaid,Hyderabad,Telangana,Laundry Detergent
+11772,3224,77388647,Ekart,4,COD,Mumbai,Maharashtra,Shampoo
+11773,1427,68596751,ShadowFax,3,Prepaid,Ahmedabad,Gujarat,Broom
+11774,2508,53526578,Ekart,3,COD,Pune,Maharashtra,Hand Wash
+11775,3773,71335276,Ekart,2,COD,Ahmedabad,Gujarat,Storage Container
+11776,3391,49781135,ShadowFax,1,Prepaid,Mumbai,Maharashtra,Shampoo
+11777,4133,96105799,XpressBees,4,Prepaid,Ahmedabad,Gujarat,Electric Kettle
+11778,803,85473512,Ekart,3,Prepaid,Chennai,Tamil Nadu,Shampoo
+11779,674,24199462,XpressBees,3,Prepaid,Pune,Maharashtra,Hand Wash
+11780,3332,63836612,XpressBees,4,COD,Bangalore,Karnataka,Dish Soap
+11781,4883,47013725,ShadowFax,3,COD,Delhi,Delhi,Bucket
+11782,2732,20913799,XpressBees,1,Prepaid,Chennai,Tamil Nadu,Toilet Cleaner
+11783,3928,86854364,XpressBees,1,Prepaid,Chennai,Tamil Nadu,Laundry Detergent
+11784,3330,70035586,XpressBees,3,Prepaid,Bangalore,Karnataka,Dinner Plate Set
+11785,588,19165747,ShadowFax,4,Prepaid,Hyderabad,Telangana,Soap Bar
+11786,1447,84317594,ShadowFax,4,Prepaid,Bangalore,Karnataka,Garbage Bags
+11787,3781,25983410,XpressBees,1,COD,Bangalore,Karnataka,Cushion Cover
+11788,3273,29811111,XpressBees,4,COD,Delhi,Delhi,Dish Soap
+11789,4689,13352306,XpressBees,1,Prepaid,Mumbai,Maharashtra,Soap Bar
+11790,1767,88269189,Ekart,1,Prepaid,Mumbai,Maharashtra,Mop
+11791,1737,90513638,ShadowFax,4,Prepaid,Hyderabad,Telangana,Dinner Plate Set
+11792,4214,56534317,Ekart,4,COD,Pune,Maharashtra,Curtains
+11793,3653,40463354,Ekart,2,COD,Kolkata,West Bengal,Floor Cleaner
+11794,1100,46817018,XpressBees,4,Prepaid,Kolkata,West Bengal,Toothpaste
+11795,950,60552627,Ekart,1,COD,Hyderabad,Telangana,Storage Container
+11796,1488,16950871,Ekart,4,Prepaid,Chennai,Tamil Nadu,Garbage Bags
+11797,3812,49023646,Ekart,4,Prepaid,Bangalore,Karnataka,Air Freshener
+11798,1467,91666946,XpressBees,3,Prepaid,Hyderabad,Telangana,Garbage Bags
+11799,921,35069999,ShadowFax,4,COD,Mumbai,Maharashtra,Garbage Bags
+11800,554,14727522,XpressBees,3,COD,Mumbai,Maharashtra,Garbage Bags
+11801,1724,50172026,Ekart,2,Prepaid,Chennai,Tamil Nadu,Air Freshener
+11802,2872,61227321,ShadowFax,2,COD,Chennai,Tamil Nadu,Garbage Bags
+11803,3826,24914798,ShadowFax,3,COD,Mumbai,Maharashtra,Broom
+11804,3247,66206889,XpressBees,2,COD,Chennai,Tamil Nadu,Storage Container
+11805,4189,44056360,Ekart,1,Prepaid,Hyderabad,Telangana,Broom
+11806,4906,68790137,ShadowFax,1,COD,Delhi,Delhi,Dish Soap
+11807,2290,52122649,XpressBees,4,Prepaid,Chennai,Tamil Nadu,Toilet Cleaner
+11808,1016,89983243,ShadowFax,2,Prepaid,Mumbai,Maharashtra,Electric Kettle
+11809,4086,48472443,ShadowFax,4,Prepaid,Mumbai,Maharashtra,Dish Sponge
+11810,2975,95151451,Ekart,2,COD,Bangalore,Karnataka,Electric Kettle
+11811,1540,20803858,ShadowFax,2,COD,Delhi,Delhi,Electric Kettle
+11812,4500,37693512,Ekart,2,Prepaid,Hyderabad,Telangana,Toothpaste
+11813,835,92899235,XpressBees,2,COD,Delhi,Delhi,Soap Bar
+11814,3668,11561631,XpressBees,4,COD,Kolkata,West Bengal,Toilet Cleaner
+11815,3438,30706498,ShadowFax,4,Prepaid,Bangalore,Karnataka,Hand Wash
+11816,3115,52133480,XpressBees,4,COD,Chennai,Tamil Nadu,Electric Kettle
+11817,2989,87108305,XpressBees,1,COD,Mumbai,Maharashtra,Dish Sponge
+11818,1061,58290473,Ekart,2,Prepaid,Mumbai,Maharashtra,Water Bottle
+11819,3089,52366258,Ekart,3,COD,Pune,Maharashtra,Shampoo
+11820,3948,71658328,Ekart,4,COD,Chennai,Tamil Nadu,Mop
+11821,1126,77849105,XpressBees,3,COD,Delhi,Delhi,Garbage Bags
+11822,3965,46962758,ShadowFax,3,Prepaid,Ahmedabad,Gujarat,Toilet Cleaner
+11823,2963,99242901,XpressBees,1,COD,Hyderabad,Telangana,Dinner Plate Set
+11824,2601,68491095,ShadowFax,1,COD,Mumbai,Maharashtra,Storage Container
+11825,2047,59744794,Ekart,2,Prepaid,Delhi,Delhi,Electric Kettle
+11826,1277,81353729,XpressBees,2,Prepaid,Chennai,Tamil Nadu,Curtains
+11827,4860,97285564,XpressBees,2,Prepaid,Ahmedabad,Gujarat,Toilet Cleaner
+11828,111,48929098,Ekart,2,Prepaid,Hyderabad,Telangana,Garbage Bags
+11829,4499,86758265,XpressBees,2,COD,Pune,Maharashtra,Broom
+11830,3464,10779673,XpressBees,2,COD,Pune,Maharashtra,Dinner Plate Set
+11831,3122,74982406,Ekart,1,COD,Delhi,Delhi,Dish Soap
+11832,3471,81821522,Ekart,3,COD,Bangalore,Karnataka,Dinner Plate Set
+11833,2930,51877842,Ekart,1,COD,Delhi,Delhi,Electric Kettle
+11834,142,47497545,Ekart,3,COD,Kolkata,West Bengal,Dish Soap
+11835,1043,33500014,XpressBees,2,Prepaid,Bangalore,Karnataka,Mop
+11836,2490,24674580,XpressBees,2,Prepaid,Mumbai,Maharashtra,Cushion Cover
+11837,2645,89184784,Ekart,2,Prepaid,Chennai,Tamil Nadu,Floor Cleaner
+11838,2511,90458409,Ekart,4,COD,Pune,Maharashtra,Air Freshener
+11839,1104,28181035,Ekart,1,Prepaid,Delhi,Delhi,Shampoo
+11840,120,66568746,XpressBees,3,COD,Bangalore,Karnataka,Water Bottle
+11841,506,87552882,Ekart,1,Prepaid,Pune,Maharashtra,Water Bottle
+11842,1114,58739165,XpressBees,1,Prepaid,Mumbai,Maharashtra,Toothpaste
+11843,4531,76149809,Ekart,1,Prepaid,Bangalore,Karnataka,Dinner Plate Set
+11844,1938,28869283,XpressBees,3,Prepaid,Bangalore,Karnataka,Curtains
+11845,3288,76558144,ShadowFax,4,Prepaid,Bangalore,Karnataka,Hand Wash
+11846,814,65669328,XpressBees,1,COD,Ahmedabad,Gujarat,Cushion Cover
+11847,4246,22364272,XpressBees,1,Prepaid,Kolkata,West Bengal,Bucket
+11848,3954,72086323,XpressBees,3,COD,Hyderabad,Telangana,Toilet Cleaner
+11849,4519,65055381,ShadowFax,1,Prepaid,Hyderabad,Telangana,Water Bottle
+11850,4984,96819802,XpressBees,4,COD,Hyderabad,Telangana,Water Bottle
+11851,240,97890048,XpressBees,1,COD,Bangalore,Karnataka,Floor Cleaner
+11852,4665,71809795,XpressBees,4,COD,Mumbai,Maharashtra,Shampoo
+11853,4982,64820520,XpressBees,1,COD,Kolkata,West Bengal,Dish Soap
+11854,1063,78500613,Ekart,1,Prepaid,Bangalore,Karnataka,Toothpaste
+11855,472,49004699,XpressBees,2,COD,Pune,Maharashtra,Air Freshener
+11856,3735,83040331,XpressBees,2,COD,Hyderabad,Telangana,Electric Kettle
+11857,2641,51031532,Ekart,2,Prepaid,Mumbai,Maharashtra,Curtains
+11858,3710,41557619,Ekart,2,COD,Delhi,Delhi,Dish Sponge
+11859,1792,26815097,Ekart,1,COD,Mumbai,Maharashtra,Floor Cleaner
+11860,205,36204394,XpressBees,3,Prepaid,Hyderabad,Telangana,Bucket
+11861,1781,94563979,Ekart,1,Prepaid,Bangalore,Karnataka,Floor Cleaner
+11862,4197,79052521,XpressBees,3,COD,Chennai,Tamil Nadu,Toilet Cleaner
+11863,4116,45140783,XpressBees,4,Prepaid,Kolkata,West Bengal,Hand Wash
+11864,2736,38220601,Ekart,3,COD,Kolkata,West Bengal,Electric Kettle
+11865,2237,93975980,Ekart,4,COD,Bangalore,Karnataka,Water Bottle
+11866,3516,46393248,Ekart,2,Prepaid,Kolkata,West Bengal,Soap Bar
+11867,4545,36505320,XpressBees,4,COD,Hyderabad,Telangana,Laundry Detergent
+11868,3630,88710008,XpressBees,1,Prepaid,Hyderabad,Telangana,Storage Container
+11869,1386,78494385,XpressBees,3,Prepaid,Delhi,Delhi,Broom
+11870,3279,38243295,XpressBees,2,COD,Hyderabad,Telangana,Broom
+11871,3754,63221376,Ekart,4,COD,Chennai,Tamil Nadu,Dish Soap
+11872,2459,13815967,XpressBees,4,COD,Hyderabad,Telangana,Bucket
+11873,544,92004881,XpressBees,4,Prepaid,Kolkata,West Bengal,Storage Container
+11874,135,87065605,XpressBees,1,COD,Hyderabad,Telangana,Toilet Cleaner
+11875,1575,93535883,Ekart,4,COD,Mumbai,Maharashtra,Water Bottle
+11876,4057,18748705,XpressBees,4,Prepaid,Kolkata,West Bengal,Mop
+11877,1898,98604579,Ekart,1,COD,Delhi,Delhi,Broom
+11878,1945,77088575,Ekart,3,Prepaid,Pune,Maharashtra,Water Bottle
+11879,1508,29068993,XpressBees,3,COD,Hyderabad,Telangana,Laundry Detergent
+11880,1808,96810003,Ekart,1,Prepaid,Chennai,Tamil Nadu,Broom
+11881,3038,31360311,ShadowFax,4,Prepaid,Chennai,Tamil Nadu,Curtains
+11882,1400,46959782,XpressBees,3,COD,Ahmedabad,Gujarat,Soap Bar
+11883,1343,89970614,ShadowFax,3,Prepaid,Bangalore,Karnataka,Bucket
+11884,4076,18924735,Ekart,3,Prepaid,Ahmedabad,Gujarat,Air Freshener
+11885,3197,50088450,XpressBees,2,COD,Bangalore,Karnataka,Toothpaste
+11886,4716,72449753,XpressBees,1,Prepaid,Ahmedabad,Gujarat,Mop
+11887,109,39359016,XpressBees,2,Prepaid,Mumbai,Maharashtra,Dish Sponge
+11888,2525,70288817,Ekart,4,COD,Mumbai,Maharashtra,Toothpaste
+11889,1760,67341570,XpressBees,4,Prepaid,Ahmedabad,Gujarat,Toilet Cleaner
+11890,2731,99858971,XpressBees,3,Prepaid,Ahmedabad,Gujarat,Bucket
+11891,4915,34722632,ShadowFax,4,Prepaid,Chennai,Tamil Nadu,Air Freshener
+11892,1172,76277253,XpressBees,1,COD,Kolkata,West Bengal,Water Bottle
+11893,3325,31267716,XpressBees,3,Prepaid,Kolkata,West Bengal,Toilet Cleaner
+11894,1416,74101576,Ekart,2,Prepaid,Bangalore,Karnataka,Water Bottle
+11895,4245,67584566,XpressBees,1,Prepaid,Pune,Maharashtra,Air Freshener
+11896,3783,98784365,Ekart,2,Prepaid,Chennai,Tamil Nadu,Cushion Cover
+11897,3373,57788385,ShadowFax,3,COD,Bangalore,Karnataka,Soap Bar
+11898,245,42497627,XpressBees,4,Prepaid,Hyderabad,Telangana,Broom
+11899,3140,43421849,ShadowFax,4,COD,Mumbai,Maharashtra,Hand Wash
+11900,1562,78679992,Ekart,3,Prepaid,Mumbai,Maharashtra,Floor Cleaner
+11901,4776,49217146,XpressBees,1,Prepaid,Ahmedabad,Gujarat,Floor Cleaner
+11902,1684,27818048,Ekart,1,Prepaid,Bangalore,Karnataka,Dish Soap
+11903,582,59851340,Ekart,4,Prepaid,Kolkata,West Bengal,Toilet Cleaner
+11904,3279,11500084,Ekart,3,COD,Chennai,Tamil Nadu,Dish Soap
+11905,1349,22068372,ShadowFax,3,Prepaid,Chennai,Tamil Nadu,Broom
+11906,4868,79035603,Ekart,1,Prepaid,Pune,Maharashtra,Air Freshener
+11907,730,44094723,XpressBees,2,COD,Bangalore,Karnataka,Curtains
+11908,761,12244703,XpressBees,4,Prepaid,Ahmedabad,Gujarat,Air Freshener
+11909,3603,37794074,Ekart,1,COD,Mumbai,Maharashtra,Laundry Detergent
+11910,2952,88226758,ShadowFax,4,COD,Delhi,Delhi,Shampoo
+11911,2566,24673324,XpressBees,3,Prepaid,Chennai,Tamil Nadu,Soap Bar
+11912,1087,15595478,Ekart,4,COD,Bangalore,Karnataka,Toilet Cleaner
+11913,1646,85420792,Ekart,3,COD,Ahmedabad,Gujarat,Laundry Detergent
+11914,749,37782292,XpressBees,1,COD,Ahmedabad,Gujarat,Electric Kettle
+11915,1068,53066848,XpressBees,4,COD,Mumbai,Maharashtra,Electric Kettle
+11916,2737,26698650,Ekart,2,COD,Kolkata,West Bengal,Curtains
+11917,1200,75072845,XpressBees,4,COD,Delhi,Delhi,Laundry Detergent
+11918,540,43305127,XpressBees,2,COD,Delhi,Delhi,Curtains
+11919,869,46162549,ShadowFax,4,Prepaid,Chennai,Tamil Nadu,Mop
+11920,1443,69694825,Ekart,4,COD,Kolkata,West Bengal,Garbage Bags
+11921,4458,79044487,XpressBees,4,COD,Bangalore,Karnataka,Dinner Plate Set
+11922,3829,87071298,XpressBees,2,Prepaid,Kolkata,West Bengal,Broom
+11923,4006,46176034,Ekart,4,Prepaid,Kolkata,West Bengal,Water Bottle
+11924,1677,61249482,ShadowFax,1,Prepaid,Hyderabad,Telangana,Floor Cleaner
+11925,4108,73668195,XpressBees,2,Prepaid,Ahmedabad,Gujarat,Toilet Cleaner
+11926,3451,77675891,XpressBees,3,COD,Ahmedabad,Gujarat,Laundry Detergent
+11927,4895,82319983,XpressBees,2,COD,Ahmedabad,Gujarat,Toilet Cleaner
+11928,2449,32207594,XpressBees,3,Prepaid,Pune,Maharashtra,Mop
+11929,3702,34291443,XpressBees,1,Prepaid,Bangalore,Karnataka,Water Bottle
+11930,1341,36144609,XpressBees,3,COD,Bangalore,Karnataka,Water Bottle
+11931,1225,39895254,Ekart,2,COD,Chennai,Tamil Nadu,Hand Wash
+11932,2701,51127325,Ekart,2,COD,Kolkata,West Bengal,Electric Kettle
+11933,1290,61258276,XpressBees,2,Prepaid,Hyderabad,Telangana,Shampoo
+11934,4231,73398543,Ekart,4,Prepaid,Kolkata,West Bengal,Broom
+11935,4939,82144141,ShadowFax,3,COD,Delhi,Delhi,Dinner Plate Set
+11936,4548,76751942,ShadowFax,4,COD,Hyderabad,Telangana,Mop
+11937,172,99985652,XpressBees,4,COD,Pune,Maharashtra,Toothpaste
+11938,2014,27868543,Ekart,3,Prepaid,Ahmedabad,Gujarat,Air Freshener
+11939,2572,79249025,ShadowFax,1,Prepaid,Bangalore,Karnataka,Cushion Cover
+11940,3146,41869101,Ekart,4,Prepaid,Pune,Maharashtra,Cushion Cover
+11941,807,81108612,Ekart,2,Prepaid,Mumbai,Maharashtra,Toothpaste
+11942,1904,60913836,Ekart,3,COD,Hyderabad,Telangana,Broom
+11943,3813,42530235,XpressBees,4,Prepaid,Delhi,Delhi,Shampoo
+11944,2664,15038459,Ekart,1,COD,Bangalore,Karnataka,Storage Container
+11945,2575,21985449,ShadowFax,2,Prepaid,Bangalore,Karnataka,Hand Wash
+11946,3710,25747457,Ekart,4,Prepaid,Bangalore,Karnataka,Storage Container
+11947,4355,17250391,Ekart,1,COD,Hyderabad,Telangana,Hand Wash
+11948,2923,21936348,XpressBees,4,COD,Chennai,Tamil Nadu,Bucket
+11949,1835,80861524,Ekart,3,Prepaid,Mumbai,Maharashtra,Bucket
+11950,1685,69981976,Ekart,1,COD,Delhi,Delhi,Hand Wash
+11951,166,94767058,Ekart,1,COD,Chennai,Tamil Nadu,Floor Cleaner
+11952,3161,89924413,ShadowFax,1,COD,Ahmedabad,Gujarat,Cushion Cover
+11953,2528,33183227,Ekart,4,COD,Delhi,Delhi,Curtains
+11954,4253,63783180,Ekart,3,COD,Bangalore,Karnataka,Dish Soap
+11955,441,26955581,XpressBees,4,Prepaid,Kolkata,West Bengal,Air Freshener
+11956,2874,57464357,ShadowFax,1,COD,Mumbai,Maharashtra,Soap Bar
+11957,2917,64797695,Ekart,1,COD,Pune,Maharashtra,Bucket
+11958,2761,87270200,XpressBees,2,COD,Chennai,Tamil Nadu,Water Bottle
+11959,1332,64094112,ShadowFax,4,COD,Mumbai,Maharashtra,Cushion Cover
+11960,3974,36084606,ShadowFax,4,COD,Delhi,Delhi,Broom
+11961,2501,67879072,XpressBees,4,Prepaid,Hyderabad,Telangana,Toothpaste
+11962,1594,64520685,XpressBees,4,COD,Pune,Maharashtra,Garbage Bags
+11963,4311,64973142,ShadowFax,4,Prepaid,Hyderabad,Telangana,Mop
+11964,761,64479098,ShadowFax,1,Prepaid,Bangalore,Karnataka,Storage Container
+11965,3983,77332416,Ekart,3,Prepaid,Delhi,Delhi,Garbage Bags
+11966,3719,88994500,Ekart,2,COD,Ahmedabad,Gujarat,Dish Sponge
+11967,1968,84297784,XpressBees,1,Prepaid,Mumbai,Maharashtra,Garbage Bags
+11968,2434,84177988,Ekart,2,COD,Pune,Maharashtra,Mop
+11969,3474,58920204,XpressBees,1,Prepaid,Ahmedabad,Gujarat,Cushion Cover
+11970,1116,12213558,Ekart,4,Prepaid,Chennai,Tamil Nadu,Storage Container
+11971,4506,47907305,XpressBees,3,Prepaid,Delhi,Delhi,Shampoo
+11972,307,47972506,XpressBees,2,Prepaid,Delhi,Delhi,Dish Sponge
+11973,2765,11036887,ShadowFax,4,Prepaid,Mumbai,Maharashtra,Soap Bar
+11974,2593,50133950,Ekart,1,Prepaid,Bangalore,Karnataka,Water Bottle
+11975,732,13918203,XpressBees,4,COD,Hyderabad,Telangana,Electric Kettle
+11976,2202,87952085,Ekart,3,Prepaid,Kolkata,West Bengal,Bucket
+11977,3059,14754116,Ekart,2,Prepaid,Pune,Maharashtra,Dinner Plate Set
+11978,3183,95918250,Ekart,1,COD,Kolkata,West Bengal,Electric Kettle
+11979,4852,38992475,Ekart,1,COD,Ahmedabad,Gujarat,Shampoo
+11980,2031,15165180,XpressBees,4,COD,Chennai,Tamil Nadu,Water Bottle
+11981,3819,79850351,Ekart,1,Prepaid,Ahmedabad,Gujarat,Mop
+11982,2662,12371692,ShadowFax,4,COD,Ahmedabad,Gujarat,Hand Wash
+11983,1779,52766607,XpressBees,4,Prepaid,Mumbai,Maharashtra,Dish Soap
+11984,336,67295844,Ekart,1,COD,Hyderabad,Telangana,Dish Sponge
+11985,4543,74697998,Ekart,2,COD,Bangalore,Karnataka,Shampoo
+11986,4825,12802751,XpressBees,1,Prepaid,Bangalore,Karnataka,Broom
+11987,1640,17678905,Ekart,2,COD,Kolkata,West Bengal,Dinner Plate Set
+11988,4043,39505786,Ekart,2,COD,Mumbai,Maharashtra,Shampoo
+11989,463,27173071,ShadowFax,4,Prepaid,Pune,Maharashtra,Broom
+11990,2468,60830648,XpressBees,1,COD,Mumbai,Maharashtra,Cushion Cover
+11991,385,98370579,XpressBees,4,Prepaid,Bangalore,Karnataka,Garbage Bags
+11992,248,80208742,Ekart,4,COD,Ahmedabad,Gujarat,Floor Cleaner
+11993,4137,97286652,Ekart,2,COD,Mumbai,Maharashtra,Garbage Bags
+11994,4651,20042911,XpressBees,2,Prepaid,Pune,Maharashtra,Floor Cleaner
+11995,1866,29836804,XpressBees,4,COD,Bangalore,Karnataka,Curtains
+11996,4995,78353919,XpressBees,3,COD,Pune,Maharashtra,Storage Container
+11997,1112,98958739,Ekart,1,COD,Mumbai,Maharashtra,Bucket
+11998,2931,47408823,ShadowFax,1,COD,Chennai,Tamil Nadu,Soap Bar
+11999,2607,21791450,ShadowFax,1,Prepaid,Delhi,Delhi,Storage Container
